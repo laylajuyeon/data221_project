@@ -1,0 +1,13 @@
+variable,missing_count,total_rows,missing_pct
+access_to_electricity_pct,0,110,0.0
+energy_use_per_capita_kg_oil_eq,0,110,0.0
+fertilizer_consumption_kg_per_ha,0,110,0.0
+forest_area_pct_land,0,110,0.0
+fossil_fuel_energy_pct,3,110,2.7
+gdp_per_capita_current_usd,0,110,0.0
+industry_value_added_pct_gdp,0,110,0.0
+life_expectancy_years,0,110,0.0
+pm25_mean_exposure,0,110,0.0
+renewable_energy_pct_total_final,0,110,0.0
+school_enrollment_secondary_gross_pct,19,110,17.3
+urban_population_pct,0,110,0.0

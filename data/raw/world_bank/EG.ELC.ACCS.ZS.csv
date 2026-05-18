@@ -1,0 +1,111 @@
+country_code,country_name,year,indicator_code,indicator_name,short_name,category,value
+CHN,China,2010,EG.ELC.ACCS.ZS,Access to electricity (% of population),access_to_electricity_pct,Infrastructure / USI,99.7
+CHN,China,2011,EG.ELC.ACCS.ZS,Access to electricity (% of population),access_to_electricity_pct,Infrastructure / USI,99.9
+CHN,China,2012,EG.ELC.ACCS.ZS,Access to electricity (% of population),access_to_electricity_pct,Infrastructure / USI,99.9
+CHN,China,2013,EG.ELC.ACCS.ZS,Access to electricity (% of population),access_to_electricity_pct,Infrastructure / USI,100.0
+CHN,China,2014,EG.ELC.ACCS.ZS,Access to electricity (% of population),access_to_electricity_pct,Infrastructure / USI,100.0
+CHN,China,2015,EG.ELC.ACCS.ZS,Access to electricity (% of population),access_to_electricity_pct,Infrastructure / USI,100.0
+CHN,China,2016,EG.ELC.ACCS.ZS,Access to electricity (% of population),access_to_electricity_pct,Infrastructure / USI,100.0
+CHN,China,2017,EG.ELC.ACCS.ZS,Access to electricity (% of population),access_to_electricity_pct,Infrastructure / USI,100.0
+CHN,China,2018,EG.ELC.ACCS.ZS,Access to electricity (% of population),access_to_electricity_pct,Infrastructure / USI,100.0
+CHN,China,2019,EG.ELC.ACCS.ZS,Access to electricity (% of population),access_to_electricity_pct,Infrastructure / USI,100.0
+CHN,China,2020,EG.ELC.ACCS.ZS,Access to electricity (% of population),access_to_electricity_pct,Infrastructure / USI,100.0
+FRA,France,2010,EG.ELC.ACCS.ZS,Access to electricity (% of population),access_to_electricity_pct,Infrastructure / USI,100.0
+FRA,France,2011,EG.ELC.ACCS.ZS,Access to electricity (% of population),access_to_electricity_pct,Infrastructure / USI,100.0
+FRA,France,2012,EG.ELC.ACCS.ZS,Access to electricity (% of population),access_to_electricity_pct,Infrastructure / USI,100.0
+FRA,France,2013,EG.ELC.ACCS.ZS,Access to electricity (% of population),access_to_electricity_pct,Infrastructure / USI,100.0
+FRA,France,2014,EG.ELC.ACCS.ZS,Access to electricity (% of population),access_to_electricity_pct,Infrastructure / USI,100.0
+FRA,France,2015,EG.ELC.ACCS.ZS,Access to electricity (% of population),access_to_electricity_pct,Infrastructure / USI,100.0
+FRA,France,2016,EG.ELC.ACCS.ZS,Access to electricity (% of population),access_to_electricity_pct,Infrastructure / USI,100.0
+FRA,France,2017,EG.ELC.ACCS.ZS,Access to electricity (% of population),access_to_electricity_pct,Infrastructure / USI,100.0
+FRA,France,2018,EG.ELC.ACCS.ZS,Access to electricity (% of population),access_to_electricity_pct,Infrastructure / USI,100.0
+FRA,France,2019,EG.ELC.ACCS.ZS,Access to electricity (% of population),access_to_electricity_pct,Infrastructure / USI,100.0
+FRA,France,2020,EG.ELC.ACCS.ZS,Access to electricity (% of population),access_to_electricity_pct,Infrastructure / USI,100.0
+DEU,Germany,2010,EG.ELC.ACCS.ZS,Access to electricity (% of population),access_to_electricity_pct,Infrastructure / USI,100.0
+DEU,Germany,2011,EG.ELC.ACCS.ZS,Access to electricity (% of population),access_to_electricity_pct,Infrastructure / USI,100.0
+DEU,Germany,2012,EG.ELC.ACCS.ZS,Access to electricity (% of population),access_to_electricity_pct,Infrastructure / USI,100.0
+DEU,Germany,2013,EG.ELC.ACCS.ZS,Access to electricity (% of population),access_to_electricity_pct,Infrastructure / USI,100.0
+DEU,Germany,2014,EG.ELC.ACCS.ZS,Access to electricity (% of population),access_to_electricity_pct,Infrastructure / USI,100.0
+DEU,Germany,2015,EG.ELC.ACCS.ZS,Access to electricity (% of population),access_to_electricity_pct,Infrastructure / USI,100.0
+DEU,Germany,2016,EG.ELC.ACCS.ZS,Access to electricity (% of population),access_to_electricity_pct,Infrastructure / USI,100.0
+DEU,Germany,2017,EG.ELC.ACCS.ZS,Access to electricity (% of population),access_to_electricity_pct,Infrastructure / USI,100.0
+DEU,Germany,2018,EG.ELC.ACCS.ZS,Access to electricity (% of population),access_to_electricity_pct,Infrastructure / USI,100.0
+DEU,Germany,2019,EG.ELC.ACCS.ZS,Access to electricity (% of population),access_to_electricity_pct,Infrastructure / USI,100.0
+DEU,Germany,2020,EG.ELC.ACCS.ZS,Access to electricity (% of population),access_to_electricity_pct,Infrastructure / USI,100.0
+ISR,Israel,2010,EG.ELC.ACCS.ZS,Access to electricity (% of population),access_to_electricity_pct,Infrastructure / USI,100.0
+ISR,Israel,2011,EG.ELC.ACCS.ZS,Access to electricity (% of population),access_to_electricity_pct,Infrastructure / USI,100.0
+ISR,Israel,2012,EG.ELC.ACCS.ZS,Access to electricity (% of population),access_to_electricity_pct,Infrastructure / USI,100.0
+ISR,Israel,2013,EG.ELC.ACCS.ZS,Access to electricity (% of population),access_to_electricity_pct,Infrastructure / USI,100.0
+ISR,Israel,2014,EG.ELC.ACCS.ZS,Access to electricity (% of population),access_to_electricity_pct,Infrastructure / USI,100.0
+ISR,Israel,2015,EG.ELC.ACCS.ZS,Access to electricity (% of population),access_to_electricity_pct,Infrastructure / USI,100.0
+ISR,Israel,2016,EG.ELC.ACCS.ZS,Access to electricity (% of population),access_to_electricity_pct,Infrastructure / USI,100.0
+ISR,Israel,2017,EG.ELC.ACCS.ZS,Access to electricity (% of population),access_to_electricity_pct,Infrastructure / USI,100.0
+ISR,Israel,2018,EG.ELC.ACCS.ZS,Access to electricity (% of population),access_to_electricity_pct,Infrastructure / USI,100.0
+ISR,Israel,2019,EG.ELC.ACCS.ZS,Access to electricity (% of population),access_to_electricity_pct,Infrastructure / USI,100.0
+ISR,Israel,2020,EG.ELC.ACCS.ZS,Access to electricity (% of population),access_to_electricity_pct,Infrastructure / USI,100.0
+JPN,Japan,2010,EG.ELC.ACCS.ZS,Access to electricity (% of population),access_to_electricity_pct,Infrastructure / USI,100.0
+JPN,Japan,2011,EG.ELC.ACCS.ZS,Access to electricity (% of population),access_to_electricity_pct,Infrastructure / USI,100.0
+JPN,Japan,2012,EG.ELC.ACCS.ZS,Access to electricity (% of population),access_to_electricity_pct,Infrastructure / USI,100.0
+JPN,Japan,2013,EG.ELC.ACCS.ZS,Access to electricity (% of population),access_to_electricity_pct,Infrastructure / USI,100.0
+JPN,Japan,2014,EG.ELC.ACCS.ZS,Access to electricity (% of population),access_to_electricity_pct,Infrastructure / USI,100.0
+JPN,Japan,2015,EG.ELC.ACCS.ZS,Access to electricity (% of population),access_to_electricity_pct,Infrastructure / USI,100.0
+JPN,Japan,2016,EG.ELC.ACCS.ZS,Access to electricity (% of population),access_to_electricity_pct,Infrastructure / USI,100.0
+JPN,Japan,2017,EG.ELC.ACCS.ZS,Access to electricity (% of population),access_to_electricity_pct,Infrastructure / USI,100.0
+JPN,Japan,2018,EG.ELC.ACCS.ZS,Access to electricity (% of population),access_to_electricity_pct,Infrastructure / USI,100.0
+JPN,Japan,2019,EG.ELC.ACCS.ZS,Access to electricity (% of population),access_to_electricity_pct,Infrastructure / USI,100.0
+JPN,Japan,2020,EG.ELC.ACCS.ZS,Access to electricity (% of population),access_to_electricity_pct,Infrastructure / USI,100.0
+KOR,"Korea, Rep.",2010,EG.ELC.ACCS.ZS,Access to electricity (% of population),access_to_electricity_pct,Infrastructure / USI,100.0
+KOR,"Korea, Rep.",2011,EG.ELC.ACCS.ZS,Access to electricity (% of population),access_to_electricity_pct,Infrastructure / USI,100.0
+KOR,"Korea, Rep.",2012,EG.ELC.ACCS.ZS,Access to electricity (% of population),access_to_electricity_pct,Infrastructure / USI,100.0
+KOR,"Korea, Rep.",2013,EG.ELC.ACCS.ZS,Access to electricity (% of population),access_to_electricity_pct,Infrastructure / USI,100.0
+KOR,"Korea, Rep.",2014,EG.ELC.ACCS.ZS,Access to electricity (% of population),access_to_electricity_pct,Infrastructure / USI,100.0
+KOR,"Korea, Rep.",2015,EG.ELC.ACCS.ZS,Access to electricity (% of population),access_to_electricity_pct,Infrastructure / USI,100.0
+KOR,"Korea, Rep.",2016,EG.ELC.ACCS.ZS,Access to electricity (% of population),access_to_electricity_pct,Infrastructure / USI,100.0
+KOR,"Korea, Rep.",2017,EG.ELC.ACCS.ZS,Access to electricity (% of population),access_to_electricity_pct,Infrastructure / USI,100.0
+KOR,"Korea, Rep.",2018,EG.ELC.ACCS.ZS,Access to electricity (% of population),access_to_electricity_pct,Infrastructure / USI,100.0
+KOR,"Korea, Rep.",2019,EG.ELC.ACCS.ZS,Access to electricity (% of population),access_to_electricity_pct,Infrastructure / USI,100.0
+KOR,"Korea, Rep.",2020,EG.ELC.ACCS.ZS,Access to electricity (% of population),access_to_electricity_pct,Infrastructure / USI,100.0
+RUS,Russian Federation,2010,EG.ELC.ACCS.ZS,Access to electricity (% of population),access_to_electricity_pct,Infrastructure / USI,99.3
+RUS,Russian Federation,2011,EG.ELC.ACCS.ZS,Access to electricity (% of population),access_to_electricity_pct,Infrastructure / USI,99.2
+RUS,Russian Federation,2012,EG.ELC.ACCS.ZS,Access to electricity (% of population),access_to_electricity_pct,Infrastructure / USI,100.0
+RUS,Russian Federation,2013,EG.ELC.ACCS.ZS,Access to electricity (% of population),access_to_electricity_pct,Infrastructure / USI,100.0
+RUS,Russian Federation,2014,EG.ELC.ACCS.ZS,Access to electricity (% of population),access_to_electricity_pct,Infrastructure / USI,100.0
+RUS,Russian Federation,2015,EG.ELC.ACCS.ZS,Access to electricity (% of population),access_to_electricity_pct,Infrastructure / USI,95.5
+RUS,Russian Federation,2016,EG.ELC.ACCS.ZS,Access to electricity (% of population),access_to_electricity_pct,Infrastructure / USI,99.4
+RUS,Russian Federation,2017,EG.ELC.ACCS.ZS,Access to electricity (% of population),access_to_electricity_pct,Infrastructure / USI,100.0
+RUS,Russian Federation,2018,EG.ELC.ACCS.ZS,Access to electricity (% of population),access_to_electricity_pct,Infrastructure / USI,100.0
+RUS,Russian Federation,2019,EG.ELC.ACCS.ZS,Access to electricity (% of population),access_to_electricity_pct,Infrastructure / USI,99.8
+RUS,Russian Federation,2020,EG.ELC.ACCS.ZS,Access to electricity (% of population),access_to_electricity_pct,Infrastructure / USI,99.9
+SAU,Saudi Arabia,2010,EG.ELC.ACCS.ZS,Access to electricity (% of population),access_to_electricity_pct,Infrastructure / USI,100.0
+SAU,Saudi Arabia,2011,EG.ELC.ACCS.ZS,Access to electricity (% of population),access_to_electricity_pct,Infrastructure / USI,100.0
+SAU,Saudi Arabia,2012,EG.ELC.ACCS.ZS,Access to electricity (% of population),access_to_electricity_pct,Infrastructure / USI,100.0
+SAU,Saudi Arabia,2013,EG.ELC.ACCS.ZS,Access to electricity (% of population),access_to_electricity_pct,Infrastructure / USI,100.0
+SAU,Saudi Arabia,2014,EG.ELC.ACCS.ZS,Access to electricity (% of population),access_to_electricity_pct,Infrastructure / USI,100.0
+SAU,Saudi Arabia,2015,EG.ELC.ACCS.ZS,Access to electricity (% of population),access_to_electricity_pct,Infrastructure / USI,100.0
+SAU,Saudi Arabia,2016,EG.ELC.ACCS.ZS,Access to electricity (% of population),access_to_electricity_pct,Infrastructure / USI,99.9
+SAU,Saudi Arabia,2017,EG.ELC.ACCS.ZS,Access to electricity (% of population),access_to_electricity_pct,Infrastructure / USI,100.0
+SAU,Saudi Arabia,2018,EG.ELC.ACCS.ZS,Access to electricity (% of population),access_to_electricity_pct,Infrastructure / USI,99.9
+SAU,Saudi Arabia,2019,EG.ELC.ACCS.ZS,Access to electricity (% of population),access_to_electricity_pct,Infrastructure / USI,100.0
+SAU,Saudi Arabia,2020,EG.ELC.ACCS.ZS,Access to electricity (% of population),access_to_electricity_pct,Infrastructure / USI,100.0
+GBR,United Kingdom,2010,EG.ELC.ACCS.ZS,Access to electricity (% of population),access_to_electricity_pct,Infrastructure / USI,100.0
+GBR,United Kingdom,2011,EG.ELC.ACCS.ZS,Access to electricity (% of population),access_to_electricity_pct,Infrastructure / USI,100.0
+GBR,United Kingdom,2012,EG.ELC.ACCS.ZS,Access to electricity (% of population),access_to_electricity_pct,Infrastructure / USI,100.0
+GBR,United Kingdom,2013,EG.ELC.ACCS.ZS,Access to electricity (% of population),access_to_electricity_pct,Infrastructure / USI,100.0
+GBR,United Kingdom,2014,EG.ELC.ACCS.ZS,Access to electricity (% of population),access_to_electricity_pct,Infrastructure / USI,100.0
+GBR,United Kingdom,2015,EG.ELC.ACCS.ZS,Access to electricity (% of population),access_to_electricity_pct,Infrastructure / USI,100.0
+GBR,United Kingdom,2016,EG.ELC.ACCS.ZS,Access to electricity (% of population),access_to_electricity_pct,Infrastructure / USI,100.0
+GBR,United Kingdom,2017,EG.ELC.ACCS.ZS,Access to electricity (% of population),access_to_electricity_pct,Infrastructure / USI,100.0
+GBR,United Kingdom,2018,EG.ELC.ACCS.ZS,Access to electricity (% of population),access_to_electricity_pct,Infrastructure / USI,100.0
+GBR,United Kingdom,2019,EG.ELC.ACCS.ZS,Access to electricity (% of population),access_to_electricity_pct,Infrastructure / USI,100.0
+GBR,United Kingdom,2020,EG.ELC.ACCS.ZS,Access to electricity (% of population),access_to_electricity_pct,Infrastructure / USI,100.0
+USA,United States,2010,EG.ELC.ACCS.ZS,Access to electricity (% of population),access_to_electricity_pct,Infrastructure / USI,100.0
+USA,United States,2011,EG.ELC.ACCS.ZS,Access to electricity (% of population),access_to_electricity_pct,Infrastructure / USI,100.0
+USA,United States,2012,EG.ELC.ACCS.ZS,Access to electricity (% of population),access_to_electricity_pct,Infrastructure / USI,100.0
+USA,United States,2013,EG.ELC.ACCS.ZS,Access to electricity (% of population),access_to_electricity_pct,Infrastructure / USI,100.0
+USA,United States,2014,EG.ELC.ACCS.ZS,Access to electricity (% of population),access_to_electricity_pct,Infrastructure / USI,100.0
+USA,United States,2015,EG.ELC.ACCS.ZS,Access to electricity (% of population),access_to_electricity_pct,Infrastructure / USI,100.0
+USA,United States,2016,EG.ELC.ACCS.ZS,Access to electricity (% of population),access_to_electricity_pct,Infrastructure / USI,100.0
+USA,United States,2017,EG.ELC.ACCS.ZS,Access to electricity (% of population),access_to_electricity_pct,Infrastructure / USI,100.0
+USA,United States,2018,EG.ELC.ACCS.ZS,Access to electricity (% of population),access_to_electricity_pct,Infrastructure / USI,100.0
+USA,United States,2019,EG.ELC.ACCS.ZS,Access to electricity (% of population),access_to_electricity_pct,Infrastructure / USI,100.0
+USA,United States,2020,EG.ELC.ACCS.ZS,Access to electricity (% of population),access_to_electricity_pct,Infrastructure / USI,100.0

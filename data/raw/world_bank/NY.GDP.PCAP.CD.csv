@@ -1,0 +1,111 @@
+country_code,country_name,year,indicator_code,indicator_name,short_name,category,value
+CHN,China,2010,NY.GDP.PCAP.CD,GDP per capita (current US$),gdp_per_capita_current_usd,Economic / USI,4629.24551710077
+CHN,China,2011,NY.GDP.PCAP.CD,GDP per capita (current US$),gdp_per_capita_current_usd,Economic / USI,5703.76027973346
+CHN,China,2012,NY.GDP.PCAP.CD,GDP per capita (current US$),gdp_per_capita_current_usd,Economic / USI,6405.0574241349
+CHN,China,2013,NY.GDP.PCAP.CD,GDP per capita (current US$),gdp_per_capita_current_usd,Economic / USI,7147.03518622344
+CHN,China,2014,NY.GDP.PCAP.CD,GDP per capita (current US$),gdp_per_capita_current_usd,Economic / USI,7781.06597484974
+CHN,China,2015,NY.GDP.PCAP.CD,GDP per capita (current US$),gdp_per_capita_current_usd,Economic / USI,8175.33285077393
+CHN,China,2016,NY.GDP.PCAP.CD,GDP per capita (current US$),gdp_per_capita_current_usd,Economic / USI,8254.86859320357
+CHN,China,2017,NY.GDP.PCAP.CD,GDP per capita (current US$),gdp_per_capita_current_usd,Economic / USI,8979.67652709856
+CHN,China,2018,NY.GDP.PCAP.CD,GDP per capita (current US$),gdp_per_capita_current_usd,Economic / USI,10085.6638148819
+CHN,China,2019,NY.GDP.PCAP.CD,GDP per capita (current US$),gdp_per_capita_current_usd,Economic / USI,10342.9009524335
+CHN,China,2020,NY.GDP.PCAP.CD,GDP per capita (current US$),gdp_per_capita_current_usd,Economic / USI,10627.4637989619
+FRA,France,2010,NY.GDP.PCAP.CD,GDP per capita (current US$),gdp_per_capita_current_usd,Economic / USI,40694.8211697025
+FRA,France,2011,NY.GDP.PCAP.CD,GDP per capita (current US$),gdp_per_capita_current_usd,Economic / USI,43929.7840873812
+FRA,France,2012,NY.GDP.PCAP.CD,GDP per capita (current US$),gdp_per_capita_current_usd,Economic / USI,40863.5814412333
+FRA,France,2013,NY.GDP.PCAP.CD,GDP per capita (current US$),gdp_per_capita_current_usd,Economic / USI,42669.1795111893
+FRA,France,2014,NY.GDP.PCAP.CD,GDP per capita (current US$),gdp_per_capita_current_usd,Economic / USI,43148.0459288416
+FRA,France,2015,NY.GDP.PCAP.CD,GDP per capita (current US$),gdp_per_capita_current_usd,Economic / USI,36702.4323733379
+FRA,France,2016,NY.GDP.PCAP.CD,GDP per capita (current US$),gdp_per_capita_current_usd,Economic / USI,37024.2157133669
+FRA,France,2017,NY.GDP.PCAP.CD,GDP per capita (current US$),gdp_per_capita_current_usd,Economic / USI,38687.1626407164
+FRA,France,2018,NY.GDP.PCAP.CD,GDP per capita (current US$),gdp_per_capita_current_usd,Economic / USI,41418.1766484844
+FRA,France,2019,NY.GDP.PCAP.CD,GDP per capita (current US$),gdp_per_capita_current_usd,Economic / USI,40408.2848574751
+FRA,France,2020,NY.GDP.PCAP.CD,GDP per capita (current US$),gdp_per_capita_current_usd,Economic / USI,39169.8606000707
+DEU,Germany,2010,NY.GDP.PCAP.CD,GDP per capita (current US$),gdp_per_capita_current_usd,Economic / USI,42396.9665976293
+DEU,Germany,2011,NY.GDP.PCAP.CD,GDP per capita (current US$),gdp_per_capita_current_usd,Economic / USI,47630.9761883572
+DEU,Germany,2012,NY.GDP.PCAP.CD,GDP per capita (current US$),gdp_per_capita_current_usd,Economic / USI,44718.0159214069
+DEU,Germany,2013,NY.GDP.PCAP.CD,GDP per capita (current US$),gdp_per_capita_current_usd,Economic / USI,47206.8353514242
+DEU,Germany,2014,NY.GDP.PCAP.CD,GDP per capita (current US$),gdp_per_capita_current_usd,Economic / USI,48959.5991203133
+DEU,Germany,2015,NY.GDP.PCAP.CD,GDP per capita (current US$),gdp_per_capita_current_usd,Economic / USI,41929.7549110722
+DEU,Germany,2016,NY.GDP.PCAP.CD,GDP per capita (current US$),gdp_per_capita_current_usd,Economic / USI,42948.9381932694
+DEU,Germany,2017,NY.GDP.PCAP.CD,GDP per capita (current US$),gdp_per_capita_current_usd,Economic / USI,45553.9341495339
+DEU,Germany,2018,NY.GDP.PCAP.CD,GDP per capita (current US$),gdp_per_capita_current_usd,Economic / USI,48916.1686612154
+DEU,Germany,2019,NY.GDP.PCAP.CD,GDP per capita (current US$),gdp_per_capita_current_usd,Economic / USI,47656.199739747
+DEU,Germany,2020,NY.GDP.PCAP.CD,GDP per capita (current US$),gdp_per_capita_current_usd,Economic / USI,47394.8734504469
+ISR,Israel,2010,NY.GDP.PCAP.CD,GDP per capita (current US$),gdp_per_capita_current_usd,Economic / USI,31439.0887027614
+ISR,Israel,2011,NY.GDP.PCAP.CD,GDP per capita (current US$),gdp_per_capita_current_usd,Economic / USI,34522.5215979073
+ISR,Israel,2012,NY.GDP.PCAP.CD,GDP per capita (current US$),gdp_per_capita_current_usd,Economic / USI,33321.4300881602
+ISR,Israel,2013,NY.GDP.PCAP.CD,GDP per capita (current US$),gdp_per_capita_current_usd,Economic / USI,37034.3161080785
+ISR,Israel,2014,NY.GDP.PCAP.CD,GDP per capita (current US$),gdp_per_capita_current_usd,Economic / USI,38343.3046626235
+ISR,Israel,2015,NY.GDP.PCAP.CD,GDP per capita (current US$),gdp_per_capita_current_usd,Economic / USI,36213.1041481958
+ISR,Israel,2016,NY.GDP.PCAP.CD,GDP per capita (current US$),gdp_per_capita_current_usd,Economic / USI,37671.5389138798
+ISR,Israel,2017,NY.GDP.PCAP.CD,GDP per capita (current US$),gdp_per_capita_current_usd,Economic / USI,41138.470964272
+ISR,Israel,2018,NY.GDP.PCAP.CD,GDP per capita (current US$),gdp_per_capita_current_usd,Economic / USI,42362.6652754196
+ISR,Israel,2019,NY.GDP.PCAP.CD,GDP per capita (current US$),gdp_per_capita_current_usd,Economic / USI,44250.6313628073
+ISR,Israel,2020,NY.GDP.PCAP.CD,GDP per capita (current US$),gdp_per_capita_current_usd,Economic / USI,44575.5719045492
+JPN,Japan,2010,NY.GDP.PCAP.CD,GDP per capita (current US$),gdp_per_capita_current_usd,Economic / USI,44968.1562349739
+JPN,Japan,2011,NY.GDP.PCAP.CD,GDP per capita (current US$),gdp_per_capita_current_usd,Economic / USI,48760.0789494211
+JPN,Japan,2012,NY.GDP.PCAP.CD,GDP per capita (current US$),gdp_per_capita_current_usd,Economic / USI,49145.2804308193
+JPN,Japan,2013,NY.GDP.PCAP.CD,GDP per capita (current US$),gdp_per_capita_current_usd,Economic / USI,40898.6478964744
+JPN,Japan,2014,NY.GDP.PCAP.CD,GDP per capita (current US$),gdp_per_capita_current_usd,Economic / USI,38475.3952461838
+JPN,Japan,2015,NY.GDP.PCAP.CD,GDP per capita (current US$),gdp_per_capita_current_usd,Economic / USI,34960.6393843385
+JPN,Japan,2016,NY.GDP.PCAP.CD,GDP per capita (current US$),gdp_per_capita_current_usd,Economic / USI,39375.4731620781
+JPN,Japan,2017,NY.GDP.PCAP.CD,GDP per capita (current US$),gdp_per_capita_current_usd,Economic / USI,38834.0529341227
+JPN,Japan,2018,NY.GDP.PCAP.CD,GDP per capita (current US$),gdp_per_capita_current_usd,Economic / USI,39751.1330982711
+JPN,Japan,2019,NY.GDP.PCAP.CD,GDP per capita (current US$),gdp_per_capita_current_usd,Economic / USI,40415.9567649547
+JPN,Japan,2020,NY.GDP.PCAP.CD,GDP per capita (current US$),gdp_per_capita_current_usd,Economic / USI,40028.7341726762
+KOR,"Korea, Rep.",2010,NY.GDP.PCAP.CD,GDP per capita (current US$),gdp_per_capita_current_usd,Economic / USI,24071.2620526362
+KOR,"Korea, Rep.",2011,NY.GDP.PCAP.CD,GDP per capita (current US$),gdp_per_capita_current_usd,Economic / USI,26175.2398553363
+KOR,"Korea, Rep.",2012,NY.GDP.PCAP.CD,GDP per capita (current US$),gdp_per_capita_current_usd,Economic / USI,26600.5477433903
+KOR,"Korea, Rep.",2013,NY.GDP.PCAP.CD,GDP per capita (current US$),gdp_per_capita_current_usd,Economic / USI,28449.3591104972
+KOR,"Korea, Rep.",2014,NY.GDP.PCAP.CD,GDP per capita (current US$),gdp_per_capita_current_usd,Economic / USI,30667.0912467447
+KOR,"Korea, Rep.",2015,NY.GDP.PCAP.CD,GDP per capita (current US$),gdp_per_capita_current_usd,Economic / USI,30171.7906545222
+KOR,"Korea, Rep.",2016,NY.GDP.PCAP.CD,GDP per capita (current US$),gdp_per_capita_current_usd,Economic / USI,30832.0628072516
+KOR,"Korea, Rep.",2017,NY.GDP.PCAP.CD,GDP per capita (current US$),gdp_per_capita_current_usd,Economic / USI,33296.9845439195
+KOR,"Korea, Rep.",2018,NY.GDP.PCAP.CD,GDP per capita (current US$),gdp_per_capita_current_usd,Economic / USI,35363.9508228687
+KOR,"Korea, Rep.",2019,NY.GDP.PCAP.CD,GDP per capita (current US$),gdp_per_capita_current_usd,Economic / USI,33826.9443301597
+KOR,"Korea, Rep.",2020,NY.GDP.PCAP.CD,GDP per capita (current US$),gdp_per_capita_current_usd,Economic / USI,33645.7719545073
+RUS,Russian Federation,2010,NY.GDP.PCAP.CD,GDP per capita (current US$),gdp_per_capita_current_usd,Economic / USI,10674.990234375
+RUS,Russian Federation,2011,NY.GDP.PCAP.CD,GDP per capita (current US$),gdp_per_capita_current_usd,Economic / USI,14305.33203125
+RUS,Russian Federation,2012,NY.GDP.PCAP.CD,GDP per capita (current US$),gdp_per_capita_current_usd,Economic / USI,15401.8515625
+RUS,Russian Federation,2013,NY.GDP.PCAP.CD,GDP per capita (current US$),gdp_per_capita_current_usd,Economic / USI,15941.4482421875
+RUS,Russian Federation,2014,NY.GDP.PCAP.CD,GDP per capita (current US$),gdp_per_capita_current_usd,Economic / USI,14055.47265625
+RUS,Russian Federation,2015,NY.GDP.PCAP.CD,GDP per capita (current US$),gdp_per_capita_current_usd,Economic / USI,9277.7138671875
+RUS,Russian Federation,2016,NY.GDP.PCAP.CD,GDP per capita (current US$),gdp_per_capita_current_usd,Economic / USI,8663.158203125
+RUS,Russian Federation,2017,NY.GDP.PCAP.CD,GDP per capita (current US$),gdp_per_capita_current_usd,Economic / USI,10658.9130859375
+RUS,Russian Federation,2018,NY.GDP.PCAP.CD,GDP per capita (current US$),gdp_per_capita_current_usd,Economic / USI,11211.8876953125
+RUS,Russian Federation,2019,NY.GDP.PCAP.CD,GDP per capita (current US$),gdp_per_capita_current_usd,Economic / USI,11447.701171875
+RUS,Russian Federation,2020,NY.GDP.PCAP.CD,GDP per capita (current US$),gdp_per_capita_current_usd,Economic / USI,10108.3271484375
+SAU,Saudi Arabia,2010,NY.GDP.PCAP.CD,GDP per capita (current US$),gdp_per_capita_current_usd,Economic / USI,22028.3901426586
+SAU,Saudi Arabia,2011,NY.GDP.PCAP.CD,GDP per capita (current US$),gdp_per_capita_current_usd,Economic / USI,27126.7498747702
+SAU,Saudi Arabia,2012,NY.GDP.PCAP.CD,GDP per capita (current US$),gdp_per_capita_current_usd,Economic / USI,28733.4375513452
+SAU,Saudi Arabia,2013,NY.GDP.PCAP.CD,GDP per capita (current US$),gdp_per_capita_current_usd,Economic / USI,27865.465604962
+SAU,Saudi Arabia,2014,NY.GDP.PCAP.CD,GDP per capita (current US$),gdp_per_capita_current_usd,Economic / USI,27805.4850319422
+SAU,Saudi Arabia,2015,NY.GDP.PCAP.CD,GDP per capita (current US$),gdp_per_capita_current_usd,Economic / USI,23256.1549553531
+SAU,Saudi Arabia,2016,NY.GDP.PCAP.CD,GDP per capita (current US$),gdp_per_capita_current_usd,Economic / USI,22267.7217050387
+SAU,Saudi Arabia,2017,NY.GDP.PCAP.CD,GDP per capita (current US$),gdp_per_capita_current_usd,Economic / USI,23929.2907135982
+SAU,Saudi Arabia,2018,NY.GDP.PCAP.CD,GDP per capita (current US$),gdp_per_capita_current_usd,Economic / USI,29360.0658968566
+SAU,Saudi Arabia,2019,NY.GDP.PCAP.CD,GDP per capita (current US$),gdp_per_capita_current_usd,Economic / USI,29566.7933827436
+SAU,Saudi Arabia,2020,NY.GDP.PCAP.CD,GDP per capita (current US$),gdp_per_capita_current_usd,Economic / USI,24338.8307301067
+GBR,United Kingdom,2010,NY.GDP.PCAP.CD,GDP per capita (current US$),gdp_per_capita_current_usd,Economic / USI,39778.3220528565
+GBR,United Kingdom,2011,NY.GDP.PCAP.CD,GDP per capita (current US$),gdp_per_capita_current_usd,Economic / USI,42295.9273835322
+GBR,United Kingdom,2012,NY.GDP.PCAP.CD,GDP per capita (current US$),gdp_per_capita_current_usd,Economic / USI,42688.3263728372
+GBR,United Kingdom,2013,NY.GDP.PCAP.CD,GDP per capita (current US$),gdp_per_capita_current_usd,Economic / USI,43606.9837896348
+GBR,United Kingdom,2014,NY.GDP.PCAP.CD,GDP per capita (current US$),gdp_per_capita_current_usd,Economic / USI,47746.2421759562
+GBR,United Kingdom,2015,NY.GDP.PCAP.CD,GDP per capita (current US$),gdp_per_capita_current_usd,Economic / USI,45255.3449216209
+GBR,United Kingdom,2016,NY.GDP.PCAP.CD,GDP per capita (current US$),gdp_per_capita_current_usd,Economic / USI,41257.9085545556
+GBR,United Kingdom,2017,NY.GDP.PCAP.CD,GDP per capita (current US$),gdp_per_capita_current_usd,Economic / USI,40916.8115070354
+GBR,United Kingdom,2018,NY.GDP.PCAP.CD,GDP per capita (current US$),gdp_per_capita_current_usd,Economic / USI,43702.9976303165
+GBR,United Kingdom,2019,NY.GDP.PCAP.CD,GDP per capita (current US$),gdp_per_capita_current_usd,Economic / USI,43158.7411267323
+GBR,United Kingdom,2020,NY.GDP.PCAP.CD,GDP per capita (current US$),gdp_per_capita_current_usd,Economic / USI,40812.6794663879
+USA,United States,2010,NY.GDP.PCAP.CD,GDP per capita (current US$),gdp_per_capita_current_usd,Economic / USI,48642.6100179312
+USA,United States,2011,NY.GDP.PCAP.CD,GDP per capita (current US$),gdp_per_capita_current_usd,Economic / USI,50024.868799398
+USA,United States,2012,NY.GDP.PCAP.CD,GDP per capita (current US$),gdp_per_capita_current_usd,Economic / USI,51708.4011556577
+USA,United States,2013,NY.GDP.PCAP.CD,GDP per capita (current US$),gdp_per_capita_current_usd,Economic / USI,53179.0127634561
+USA,United States,2014,NY.GDP.PCAP.CD,GDP per capita (current US$),gdp_per_capita_current_usd,Economic / USI,54973.4207515712
+USA,United States,2015,NY.GDP.PCAP.CD,GDP per capita (current US$),gdp_per_capita_current_usd,Economic / USI,56572.9188996063
+USA,United States,2016,NY.GDP.PCAP.CD,GDP per capita (current US$),gdp_per_capita_current_usd,Economic / USI,57638.1018367192
+USA,United States,2017,NY.GDP.PCAP.CD,GDP per capita (current US$),gdp_per_capita_current_usd,Economic / USI,59635.0984397965
+USA,United States,2018,NY.GDP.PCAP.CD,GDP per capita (current US$),gdp_per_capita_current_usd,Economic / USI,62499.8744390068
+USA,United States,2019,NY.GDP.PCAP.CD,GDP per capita (current US$),gdp_per_capita_current_usd,Economic / USI,64746.4506778863
+USA,United States,2020,NY.GDP.PCAP.CD,GDP per capita (current US$),gdp_per_capita_current_usd,Economic / USI,63515.9491807833

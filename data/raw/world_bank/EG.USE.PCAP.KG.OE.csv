@@ -1,0 +1,111 @@
+country_code,country_name,year,indicator_code,indicator_name,short_name,category,value
+CHN,China,2010,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),energy_use_per_capita_kg_oil_eq,Direct predictor,1899.79996108685
+CHN,China,2011,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),energy_use_per_capita_kg_oil_eq,Direct predictor,2027.46525356855
+CHN,China,2012,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),energy_use_per_capita_kg_oil_eq,Direct predictor,2085.21872095825
+CHN,China,2013,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),energy_use_per_capita_kg_oil_eq,Direct predictor,2137.32572690907
+CHN,China,2014,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),energy_use_per_capita_kg_oil_eq,Direct predictor,2177.55011435267
+CHN,China,2015,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),energy_use_per_capita_kg_oil_eq,Direct predictor,2175.1544486832
+CHN,China,2016,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),energy_use_per_capita_kg_oil_eq,Direct predictor,2149.2047500244
+CHN,China,2017,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),energy_use_per_capita_kg_oil_eq,Direct predictor,2215.91139022057
+CHN,China,2018,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),energy_use_per_capita_kg_oil_eq,Direct predictor,2310.87757050979
+CHN,China,2019,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),energy_use_per_capita_kg_oil_eq,Direct predictor,2397.96868908473
+CHN,China,2020,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),energy_use_per_capita_kg_oil_eq,Direct predictor,2465.96954605987
+FRA,France,2010,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),energy_use_per_capita_kg_oil_eq,Direct predictor,4040.43918739374
+FRA,France,2011,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),energy_use_per_capita_kg_oil_eq,Direct predictor,3951.00450412595
+FRA,France,2012,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),energy_use_per_capita_kg_oil_eq,Direct predictor,3929.20601557226
+FRA,France,2013,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),energy_use_per_capita_kg_oil_eq,Direct predictor,3925.86545930191
+FRA,France,2014,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),energy_use_per_capita_kg_oil_eq,Direct predictor,3755.83244171123
+FRA,France,2015,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),energy_use_per_capita_kg_oil_eq,Direct predictor,3799.19260526718
+FRA,France,2016,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),energy_use_per_capita_kg_oil_eq,Direct predictor,3718.17053401513
+FRA,France,2017,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),energy_use_per_capita_kg_oil_eq,Direct predictor,3705.41111644137
+FRA,France,2018,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),energy_use_per_capita_kg_oil_eq,Direct predictor,3669.37065950443
+FRA,France,2019,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),energy_use_per_capita_kg_oil_eq,Direct predictor,3605.53190025511
+FRA,France,2020,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),energy_use_per_capita_kg_oil_eq,Direct predictor,3228.48915727036
+DEU,Germany,2010,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),energy_use_per_capita_kg_oil_eq,Direct predictor,4029.83085754355
+DEU,Germany,2011,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),energy_use_per_capita_kg_oil_eq,Direct predictor,3891.87175356307
+DEU,Germany,2012,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),energy_use_per_capita_kg_oil_eq,Direct predictor,3913.43920397127
+DEU,Germany,2013,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),energy_use_per_capita_kg_oil_eq,Direct predictor,3986.18505186393
+DEU,Germany,2014,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),energy_use_per_capita_kg_oil_eq,Direct predictor,3794.44720253102
+DEU,Germany,2015,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),energy_use_per_capita_kg_oil_eq,Direct predictor,3780.85027551891
+DEU,Germany,2016,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),energy_use_per_capita_kg_oil_eq,Direct predictor,3765.21799936242
+DEU,Germany,2017,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),energy_use_per_capita_kg_oil_eq,Direct predictor,3763.19404182465
+DEU,Germany,2018,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),energy_use_per_capita_kg_oil_eq,Direct predictor,3659.22924485198
+DEU,Germany,2019,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),energy_use_per_capita_kg_oil_eq,Direct predictor,3570.88159282488
+DEU,Germany,2020,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),energy_use_per_capita_kg_oil_eq,Direct predictor,3349.19931383762
+ISR,Israel,2010,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),energy_use_per_capita_kg_oil_eq,Direct predictor,3043.56517574048
+ISR,Israel,2011,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),energy_use_per_capita_kg_oil_eq,Direct predictor,2981.37242150116
+ISR,Israel,2012,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),energy_use_per_capita_kg_oil_eq,Direct predictor,2968.58833913788
+ISR,Israel,2013,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),energy_use_per_capita_kg_oil_eq,Direct predictor,2662.60942480489
+ISR,Israel,2014,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),energy_use_per_capita_kg_oil_eq,Direct predictor,2528.01855666417
+ISR,Israel,2015,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),energy_use_per_capita_kg_oil_eq,Direct predictor,2607.84399987972
+ISR,Israel,2016,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),energy_use_per_capita_kg_oil_eq,Direct predictor,2569.21718310487
+ISR,Israel,2017,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),energy_use_per_capita_kg_oil_eq,Direct predictor,2481.51602271413
+ISR,Israel,2018,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),energy_use_per_capita_kg_oil_eq,Direct predictor,2490.06554012289
+ISR,Israel,2019,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),energy_use_per_capita_kg_oil_eq,Direct predictor,2407.97500275888
+ISR,Israel,2020,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),energy_use_per_capita_kg_oil_eq,Direct predictor,2453.62703150387
+JPN,Japan,2010,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),energy_use_per_capita_kg_oil_eq,Direct predictor,3900.21212768124
+JPN,Japan,2011,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),energy_use_per_capita_kg_oil_eq,Direct predictor,3620.18019068219
+JPN,Japan,2012,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),energy_use_per_capita_kg_oil_eq,Direct predictor,3536.70253450885
+JPN,Japan,2013,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),energy_use_per_capita_kg_oil_eq,Direct predictor,3567.33780517627
+JPN,Japan,2014,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),energy_use_per_capita_kg_oil_eq,Direct predictor,3445.81632921551
+JPN,Japan,2015,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),energy_use_per_capita_kg_oil_eq,Direct predictor,3400.59271053608
+JPN,Japan,2016,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),energy_use_per_capita_kg_oil_eq,Direct predictor,3370.8877963853
+JPN,Japan,2017,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),energy_use_per_capita_kg_oil_eq,Direct predictor,3391.05041453219
+JPN,Japan,2018,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),energy_use_per_capita_kg_oil_eq,Direct predictor,3343.05412833973
+JPN,Japan,2019,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),energy_use_per_capita_kg_oil_eq,Direct predictor,3261.62024942915
+JPN,Japan,2020,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),energy_use_per_capita_kg_oil_eq,Direct predictor,3046.85480668859
+KOR,"Korea, Rep.",2010,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),energy_use_per_capita_kg_oil_eq,Direct predictor,4920.34159542887
+KOR,"Korea, Rep.",2011,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),energy_use_per_capita_kg_oil_eq,Direct predictor,5114.96282558864
+KOR,"Korea, Rep.",2012,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),energy_use_per_capita_kg_oil_eq,Direct predictor,5122.94213308196
+KOR,"Korea, Rep.",2013,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),energy_use_per_capita_kg_oil_eq,Direct predictor,5108.23633855207
+KOR,"Korea, Rep.",2014,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),energy_use_per_capita_kg_oil_eq,Direct predictor,5136.98533019492
+KOR,"Korea, Rep.",2015,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),energy_use_per_capita_kg_oil_eq,Direct predictor,5239.00345362778
+KOR,"Korea, Rep.",2016,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),energy_use_per_capita_kg_oil_eq,Direct predictor,5390.84042635905
+KOR,"Korea, Rep.",2017,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),energy_use_per_capita_kg_oil_eq,Direct predictor,5467.82224967457
+KOR,"Korea, Rep.",2018,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),energy_use_per_capita_kg_oil_eq,Direct predictor,5531.77957372505
+KOR,"Korea, Rep.",2019,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),energy_use_per_capita_kg_oil_eq,Direct predictor,5334.67385872126
+KOR,"Korea, Rep.",2020,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),energy_use_per_capita_kg_oil_eq,Direct predictor,5195.91011087811
+RUS,Russian Federation,2010,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),energy_use_per_capita_kg_oil_eq,Direct predictor,4853.36753031766
+RUS,Russian Federation,2011,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),energy_use_per_capita_kg_oil_eq,Direct predictor,5004.23439250465
+RUS,Russian Federation,2012,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),energy_use_per_capita_kg_oil_eq,Direct predictor,5056.08323400834
+RUS,Russian Federation,2013,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),energy_use_per_capita_kg_oil_eq,Direct predictor,4919.89870162422
+RUS,Russian Federation,2014,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),energy_use_per_capita_kg_oil_eq,Direct predictor,4915.75746633152
+RUS,Russian Federation,2015,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),energy_use_per_capita_kg_oil_eq,Direct predictor,4804.23014928516
+RUS,Russian Federation,2016,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),energy_use_per_capita_kg_oil_eq,Direct predictor,4936.04266971322
+RUS,Russian Federation,2017,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),energy_use_per_capita_kg_oil_eq,Direct predictor,5018.77352571388
+RUS,Russian Federation,2018,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),energy_use_per_capita_kg_oil_eq,Direct predictor,5279.09416060338
+RUS,Russian Federation,2019,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),energy_use_per_capita_kg_oil_eq,Direct predictor,5082.7299560342
+RUS,Russian Federation,2020,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),energy_use_per_capita_kg_oil_eq,Direct predictor,5068.38550364971
+SAU,Saudi Arabia,2010,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),energy_use_per_capita_kg_oil_eq,Direct predictor,7965.26121862505
+SAU,Saudi Arabia,2011,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),energy_use_per_capita_kg_oil_eq,Direct predictor,7979.3799657336
+SAU,Saudi Arabia,2012,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),energy_use_per_capita_kg_oil_eq,Direct predictor,7862.42354103658
+SAU,Saudi Arabia,2013,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),energy_use_per_capita_kg_oil_eq,Direct predictor,7401.17130265584
+SAU,Saudi Arabia,2014,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),energy_use_per_capita_kg_oil_eq,Direct predictor,7959.81351652344
+SAU,Saudi Arabia,2015,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),energy_use_per_capita_kg_oil_eq,Direct predictor,7786.91651664863
+SAU,Saudi Arabia,2016,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),energy_use_per_capita_kg_oil_eq,Direct predictor,7521.58911581712
+SAU,Saudi Arabia,2017,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),energy_use_per_capita_kg_oil_eq,Direct predictor,7707.05632967392
+SAU,Saudi Arabia,2018,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),energy_use_per_capita_kg_oil_eq,Direct predictor,7650.76338796016
+SAU,Saudi Arabia,2019,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),energy_use_per_capita_kg_oil_eq,Direct predictor,7669.39905417665
+SAU,Saudi Arabia,2020,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),energy_use_per_capita_kg_oil_eq,Direct predictor,7172.00803547452
+GBR,United Kingdom,2010,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),energy_use_per_capita_kg_oil_eq,Direct predictor,3235.05383786127
+GBR,United Kingdom,2011,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),energy_use_per_capita_kg_oil_eq,Direct predictor,2973.83120573757
+GBR,United Kingdom,2012,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),energy_use_per_capita_kg_oil_eq,Direct predictor,3028.77223348044
+GBR,United Kingdom,2013,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),energy_use_per_capita_kg_oil_eq,Direct predictor,2962.29760006424
+GBR,United Kingdom,2014,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),energy_use_per_capita_kg_oil_eq,Direct predictor,2767.96188412765
+GBR,United Kingdom,2015,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),energy_use_per_capita_kg_oil_eq,Direct predictor,2774.79682774608
+GBR,United Kingdom,2016,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),energy_use_per_capita_kg_oil_eq,Direct predictor,2696.97999020896
+GBR,United Kingdom,2017,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),energy_use_per_capita_kg_oil_eq,Direct predictor,2658.99577329303
+GBR,United Kingdom,2018,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),energy_use_per_capita_kg_oil_eq,Direct predictor,2632.15067210726
+GBR,United Kingdom,2019,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),energy_use_per_capita_kg_oil_eq,Direct predictor,2515.97344619501
+GBR,United Kingdom,2020,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),energy_use_per_capita_kg_oil_eq,Direct predictor,2317.4085386833
+USA,United States,2010,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),energy_use_per_capita_kg_oil_eq,Direct predictor,7162.55933024159
+USA,United States,2011,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),energy_use_per_capita_kg_oil_eq,Direct predictor,7009.64607964907
+USA,United States,2012,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),energy_use_per_capita_kg_oil_eq,Direct predictor,6820.46062064875
+USA,United States,2013,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),energy_use_per_capita_kg_oil_eq,Direct predictor,6888.38143742637
+USA,United States,2014,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),energy_use_per_capita_kg_oil_eq,Direct predictor,6915.64165280321
+USA,United States,2015,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),energy_use_per_capita_kg_oil_eq,Direct predictor,6789.64733291075
+USA,United States,2016,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),energy_use_per_capita_kg_oil_eq,Direct predictor,6663.4963294418
+USA,United States,2017,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),energy_use_per_capita_kg_oil_eq,Direct predictor,6590.83509745633
+USA,United States,2018,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),energy_use_per_capita_kg_oil_eq,Direct predictor,6738.27272433986
+USA,United States,2019,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),energy_use_per_capita_kg_oil_eq,Direct predictor,6700.93033990565
+USA,United States,2020,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),energy_use_per_capita_kg_oil_eq,Direct predictor,6141.53125755889

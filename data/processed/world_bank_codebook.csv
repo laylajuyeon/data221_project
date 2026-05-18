@@ -1,0 +1,13 @@
+indicator_code,short_name,category,description
+EN.ATM.PM25.MC.M3,pm25_mean_exposure,Environmental / outcome,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)"
+EG.USE.COMM.FO.ZS,fossil_fuel_energy_pct,Direct predictor,Fossil fuel energy consumption (% of total)
+EG.USE.PCAP.KG.OE,energy_use_per_capita_kg_oil_eq,Direct predictor,Energy use per capita (kg of oil equivalent)
+NV.IND.TOTL.ZS,industry_value_added_pct_gdp,Direct predictor,"Industry (including construction), value added (% of GDP)"
+SP.URB.TOTL.IN.ZS,urban_population_pct,Structural predictor,Urban population (% of total population)
+AG.LND.FRST.ZS,forest_area_pct_land,Structural predictor,Forest area (% of land area)
+EG.FEC.RNEW.ZS,renewable_energy_pct_total_final,Structural predictor,Renewable energy consumption (% of total final energy consumption)
+SP.DYN.LE00.IN,life_expectancy_years,Social / USI,"Life expectancy at birth, total (years)"
+AG.CON.FERT.ZS,fertilizer_consumption_kg_per_ha,Agricultural / USI,Fertilizer consumption (kilograms per hectare of arable land)
+NY.GDP.PCAP.CD,gdp_per_capita_current_usd,Economic / USI,GDP per capita (current US$)
+EG.ELC.ACCS.ZS,access_to_electricity_pct,Infrastructure / USI,Access to electricity (% of population)
+SE.SEC.ENRR,school_enrollment_secondary_gross_pct,Education / USI,"School enrollment, secondary (% gross)"

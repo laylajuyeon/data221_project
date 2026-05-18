@@ -1,0 +1,111 @@
+country_code,country_name,year,indicator_code,indicator_name,short_name,category,value
+CHN,China,2010,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",life_expectancy_years,Social / USI,75.668
+CHN,China,2011,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",life_expectancy_years,Social / USI,75.889
+CHN,China,2012,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",life_expectancy_years,Social / USI,76.2
+CHN,China,2013,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",life_expectancy_years,Social / USI,76.452
+CHN,China,2014,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",life_expectancy_years,Social / USI,76.714
+CHN,China,2015,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",life_expectancy_years,Social / USI,76.975
+CHN,China,2016,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",life_expectancy_years,Social / USI,77.214
+CHN,China,2017,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",life_expectancy_years,Social / USI,77.235
+CHN,China,2018,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",life_expectancy_years,Social / USI,77.709
+CHN,China,2019,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",life_expectancy_years,Social / USI,77.94
+CHN,China,2020,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",life_expectancy_years,Social / USI,78.019
+FRA,France,2010,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",life_expectancy_years,Social / USI,81.6634146341463
+FRA,France,2011,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",life_expectancy_years,Social / USI,82.1146341463415
+FRA,France,2012,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",life_expectancy_years,Social / USI,81.9682926829268
+FRA,France,2013,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",life_expectancy_years,Social / USI,82.219512195122
+FRA,France,2014,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",life_expectancy_years,Social / USI,82.719512195122
+FRA,France,2015,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",life_expectancy_years,Social / USI,82.3219512195122
+FRA,France,2016,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",life_expectancy_years,Social / USI,82.5731707317073
+FRA,France,2017,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",life_expectancy_years,Social / USI,82.5756097560976
+FRA,France,2018,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",life_expectancy_years,Social / USI,82.6756097560976
+FRA,France,2019,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",life_expectancy_years,Social / USI,82.8268292682927
+FRA,France,2020,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",life_expectancy_years,Social / USI,82.1756097560976
+DEU,Germany,2010,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",life_expectancy_years,Social / USI,79.9878048780488
+DEU,Germany,2011,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",life_expectancy_years,Social / USI,80.4365853658537
+DEU,Germany,2012,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",life_expectancy_years,Social / USI,80.5390243902439
+DEU,Germany,2013,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",life_expectancy_years,Social / USI,80.490243902439
+DEU,Germany,2014,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",life_expectancy_years,Social / USI,81.090243902439
+DEU,Germany,2015,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",life_expectancy_years,Social / USI,80.6414634146341
+DEU,Germany,2016,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",life_expectancy_years,Social / USI,80.990243902439
+DEU,Germany,2017,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",life_expectancy_years,Social / USI,80.9926829268293
+DEU,Germany,2018,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",life_expectancy_years,Social / USI,80.8926829268293
+DEU,Germany,2019,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",life_expectancy_years,Social / USI,81.2926829268293
+DEU,Germany,2020,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",life_expectancy_years,Social / USI,81.0414634146342
+ISR,Israel,2010,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",life_expectancy_years,Social / USI,81.6024390243903
+ISR,Israel,2011,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",life_expectancy_years,Social / USI,81.6560975609756
+ISR,Israel,2012,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",life_expectancy_years,Social / USI,81.7048780487805
+ISR,Israel,2013,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",life_expectancy_years,Social / USI,82.0560975609756
+ISR,Israel,2014,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",life_expectancy_years,Social / USI,82.1536585365854
+ISR,Israel,2015,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",life_expectancy_years,Social / USI,82.0512195121951
+ISR,Israel,2016,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",life_expectancy_years,Social / USI,82.4073170731707
+ISR,Israel,2017,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",life_expectancy_years,Social / USI,82.5512195121951
+ISR,Israel,2018,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",life_expectancy_years,Social / USI,82.8024390243903
+ISR,Israel,2019,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",life_expectancy_years,Social / USI,82.8048780487805
+ISR,Israel,2020,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",life_expectancy_years,Social / USI,82.6487804878049
+JPN,Japan,2010,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",life_expectancy_years,Social / USI,82.8426829268293
+JPN,Japan,2011,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",life_expectancy_years,Social / USI,82.5912195121951
+JPN,Japan,2012,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",life_expectancy_years,Social / USI,83.0960975609756
+JPN,Japan,2013,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",life_expectancy_years,Social / USI,83.3319512195122
+JPN,Japan,2014,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",life_expectancy_years,Social / USI,83.5878048780488
+JPN,Japan,2015,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",life_expectancy_years,Social / USI,83.7939024390244
+JPN,Japan,2016,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",life_expectancy_years,Social / USI,83.9848780487805
+JPN,Japan,2017,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",life_expectancy_years,Social / USI,84.099756097561
+JPN,Japan,2018,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",life_expectancy_years,Social / USI,84.2109756097561
+JPN,Japan,2019,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",life_expectancy_years,Social / USI,84.3563414634146
+JPN,Japan,2020,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",life_expectancy_years,Social / USI,84.56
+KOR,"Korea, Rep.",2010,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",life_expectancy_years,Social / USI,80.1170731707317
+KOR,"Korea, Rep.",2011,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",life_expectancy_years,Social / USI,80.5682926829269
+KOR,"Korea, Rep.",2012,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",life_expectancy_years,Social / USI,80.819512195122
+KOR,"Korea, Rep.",2013,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",life_expectancy_years,Social / USI,81.2707317073171
+KOR,"Korea, Rep.",2014,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",life_expectancy_years,Social / USI,81.7219512195122
+KOR,"Korea, Rep.",2015,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",life_expectancy_years,Social / USI,82.0243902439024
+KOR,"Korea, Rep.",2016,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",life_expectancy_years,Social / USI,82.2756097560976
+KOR,"Korea, Rep.",2017,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",life_expectancy_years,Social / USI,82.6268292682927
+KOR,"Korea, Rep.",2018,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",life_expectancy_years,Social / USI,82.6268292682927
+KOR,"Korea, Rep.",2019,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",life_expectancy_years,Social / USI,83.2268292682927
+KOR,"Korea, Rep.",2020,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",life_expectancy_years,Social / USI,83.4268292682927
+RUS,Russian Federation,2010,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",life_expectancy_years,Social / USI,68.8412195121951
+RUS,Russian Federation,2011,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",life_expectancy_years,Social / USI,69.6839024390244
+RUS,Russian Federation,2012,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",life_expectancy_years,Social / USI,70.0721951219512
+RUS,Russian Federation,2013,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",life_expectancy_years,Social / USI,70.5787804878049
+RUS,Russian Federation,2014,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",life_expectancy_years,Social / USI,70.7436585365854
+RUS,Russian Federation,2015,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",life_expectancy_years,Social / USI,71.1834146341463
+RUS,Russian Federation,2016,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",life_expectancy_years,Social / USI,71.6512195121951
+RUS,Russian Federation,2017,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",life_expectancy_years,Social / USI,72.4514634146342
+RUS,Russian Federation,2018,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",life_expectancy_years,Social / USI,72.6621951219512
+RUS,Russian Federation,2019,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",life_expectancy_years,Social / USI,73.0839024390244
+RUS,Russian Federation,2020,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",life_expectancy_years,Social / USI,71.3387804878049
+SAU,Saudi Arabia,2010,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",life_expectancy_years,Social / USI,75.616
+SAU,Saudi Arabia,2011,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",life_expectancy_years,Social / USI,75.808
+SAU,Saudi Arabia,2012,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",life_expectancy_years,Social / USI,76.09
+SAU,Saudi Arabia,2013,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",life_expectancy_years,Social / USI,76.517
+SAU,Saudi Arabia,2014,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",life_expectancy_years,Social / USI,77.116
+SAU,Saudi Arabia,2015,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",life_expectancy_years,Social / USI,77.776
+SAU,Saudi Arabia,2016,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",life_expectancy_years,Social / USI,78.354
+SAU,Saudi Arabia,2017,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",life_expectancy_years,Social / USI,78.721
+SAU,Saudi Arabia,2018,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",life_expectancy_years,Social / USI,78.75
+SAU,Saudi Arabia,2019,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",life_expectancy_years,Social / USI,78.313
+SAU,Saudi Arabia,2020,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",life_expectancy_years,Social / USI,77.596
+GBR,United Kingdom,2010,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",life_expectancy_years,Social / USI,80.4024390243902
+GBR,United Kingdom,2011,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",life_expectancy_years,Social / USI,80.9512195121951
+GBR,United Kingdom,2012,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",life_expectancy_years,Social / USI,80.9048780487805
+GBR,United Kingdom,2013,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",life_expectancy_years,Social / USI,81.0048780487805
+GBR,United Kingdom,2014,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",life_expectancy_years,Social / USI,81.3048780487805
+GBR,United Kingdom,2015,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",life_expectancy_years,Social / USI,80.9560975609756
+GBR,United Kingdom,2016,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",life_expectancy_years,Social / USI,81.1560975609756
+GBR,United Kingdom,2017,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",life_expectancy_years,Social / USI,81.2560975609756
+GBR,United Kingdom,2018,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",life_expectancy_years,Social / USI,81.2560975609756
+GBR,United Kingdom,2019,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",life_expectancy_years,Social / USI,81.3691219512195
+GBR,United Kingdom,2020,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",life_expectancy_years,Social / USI,80.331756097561
+USA,United States,2010,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",life_expectancy_years,Social / USI,78.5414634146342
+USA,United States,2011,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",life_expectancy_years,Social / USI,78.6414634146341
+USA,United States,2012,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",life_expectancy_years,Social / USI,78.7414634146342
+USA,United States,2013,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",life_expectancy_years,Social / USI,78.7414634146342
+USA,United States,2014,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",life_expectancy_years,Social / USI,78.8414634146341
+USA,United States,2015,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",life_expectancy_years,Social / USI,78.690243902439
+USA,United States,2016,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",life_expectancy_years,Social / USI,78.5390243902439
+USA,United States,2017,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",life_expectancy_years,Social / USI,78.5390243902439
+USA,United States,2018,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",life_expectancy_years,Social / USI,78.6390243902439
+USA,United States,2019,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",life_expectancy_years,Social / USI,78.7878048780488
+USA,United States,2020,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",life_expectancy_years,Social / USI,76.9804878048781

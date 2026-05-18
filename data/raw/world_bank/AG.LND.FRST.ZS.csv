@@ -1,0 +1,111 @@
+country_code,country_name,year,indicator_code,indicator_name,short_name,category,value
+CHN,China,2010,AG.LND.FRST.ZS,Forest area (% of land area),forest_area_pct_land,Structural predictor,21.3683288541342
+CHN,China,2011,AG.LND.FRST.ZS,Forest area (% of land area),forest_area_pct_land,Structural predictor,21.574627370433
+CHN,China,2012,AG.LND.FRST.ZS,Forest area (% of land area),forest_area_pct_land,Structural predictor,21.7809258867318
+CHN,China,2013,AG.LND.FRST.ZS,Forest area (% of land area),forest_area_pct_land,Structural predictor,21.9872244030306
+CHN,China,2014,AG.LND.FRST.ZS,Forest area (% of land area),forest_area_pct_land,Structural predictor,22.1935229193294
+CHN,China,2015,AG.LND.FRST.ZS,Forest area (% of land area),forest_area_pct_land,Structural predictor,22.3998214356282
+CHN,China,2016,AG.LND.FRST.ZS,Forest area (% of land area),forest_area_pct_land,Structural predictor,22.6305120997506
+CHN,China,2017,AG.LND.FRST.ZS,Forest area (% of land area),forest_area_pct_land,Structural predictor,22.8306567492632
+CHN,China,2018,AG.LND.FRST.ZS,Forest area (% of land area),forest_area_pct_land,Structural predictor,23.0309079153534
+CHN,China,2019,AG.LND.FRST.ZS,Forest area (% of land area),forest_area_pct_land,Structural predictor,23.2311590814436
+CHN,China,2020,AG.LND.FRST.ZS,Forest area (% of land area),forest_area_pct_land,Structural predictor,23.4313037309562
+FRA,France,2010,AG.LND.FRST.ZS,Forest area (% of land area),forest_area_pct_land,Structural predictor,30.4647926523796
+FRA,France,2011,AG.LND.FRST.ZS,Forest area (% of land area),forest_area_pct_land,Structural predictor,30.6195379905372
+FRA,France,2012,AG.LND.FRST.ZS,Forest area (% of land area),forest_area_pct_land,Structural predictor,30.7742833286947
+FRA,France,2013,AG.LND.FRST.ZS,Forest area (% of land area),forest_area_pct_land,Structural predictor,30.9290286668522
+FRA,France,2014,AG.LND.FRST.ZS,Forest area (% of land area),forest_area_pct_land,Structural predictor,31.0837740050097
+FRA,France,2015,AG.LND.FRST.ZS,Forest area (% of land area),forest_area_pct_land,Structural predictor,31.2385193431673
+FRA,France,2016,AG.LND.FRST.ZS,Forest area (% of land area),forest_area_pct_land,Structural predictor,31.3932646813248
+FRA,France,2017,AG.LND.FRST.ZS,Forest area (% of land area),forest_area_pct_land,Structural predictor,31.5480100194823
+FRA,France,2018,AG.LND.FRST.ZS,Forest area (% of land area),forest_area_pct_land,Structural predictor,31.7027553576399
+FRA,France,2019,AG.LND.FRST.ZS,Forest area (% of land area),forest_area_pct_land,Structural predictor,31.8575006957974
+FRA,France,2020,AG.LND.FRST.ZS,Forest area (% of land area),forest_area_pct_land,Structural predictor,32.0122460339549
+DEU,Germany,2010,AG.LND.FRST.ZS,Forest area (% of land area),forest_area_pct_land,Structural predictor,32.7308718478354
+DEU,Germany,2011,AG.LND.FRST.ZS,Forest area (% of land area),forest_area_pct_land,Structural predictor,32.7375487720909
+DEU,Germany,2012,AG.LND.FRST.ZS,Forest area (% of land area),forest_area_pct_land,Structural predictor,32.7451655477133
+DEU,Germany,2013,AG.LND.FRST.ZS,Forest area (% of land area),forest_area_pct_land,Structural predictor,32.7189864709929
+DEU,Germany,2014,AG.LND.FRST.ZS,Forest area (% of land area),forest_area_pct_land,Structural predictor,32.7228432215535
+DEU,Germany,2015,AG.LND.FRST.ZS,Forest area (% of land area),forest_area_pct_land,Structural predictor,32.7323281545606
+DEU,Germany,2016,AG.LND.FRST.ZS,Forest area (% of land area),forest_area_pct_land,Structural predictor,32.685482024273
+DEU,Germany,2017,AG.LND.FRST.ZS,Forest area (% of land area),forest_area_pct_land,Structural predictor,32.6845464693591
+DEU,Germany,2018,AG.LND.FRST.ZS,Forest area (% of land area),forest_area_pct_land,Structural predictor,32.6836109680005
+DEU,Germany,2019,AG.LND.FRST.ZS,Forest area (% of land area),forest_area_pct_land,Structural predictor,32.6826755201923
+DEU,Germany,2020,AG.LND.FRST.ZS,Forest area (% of land area),forest_area_pct_land,Structural predictor,32.6826755201923
+ISR,Israel,2010,AG.LND.FRST.ZS,Forest area (% of land area),forest_area_pct_land,Structural predictor,7.11645101663586
+ISR,Israel,2011,AG.LND.FRST.ZS,Forest area (% of land area),forest_area_pct_land,Structural predictor,7.2181146025878
+ISR,Israel,2012,AG.LND.FRST.ZS,Forest area (% of land area),forest_area_pct_land,Structural predictor,7.31977818853974
+ISR,Israel,2013,AG.LND.FRST.ZS,Forest area (% of land area),forest_area_pct_land,Structural predictor,7.42144177449168
+ISR,Israel,2014,AG.LND.FRST.ZS,Forest area (% of land area),forest_area_pct_land,Structural predictor,7.52310536044362
+ISR,Israel,2015,AG.LND.FRST.ZS,Forest area (% of land area),forest_area_pct_land,Structural predictor,7.62476894639556
+ISR,Israel,2016,AG.LND.FRST.ZS,Forest area (% of land area),forest_area_pct_land,Structural predictor,6.46950092421442
+ISR,Israel,2017,AG.LND.FRST.ZS,Forest area (% of land area),forest_area_pct_land,Structural predictor,6.46950092421442
+ISR,Israel,2018,AG.LND.FRST.ZS,Forest area (% of land area),forest_area_pct_land,Structural predictor,6.46950092421442
+ISR,Israel,2019,AG.LND.FRST.ZS,Forest area (% of land area),forest_area_pct_land,Structural predictor,6.46950092421442
+ISR,Israel,2020,AG.LND.FRST.ZS,Forest area (% of land area),forest_area_pct_land,Structural predictor,6.46950092421442
+JPN,Japan,2010,AG.LND.FRST.ZS,Forest area (% of land area),forest_area_pct_land,Structural predictor,68.4938271604938
+JPN,Japan,2011,AG.LND.FRST.ZS,Forest area (% of land area),forest_area_pct_land,Structural predictor,68.481755829904
+JPN,Japan,2012,AG.LND.FRST.ZS,Forest area (% of land area),forest_area_pct_land,Structural predictor,68.4696844993141
+JPN,Japan,2013,AG.LND.FRST.ZS,Forest area (% of land area),forest_area_pct_land,Structural predictor,68.4576131687243
+JPN,Japan,2014,AG.LND.FRST.ZS,Forest area (% of land area),forest_area_pct_land,Structural predictor,68.4455418381344
+JPN,Japan,2015,AG.LND.FRST.ZS,Forest area (% of land area),forest_area_pct_land,Structural predictor,68.4334705075446
+JPN,Japan,2016,AG.LND.FRST.ZS,Forest area (% of land area),forest_area_pct_land,Structural predictor,68.4224965706447
+JPN,Japan,2017,AG.LND.FRST.ZS,Forest area (% of land area),forest_area_pct_land,Structural predictor,68.4087791495199
+JPN,Japan,2018,AG.LND.FRST.ZS,Forest area (% of land area),forest_area_pct_land,Structural predictor,68.4087791495199
+JPN,Japan,2019,AG.LND.FRST.ZS,Forest area (% of land area),forest_area_pct_land,Structural predictor,68.4087791495199
+JPN,Japan,2020,AG.LND.FRST.ZS,Forest area (% of land area),forest_area_pct_land,Structural predictor,68.4087791495199
+KOR,"Korea, Rep.",2010,AG.LND.FRST.ZS,Forest area (% of land area),forest_area_pct_land,Structural predictor,65.7098765432099
+KOR,"Korea, Rep.",2011,AG.LND.FRST.ZS,Forest area (% of land area),forest_area_pct_land,Structural predictor,65.6137462701924
+KOR,"Korea, Rep.",2012,AG.LND.FRST.ZS,Forest area (% of land area),forest_area_pct_land,Structural predictor,65.4300688521221
+KOR,"Korea, Rep.",2013,AG.LND.FRST.ZS,Forest area (% of land area),forest_area_pct_land,Structural predictor,65.2495227146758
+KOR,"Korea, Rep.",2014,AG.LND.FRST.ZS,Forest area (% of land area),forest_area_pct_land,Structural predictor,65.1442060966848
+KOR,"Korea, Rep.",2015,AG.LND.FRST.ZS,Forest area (% of land area),forest_area_pct_land,Structural predictor,65.0315562625071
+KOR,"Korea, Rep.",2016,AG.LND.FRST.ZS,Forest area (% of land area),forest_area_pct_land,Structural predictor,64.8791145667716
+KOR,"Korea, Rep.",2017,AG.LND.FRST.ZS,Forest area (% of land area),forest_area_pct_land,Structural predictor,64.783099169316
+KOR,"Korea, Rep.",2018,AG.LND.FRST.ZS,Forest area (% of land area),forest_area_pct_land,Structural predictor,64.6739130434783
+KOR,"Korea, Rep.",2019,AG.LND.FRST.ZS,Forest area (% of land area),forest_area_pct_land,Structural predictor,64.5184426229508
+KOR,"Korea, Rep.",2020,AG.LND.FRST.ZS,Forest area (% of land area),forest_area_pct_land,Structural predictor,64.4159836065574
+RUS,Russian Federation,2010,AG.LND.FRST.ZS,Forest area (% of land area),forest_area_pct_land,Structural predictor,49.7735892145447
+RUS,Russian Federation,2011,AG.LND.FRST.ZS,Forest area (% of land area),forest_area_pct_land,Structural predictor,49.7710839739218
+RUS,Russian Federation,2012,AG.LND.FRST.ZS,Forest area (% of land area),forest_area_pct_land,Structural predictor,49.7685787332989
+RUS,Russian Federation,2013,AG.LND.FRST.ZS,Forest area (% of land area),forest_area_pct_land,Structural predictor,49.766073492676
+RUS,Russian Federation,2014,AG.LND.FRST.ZS,Forest area (% of land area),forest_area_pct_land,Structural predictor,49.763568252053
+RUS,Russian Federation,2015,AG.LND.FRST.ZS,Forest area (% of land area),forest_area_pct_land,Structural predictor,49.7610630114301
+RUS,Russian Federation,2016,AG.LND.FRST.ZS,Forest area (% of land area),forest_area_pct_land,Structural predictor,49.7726977132993
+RUS,Russian Federation,2017,AG.LND.FRST.ZS,Forest area (% of land area),forest_area_pct_land,Structural predictor,49.7843605035639
+RUS,Russian Federation,2018,AG.LND.FRST.ZS,Forest area (% of land area),forest_area_pct_land,Structural predictor,49.7843605035639
+RUS,Russian Federation,2019,AG.LND.FRST.ZS,Forest area (% of land area),forest_area_pct_land,Structural predictor,49.7843605035639
+RUS,Russian Federation,2020,AG.LND.FRST.ZS,Forest area (% of land area),forest_area_pct_land,Structural predictor,49.7843605035639
+SAU,Saudi Arabia,2010,AG.LND.FRST.ZS,Forest area (% of land area),forest_area_pct_land,Structural predictor,0.454484134921779
+SAU,Saudi Arabia,2011,AG.LND.FRST.ZS,Forest area (% of land area),forest_area_pct_land,Structural predictor,0.454484134921779
+SAU,Saudi Arabia,2012,AG.LND.FRST.ZS,Forest area (% of land area),forest_area_pct_land,Structural predictor,0.454484134921779
+SAU,Saudi Arabia,2013,AG.LND.FRST.ZS,Forest area (% of land area),forest_area_pct_land,Structural predictor,0.454484134921779
+SAU,Saudi Arabia,2014,AG.LND.FRST.ZS,Forest area (% of land area),forest_area_pct_land,Structural predictor,0.454484134921779
+SAU,Saudi Arabia,2015,AG.LND.FRST.ZS,Forest area (% of land area),forest_area_pct_land,Structural predictor,0.454484134921779
+SAU,Saudi Arabia,2016,AG.LND.FRST.ZS,Forest area (% of land area),forest_area_pct_land,Structural predictor,0.454484134921779
+SAU,Saudi Arabia,2017,AG.LND.FRST.ZS,Forest area (% of land area),forest_area_pct_land,Structural predictor,0.454484134921779
+SAU,Saudi Arabia,2018,AG.LND.FRST.ZS,Forest area (% of land area),forest_area_pct_land,Structural predictor,0.454484134921779
+SAU,Saudi Arabia,2019,AG.LND.FRST.ZS,Forest area (% of land area),forest_area_pct_land,Structural predictor,0.454484134921779
+SAU,Saudi Arabia,2020,AG.LND.FRST.ZS,Forest area (% of land area),forest_area_pct_land,Structural predictor,0.454484134921779
+GBR,United Kingdom,2010,AG.LND.FRST.ZS,Forest area (% of land area),forest_area_pct_land,Structural predictor,12.6441532674741
+GBR,United Kingdom,2011,AG.LND.FRST.ZS,Forest area (% of land area),forest_area_pct_land,Structural predictor,12.7235150663415
+GBR,United Kingdom,2012,AG.LND.FRST.ZS,Forest area (% of land area),forest_area_pct_land,Structural predictor,12.8028768652089
+GBR,United Kingdom,2013,AG.LND.FRST.ZS,Forest area (% of land area),forest_area_pct_land,Structural predictor,12.8822386640764
+GBR,United Kingdom,2014,AG.LND.FRST.ZS,Forest area (% of land area),forest_area_pct_land,Structural predictor,12.9616004629438
+GBR,United Kingdom,2015,AG.LND.FRST.ZS,Forest area (% of land area),forest_area_pct_land,Structural predictor,13.0409622618113
+GBR,United Kingdom,2016,AG.LND.FRST.ZS,Forest area (% of land area),forest_area_pct_land,Structural predictor,13.0574959699087
+GBR,United Kingdom,2017,AG.LND.FRST.ZS,Forest area (% of land area),forest_area_pct_land,Structural predictor,13.0781631050304
+GBR,United Kingdom,2018,AG.LND.FRST.ZS,Forest area (% of land area),forest_area_pct_land,Structural predictor,13.1153639482495
+GBR,United Kingdom,2019,AG.LND.FRST.ZS,Forest area (% of land area),forest_area_pct_land,Structural predictor,13.1525647914686
+GBR,United Kingdom,2020,AG.LND.FRST.ZS,Forest area (% of land area),forest_area_pct_land,Structural predictor,13.1856322076634
+USA,United States,2010,AG.LND.FRST.ZS,Forest area (% of land area),forest_area_pct_land,Structural predictor,33.7494069366007
+USA,United States,2011,AG.LND.FRST.ZS,Forest area (% of land area),forest_area_pct_land,Structural predictor,33.7794700582241
+USA,United States,2012,AG.LND.FRST.ZS,Forest area (% of land area),forest_area_pct_land,Structural predictor,33.8095331798474
+USA,United States,2013,AG.LND.FRST.ZS,Forest area (% of land area),forest_area_pct_land,Structural predictor,33.8395963014708
+USA,United States,2014,AG.LND.FRST.ZS,Forest area (% of land area),forest_area_pct_land,Structural predictor,33.8696594230942
+USA,United States,2015,AG.LND.FRST.ZS,Forest area (% of land area),forest_area_pct_land,Structural predictor,33.8997225447175
+USA,United States,2016,AG.LND.FRST.ZS,Forest area (% of land area),forest_area_pct_land,Structural predictor,33.8997225447175
+USA,United States,2017,AG.LND.FRST.ZS,Forest area (% of land area),forest_area_pct_land,Structural predictor,33.8669264120375
+USA,United States,2018,AG.LND.FRST.ZS,Forest area (% of land area),forest_area_pct_land,Structural predictor,33.8669264120375
+USA,United States,2019,AG.LND.FRST.ZS,Forest area (% of land area),forest_area_pct_land,Structural predictor,33.8669264120375
+USA,United States,2020,AG.LND.FRST.ZS,Forest area (% of land area),forest_area_pct_land,Structural predictor,33.8669264120375

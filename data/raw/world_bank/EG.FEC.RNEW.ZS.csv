@@ -1,0 +1,111 @@
+country_code,country_name,year,indicator_code,indicator_name,short_name,category,value
+CHN,China,2010,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),renewable_energy_pct_total_final,Structural predictor,12.3
+CHN,China,2011,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),renewable_energy_pct_total_final,Structural predictor,11.3
+CHN,China,2012,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),renewable_energy_pct_total_final,Structural predictor,11.5
+CHN,China,2013,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),renewable_energy_pct_total_final,Structural predictor,11.5
+CHN,China,2014,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),renewable_energy_pct_total_final,Structural predictor,11.9
+CHN,China,2015,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),renewable_energy_pct_total_final,Structural predictor,12.2
+CHN,China,2016,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),renewable_energy_pct_total_final,Structural predictor,12.6
+CHN,China,2017,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),renewable_energy_pct_total_final,Structural predictor,13.1
+CHN,China,2018,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),renewable_energy_pct_total_final,Structural predictor,13.5
+CHN,China,2019,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),renewable_energy_pct_total_final,Structural predictor,14.3
+CHN,China,2020,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),renewable_energy_pct_total_final,Structural predictor,14.9
+FRA,France,2010,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),renewable_energy_pct_total_final,Structural predictor,11.9
+FRA,France,2011,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),renewable_energy_pct_total_final,Structural predictor,10.6
+FRA,France,2012,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),renewable_energy_pct_total_final,Structural predictor,12.3
+FRA,France,2013,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),renewable_energy_pct_total_final,Structural predictor,13.4
+FRA,France,2014,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),renewable_energy_pct_total_final,Structural predictor,13.2
+FRA,France,2015,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),renewable_energy_pct_total_final,Structural predictor,13.3
+FRA,France,2016,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),renewable_energy_pct_total_final,Structural predictor,14.2
+FRA,France,2017,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),renewable_energy_pct_total_final,Structural predictor,14.1
+FRA,France,2018,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),renewable_energy_pct_total_final,Structural predictor,15.2
+FRA,France,2019,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),renewable_energy_pct_total_final,Structural predictor,15.5
+FRA,France,2020,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),renewable_energy_pct_total_final,Structural predictor,16.8
+DEU,Germany,2010,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),renewable_energy_pct_total_final,Structural predictor,11.6
+DEU,Germany,2011,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),renewable_energy_pct_total_final,Structural predictor,12.5
+DEU,Germany,2012,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),renewable_energy_pct_total_final,Structural predictor,13.6
+DEU,Germany,2013,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),renewable_energy_pct_total_final,Structural predictor,13.6
+DEU,Germany,2014,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),renewable_energy_pct_total_final,Structural predictor,14.0
+DEU,Germany,2015,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),renewable_energy_pct_total_final,Structural predictor,14.6
+DEU,Germany,2016,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),renewable_energy_pct_total_final,Structural predictor,14.2
+DEU,Germany,2017,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),renewable_energy_pct_total_final,Structural predictor,15.2
+DEU,Germany,2018,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),renewable_energy_pct_total_final,Structural predictor,16.0
+DEU,Germany,2019,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),renewable_energy_pct_total_final,Structural predictor,17.1
+DEU,Germany,2020,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),renewable_energy_pct_total_final,Structural predictor,18.5
+ISR,Israel,2010,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),renewable_energy_pct_total_final,Structural predictor,8.6
+ISR,Israel,2011,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),renewable_energy_pct_total_final,Structural predictor,9.1
+ISR,Israel,2012,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),renewable_energy_pct_total_final,Structural predictor,2.9
+ISR,Israel,2013,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),renewable_energy_pct_total_final,Structural predictor,3.3
+ISR,Israel,2014,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),renewable_energy_pct_total_final,Structural predictor,3.7
+ISR,Israel,2015,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),renewable_energy_pct_total_final,Structural predictor,3.7
+ISR,Israel,2016,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),renewable_energy_pct_total_final,Structural predictor,4.0
+ISR,Israel,2017,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),renewable_energy_pct_total_final,Structural predictor,3.9
+ISR,Israel,2018,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),renewable_energy_pct_total_final,Structural predictor,3.8
+ISR,Israel,2019,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),renewable_energy_pct_total_final,Structural predictor,4.5
+ISR,Israel,2020,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),renewable_energy_pct_total_final,Structural predictor,5.6
+JPN,Japan,2010,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),renewable_energy_pct_total_final,Structural predictor,4.7
+JPN,Japan,2011,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),renewable_energy_pct_total_final,Structural predictor,4.8
+JPN,Japan,2012,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),renewable_energy_pct_total_final,Structural predictor,4.7
+JPN,Japan,2013,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),renewable_energy_pct_total_final,Structural predictor,5.0
+JPN,Japan,2014,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),renewable_energy_pct_total_final,Structural predictor,5.6
+JPN,Japan,2015,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),renewable_energy_pct_total_final,Structural predictor,6.2
+JPN,Japan,2016,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),renewable_energy_pct_total_final,Structural predictor,6.4
+JPN,Japan,2017,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),renewable_energy_pct_total_final,Structural predictor,6.9
+JPN,Japan,2018,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),renewable_energy_pct_total_final,Structural predictor,7.3
+JPN,Japan,2019,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),renewable_energy_pct_total_final,Structural predictor,7.8
+JPN,Japan,2020,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),renewable_energy_pct_total_final,Structural predictor,8.5
+KOR,"Korea, Rep.",2010,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),renewable_energy_pct_total_final,Structural predictor,1.3
+KOR,"Korea, Rep.",2011,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),renewable_energy_pct_total_final,Structural predictor,1.4
+KOR,"Korea, Rep.",2012,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),renewable_energy_pct_total_final,Structural predictor,1.6
+KOR,"Korea, Rep.",2013,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),renewable_energy_pct_total_final,Structural predictor,1.9
+KOR,"Korea, Rep.",2014,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),renewable_energy_pct_total_final,Structural predictor,2.9
+KOR,"Korea, Rep.",2015,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),renewable_energy_pct_total_final,Structural predictor,2.7
+KOR,"Korea, Rep.",2016,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),renewable_energy_pct_total_final,Structural predictor,2.6
+KOR,"Korea, Rep.",2017,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),renewable_energy_pct_total_final,Structural predictor,2.8
+KOR,"Korea, Rep.",2018,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),renewable_energy_pct_total_final,Structural predictor,3.2
+KOR,"Korea, Rep.",2019,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),renewable_energy_pct_total_final,Structural predictor,3.2
+KOR,"Korea, Rep.",2020,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),renewable_energy_pct_total_final,Structural predictor,3.6
+RUS,Russian Federation,2010,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),renewable_energy_pct_total_final,Structural predictor,3.3
+RUS,Russian Federation,2011,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),renewable_energy_pct_total_final,Structural predictor,3.2
+RUS,Russian Federation,2012,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),renewable_energy_pct_total_final,Structural predictor,3.2
+RUS,Russian Federation,2013,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),renewable_energy_pct_total_final,Structural predictor,3.6
+RUS,Russian Federation,2014,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),renewable_energy_pct_total_final,Structural predictor,3.3
+RUS,Russian Federation,2015,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),renewable_energy_pct_total_final,Structural predictor,3.2
+RUS,Russian Federation,2016,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),renewable_energy_pct_total_final,Structural predictor,3.4
+RUS,Russian Federation,2017,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),renewable_energy_pct_total_final,Structural predictor,3.2
+RUS,Russian Federation,2018,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),renewable_energy_pct_total_final,Structural predictor,3.2
+RUS,Russian Federation,2019,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),renewable_energy_pct_total_final,Structural predictor,3.2
+RUS,Russian Federation,2020,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),renewable_energy_pct_total_final,Structural predictor,3.7
+SAU,Saudi Arabia,2010,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),renewable_energy_pct_total_final,Structural predictor,0.0
+SAU,Saudi Arabia,2011,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),renewable_energy_pct_total_final,Structural predictor,0.0
+SAU,Saudi Arabia,2012,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),renewable_energy_pct_total_final,Structural predictor,0.0
+SAU,Saudi Arabia,2013,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),renewable_energy_pct_total_final,Structural predictor,0.0
+SAU,Saudi Arabia,2014,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),renewable_energy_pct_total_final,Structural predictor,0.0
+SAU,Saudi Arabia,2015,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),renewable_energy_pct_total_final,Structural predictor,0.0
+SAU,Saudi Arabia,2016,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),renewable_energy_pct_total_final,Structural predictor,0.0
+SAU,Saudi Arabia,2017,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),renewable_energy_pct_total_final,Structural predictor,0.0
+SAU,Saudi Arabia,2018,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),renewable_energy_pct_total_final,Structural predictor,0.0
+SAU,Saudi Arabia,2019,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),renewable_energy_pct_total_final,Structural predictor,0.0
+SAU,Saudi Arabia,2020,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),renewable_energy_pct_total_final,Structural predictor,0.1
+GBR,United Kingdom,2010,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),renewable_energy_pct_total_final,Structural predictor,3.2
+GBR,United Kingdom,2011,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),renewable_energy_pct_total_final,Structural predictor,4.0
+GBR,United Kingdom,2012,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),renewable_energy_pct_total_final,Structural predictor,4.2
+GBR,United Kingdom,2013,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),renewable_energy_pct_total_final,Structural predictor,5.2
+GBR,United Kingdom,2014,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),renewable_energy_pct_total_final,Structural predictor,6.6
+GBR,United Kingdom,2015,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),renewable_energy_pct_total_final,Structural predictor,7.7
+GBR,United Kingdom,2016,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),renewable_energy_pct_total_final,Structural predictor,7.7
+GBR,United Kingdom,2017,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),renewable_energy_pct_total_final,Structural predictor,8.8
+GBR,United Kingdom,2018,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),renewable_energy_pct_total_final,Structural predictor,10.2
+GBR,United Kingdom,2019,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),renewable_energy_pct_total_final,Structural predictor,11.4
+GBR,United Kingdom,2020,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),renewable_energy_pct_total_final,Structural predictor,13.6
+USA,United States,2010,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),renewable_energy_pct_total_final,Structural predictor,7.4
+USA,United States,2011,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),renewable_energy_pct_total_final,Structural predictor,8.4
+USA,United States,2012,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),renewable_energy_pct_total_final,Structural predictor,8.5
+USA,United States,2013,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),renewable_energy_pct_total_final,Structural predictor,8.9
+USA,United States,2014,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),renewable_energy_pct_total_final,Structural predictor,9.0
+USA,United States,2015,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),renewable_energy_pct_total_final,Structural predictor,8.9
+USA,United States,2016,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),renewable_energy_pct_total_final,Structural predictor,9.3
+USA,United States,2017,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),renewable_energy_pct_total_final,Structural predictor,9.7
+USA,United States,2018,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),renewable_energy_pct_total_final,Structural predictor,9.9
+USA,United States,2019,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),renewable_energy_pct_total_final,Structural predictor,10.2
+USA,United States,2020,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),renewable_energy_pct_total_final,Structural predictor,11.0

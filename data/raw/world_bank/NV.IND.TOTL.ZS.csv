@@ -1,0 +1,111 @@
+country_code,country_name,year,indicator_code,indicator_name,short_name,category,value
+CHN,China,2010,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",industry_value_added_pct_gdp,Direct predictor,45.7066207106778
+CHN,China,2011,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",industry_value_added_pct_gdp,Direct predictor,45.8002054108107
+CHN,China,2012,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",industry_value_added_pct_gdp,Direct predictor,44.6820698165478
+CHN,China,2013,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",industry_value_added_pct_gdp,Direct predictor,43.3938707801605
+CHN,China,2014,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",industry_value_added_pct_gdp,Direct predictor,42.2827157791092
+CHN,China,2015,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",industry_value_added_pct_gdp,Direct predictor,40.0475902161032
+CHN,China,2016,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",industry_value_added_pct_gdp,Direct predictor,38.811156093921
+CHN,China,2017,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",industry_value_added_pct_gdp,Direct predictor,39.129944350895
+CHN,China,2018,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",industry_value_added_pct_gdp,Direct predictor,38.9777001747097
+CHN,China,2019,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",industry_value_added_pct_gdp,Direct predictor,37.7642333162735
+CHN,China,2020,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",industry_value_added_pct_gdp,Direct predictor,36.9115624066306
+FRA,France,2010,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",industry_value_added_pct_gdp,Direct predictor,17.5945885002022
+FRA,France,2011,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",industry_value_added_pct_gdp,Direct predictor,17.6800048726048
+FRA,France,2012,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",industry_value_added_pct_gdp,Direct predictor,17.4684347699959
+FRA,France,2013,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",industry_value_added_pct_gdp,Direct predictor,17.5699939241217
+FRA,France,2014,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",industry_value_added_pct_gdp,Direct predictor,17.3416195349368
+FRA,France,2015,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",industry_value_added_pct_gdp,Direct predictor,17.236441547058
+FRA,France,2016,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",industry_value_added_pct_gdp,Direct predictor,16.9433572396904
+FRA,France,2017,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",industry_value_added_pct_gdp,Direct predictor,16.7483032647876
+FRA,France,2018,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",industry_value_added_pct_gdp,Direct predictor,16.725283255726
+FRA,France,2019,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",industry_value_added_pct_gdp,Direct predictor,16.907003960354
+FRA,France,2020,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",industry_value_added_pct_gdp,Direct predictor,16.272651205236
+DEU,Germany,2010,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",industry_value_added_pct_gdp,Direct predictor,26.0371435344861
+DEU,Germany,2011,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",industry_value_added_pct_gdp,Direct predictor,26.2795286339924
+DEU,Germany,2012,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",industry_value_added_pct_gdp,Direct predictor,26.5450401531822
+DEU,Germany,2013,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",industry_value_added_pct_gdp,Direct predictor,25.8779408891742
+DEU,Germany,2014,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",industry_value_added_pct_gdp,Direct predictor,25.9859539549736
+DEU,Germany,2015,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",industry_value_added_pct_gdp,Direct predictor,25.8737038512745
+DEU,Germany,2016,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",industry_value_added_pct_gdp,Direct predictor,26.1732405694774
+DEU,Germany,2017,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",industry_value_added_pct_gdp,Direct predictor,25.9754703565139
+DEU,Germany,2018,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",industry_value_added_pct_gdp,Direct predictor,25.8506477811784
+DEU,Germany,2019,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",industry_value_added_pct_gdp,Direct predictor,25.5415743169893
+DEU,Germany,2020,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",industry_value_added_pct_gdp,Direct predictor,25.2353421894561
+ISR,Israel,2010,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",industry_value_added_pct_gdp,Direct predictor,20.8142494931167
+ISR,Israel,2011,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",industry_value_added_pct_gdp,Direct predictor,20.1347126935193
+ISR,Israel,2012,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",industry_value_added_pct_gdp,Direct predictor,20.4568472081077
+ISR,Israel,2013,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",industry_value_added_pct_gdp,Direct predictor,20.5672452681451
+ISR,Israel,2014,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",industry_value_added_pct_gdp,Direct predictor,19.9174851566845
+ISR,Israel,2015,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",industry_value_added_pct_gdp,Direct predictor,19.9747306038652
+ISR,Israel,2016,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",industry_value_added_pct_gdp,Direct predictor,19.1238077128283
+ISR,Israel,2017,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",industry_value_added_pct_gdp,Direct predictor,18.564684688678
+ISR,Israel,2018,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",industry_value_added_pct_gdp,Direct predictor,18.8202979612975
+ISR,Israel,2019,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",industry_value_added_pct_gdp,Direct predictor,18.9233446958735
+ISR,Israel,2020,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",industry_value_added_pct_gdp,Direct predictor,19.4382959029959
+JPN,Japan,2010,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",industry_value_added_pct_gdp,Direct predictor,28.3359701667911
+JPN,Japan,2011,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",industry_value_added_pct_gdp,Direct predictor,26.7014360671016
+JPN,Japan,2012,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",industry_value_added_pct_gdp,Direct predictor,26.562641428228
+JPN,Japan,2013,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",industry_value_added_pct_gdp,Direct predictor,26.6507450551464
+JPN,Japan,2014,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",industry_value_added_pct_gdp,Direct predictor,27.3136267349767
+JPN,Japan,2015,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",industry_value_added_pct_gdp,Direct predictor,28.5837114240167
+JPN,Japan,2016,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",industry_value_added_pct_gdp,Direct predictor,28.6299476490573
+JPN,Japan,2017,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",industry_value_added_pct_gdp,Direct predictor,28.8824260088632
+JPN,Japan,2018,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",industry_value_added_pct_gdp,Direct predictor,29.0140076866127
+JPN,Japan,2019,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",industry_value_added_pct_gdp,Direct predictor,28.8040848106902
+JPN,Japan,2020,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",industry_value_added_pct_gdp,Direct predictor,29.0568076109153
+KOR,"Korea, Rep.",2010,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",industry_value_added_pct_gdp,Direct predictor,34.4083287071276
+KOR,"Korea, Rep.",2011,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",industry_value_added_pct_gdp,Direct predictor,34.8688946576209
+KOR,"Korea, Rep.",2012,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",industry_value_added_pct_gdp,Direct predictor,34.7007966708538
+KOR,"Korea, Rep.",2013,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",industry_value_added_pct_gdp,Direct predictor,35.1987111905484
+KOR,"Korea, Rep.",2014,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",industry_value_added_pct_gdp,Direct predictor,35.0245177739824
+KOR,"Korea, Rep.",2015,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",industry_value_added_pct_gdp,Direct predictor,35.113231110723
+KOR,"Korea, Rep.",2016,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",industry_value_added_pct_gdp,Direct predictor,35.226493712639
+KOR,"Korea, Rep.",2017,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",industry_value_added_pct_gdp,Direct predictor,35.6298842658067
+KOR,"Korea, Rep.",2018,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",industry_value_added_pct_gdp,Direct predictor,34.9767074768513
+KOR,"Korea, Rep.",2019,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",industry_value_added_pct_gdp,Direct predictor,33.6464921028153
+KOR,"Korea, Rep.",2020,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",industry_value_added_pct_gdp,Direct predictor,33.3563261777639
+RUS,Russian Federation,2010,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",industry_value_added_pct_gdp,Direct predictor,29.999588218512
+RUS,Russian Federation,2011,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",industry_value_added_pct_gdp,Direct predictor,29.4135888378747
+RUS,Russian Federation,2012,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",industry_value_added_pct_gdp,Direct predictor,29.102868072666
+RUS,Russian Federation,2013,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",industry_value_added_pct_gdp,Direct predictor,28.1912891799352
+RUS,Russian Federation,2014,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",industry_value_added_pct_gdp,Direct predictor,27.9315270606099
+RUS,Russian Federation,2015,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",industry_value_added_pct_gdp,Direct predictor,29.7940599874349
+RUS,Russian Federation,2016,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",industry_value_added_pct_gdp,Direct predictor,29.1739050669208
+RUS,Russian Federation,2017,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",industry_value_added_pct_gdp,Direct predictor,30.6732968853437
+RUS,Russian Federation,2018,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",industry_value_added_pct_gdp,Direct predictor,32.5542980530841
+RUS,Russian Federation,2019,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",industry_value_added_pct_gdp,Direct predictor,32.1504958365379
+RUS,Russian Federation,2020,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",industry_value_added_pct_gdp,Direct predictor,29.7171245814295
+SAU,Saudi Arabia,2010,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",industry_value_added_pct_gdp,Direct predictor,58.0314401714882
+SAU,Saudi Arabia,2011,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",industry_value_added_pct_gdp,Direct predictor,63.0803869808085
+SAU,Saudi Arabia,2012,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",industry_value_added_pct_gdp,Direct predictor,61.9428982819125
+SAU,Saudi Arabia,2013,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",industry_value_added_pct_gdp,Direct predictor,58.9702568849547
+SAU,Saudi Arabia,2014,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",industry_value_added_pct_gdp,Direct predictor,56.1653404810043
+SAU,Saudi Arabia,2015,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",industry_value_added_pct_gdp,Direct predictor,44.6011697093878
+SAU,Saudi Arabia,2016,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",industry_value_added_pct_gdp,Direct predictor,42.5305962013279
+SAU,Saudi Arabia,2017,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",industry_value_added_pct_gdp,Direct predictor,44.8899324686986
+SAU,Saudi Arabia,2018,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",industry_value_added_pct_gdp,Direct predictor,49.0147439495304
+SAU,Saudi Arabia,2019,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",industry_value_added_pct_gdp,Direct predictor,45.7234459871756
+SAU,Saudi Arabia,2020,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",industry_value_added_pct_gdp,Direct predictor,38.3004545080469
+GBR,United Kingdom,2010,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",industry_value_added_pct_gdp,Direct predictor,18.5566755103695
+GBR,United Kingdom,2011,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",industry_value_added_pct_gdp,Direct predictor,18.3010218899425
+GBR,United Kingdom,2012,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",industry_value_added_pct_gdp,Direct predictor,18.2827169299324
+GBR,United Kingdom,2013,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",industry_value_added_pct_gdp,Direct predictor,18.592711752238
+GBR,United Kingdom,2014,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",industry_value_added_pct_gdp,Direct predictor,18.3478341562377
+GBR,United Kingdom,2015,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",industry_value_added_pct_gdp,Direct predictor,18.1397353548933
+GBR,United Kingdom,2016,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",industry_value_added_pct_gdp,Direct predictor,17.6677948178206
+GBR,United Kingdom,2017,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",industry_value_added_pct_gdp,Direct predictor,17.8215277161884
+GBR,United Kingdom,2018,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",industry_value_added_pct_gdp,Direct predictor,18.0023660420923
+GBR,United Kingdom,2019,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",industry_value_added_pct_gdp,Direct predictor,17.8736338534045
+GBR,United Kingdom,2020,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",industry_value_added_pct_gdp,Direct predictor,17.4957170827215
+USA,United States,2010,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",industry_value_added_pct_gdp,Direct predictor,19.3102572393851
+USA,United States,2011,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",industry_value_added_pct_gdp,Direct predictor,19.407502343174
+USA,United States,2012,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",industry_value_added_pct_gdp,Direct predictor,19.1626113169507
+USA,United States,2013,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",industry_value_added_pct_gdp,Direct predictor,19.2416260217373
+USA,United States,2014,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",industry_value_added_pct_gdp,Direct predictor,19.3315152083176
+USA,United States,2015,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",industry_value_added_pct_gdp,Direct predictor,18.5871320435183
+USA,United States,2016,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",industry_value_added_pct_gdp,Direct predictor,18.0422212818459
+USA,United States,2017,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",industry_value_added_pct_gdp,Direct predictor,18.4354240836094
+USA,United States,2018,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",industry_value_added_pct_gdp,Direct predictor,18.6308982431189
+USA,United States,2019,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",industry_value_added_pct_gdp,Direct predictor,18.2804280414808
+USA,United States,2020,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",industry_value_added_pct_gdp,Direct predictor,17.5084284843618

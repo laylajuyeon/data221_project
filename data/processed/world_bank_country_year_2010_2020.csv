@@ -1,0 +1,1321 @@
+country_code,country_name,year,indicator_code,indicator_name,short_name,category,value
+CHN,China,2010,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",pm25_mean_exposure,Environmental / outcome,47.4765519945183
+CHN,China,2011,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",pm25_mean_exposure,Environmental / outcome,51.34994369566
+CHN,China,2012,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",pm25_mean_exposure,Environmental / outcome,48.1207251131123
+CHN,China,2013,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",pm25_mean_exposure,Environmental / outcome,58.4662215596184
+CHN,China,2014,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",pm25_mean_exposure,Environmental / outcome,54.5688342973092
+CHN,China,2015,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",pm25_mean_exposure,Environmental / outcome,50.832537964484
+CHN,China,2016,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",pm25_mean_exposure,Environmental / outcome,46.8324682508133
+CHN,China,2017,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",pm25_mean_exposure,Environmental / outcome,45.8369336166997
+CHN,China,2018,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",pm25_mean_exposure,Environmental / outcome,40.2663875187565
+CHN,China,2019,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",pm25_mean_exposure,Environmental / outcome,37.5475753654351
+CHN,China,2020,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",pm25_mean_exposure,Environmental / outcome,34.8105237153218
+FRA,France,2010,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",pm25_mean_exposure,Environmental / outcome,13.7778502943804
+FRA,France,2011,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",pm25_mean_exposure,Environmental / outcome,13.7974719352463
+FRA,France,2012,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",pm25_mean_exposure,Environmental / outcome,12.5585885208406
+FRA,France,2013,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",pm25_mean_exposure,Environmental / outcome,12.4582922718332
+FRA,France,2014,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",pm25_mean_exposure,Environmental / outcome,10.687674674804
+FRA,France,2015,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",pm25_mean_exposure,Environmental / outcome,11.3442976642006
+FRA,France,2016,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",pm25_mean_exposure,Environmental / outcome,10.508154814077
+FRA,France,2017,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",pm25_mean_exposure,Environmental / outcome,10.4583123660264
+FRA,France,2018,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",pm25_mean_exposure,Environmental / outcome,10.4599453286038
+FRA,France,2019,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",pm25_mean_exposure,Environmental / outcome,9.82524600527018
+FRA,France,2020,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",pm25_mean_exposure,Environmental / outcome,9.60038144780495
+DEU,Germany,2010,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",pm25_mean_exposure,Environmental / outcome,16.201690204245
+DEU,Germany,2011,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",pm25_mean_exposure,Environmental / outcome,15.7161711583543
+DEU,Germany,2012,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",pm25_mean_exposure,Environmental / outcome,13.9078592571706
+DEU,Germany,2013,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",pm25_mean_exposure,Environmental / outcome,13.6633968189434
+DEU,Germany,2014,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",pm25_mean_exposure,Environmental / outcome,12.2822480920893
+DEU,Germany,2015,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",pm25_mean_exposure,Environmental / outcome,12.8253525089793
+DEU,Germany,2016,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",pm25_mean_exposure,Environmental / outcome,11.7806958987308
+DEU,Germany,2017,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",pm25_mean_exposure,Environmental / outcome,11.8978451129639
+DEU,Germany,2018,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",pm25_mean_exposure,Environmental / outcome,11.6526030992972
+DEU,Germany,2019,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",pm25_mean_exposure,Environmental / outcome,10.6378495266542
+DEU,Germany,2020,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",pm25_mean_exposure,Environmental / outcome,10.2876894329414
+ISR,Israel,2010,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",pm25_mean_exposure,Environmental / outcome,24.5561552293902
+ISR,Israel,2011,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",pm25_mean_exposure,Environmental / outcome,24.4804002133439
+ISR,Israel,2012,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",pm25_mean_exposure,Environmental / outcome,22.1038555397058
+ISR,Israel,2013,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",pm25_mean_exposure,Environmental / outcome,22.578207348874
+ISR,Israel,2014,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",pm25_mean_exposure,Environmental / outcome,21.175469715827
+ISR,Israel,2015,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",pm25_mean_exposure,Environmental / outcome,22.1043027343095
+ISR,Israel,2016,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",pm25_mean_exposure,Environmental / outcome,18.8170113677762
+ISR,Israel,2017,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",pm25_mean_exposure,Environmental / outcome,20.0293441275017
+ISR,Israel,2018,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",pm25_mean_exposure,Environmental / outcome,20.5625974806507
+ISR,Israel,2019,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",pm25_mean_exposure,Environmental / outcome,19.5556432093837
+ISR,Israel,2020,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",pm25_mean_exposure,Environmental / outcome,18.5982756348314
+JPN,Japan,2010,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",pm25_mean_exposure,Environmental / outcome,10.8511260577664
+JPN,Japan,2011,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",pm25_mean_exposure,Environmental / outcome,12.2742530701447
+JPN,Japan,2012,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",pm25_mean_exposure,Environmental / outcome,12.8068431271902
+JPN,Japan,2013,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",pm25_mean_exposure,Environmental / outcome,13.2542512411266
+JPN,Japan,2014,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",pm25_mean_exposure,Environmental / outcome,13.740610303435
+JPN,Japan,2015,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",pm25_mean_exposure,Environmental / outcome,12.8685359282927
+JPN,Japan,2016,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",pm25_mean_exposure,Environmental / outcome,12.799061198144
+JPN,Japan,2017,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",pm25_mean_exposure,Environmental / outcome,13.1198276213348
+JPN,Japan,2018,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",pm25_mean_exposure,Environmental / outcome,13.0790330283313
+JPN,Japan,2019,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",pm25_mean_exposure,Environmental / outcome,12.9378727869587
+JPN,Japan,2020,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",pm25_mean_exposure,Environmental / outcome,12.835201662985
+KOR,"Korea, Rep.",2010,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",pm25_mean_exposure,Environmental / outcome,21.7913866730167
+KOR,"Korea, Rep.",2011,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",pm25_mean_exposure,Environmental / outcome,24.8830450375162
+KOR,"Korea, Rep.",2012,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",pm25_mean_exposure,Environmental / outcome,25.5767916080653
+KOR,"Korea, Rep.",2013,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",pm25_mean_exposure,Environmental / outcome,27.4929658439861
+KOR,"Korea, Rep.",2014,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",pm25_mean_exposure,Environmental / outcome,28.3760075385872
+KOR,"Korea, Rep.",2015,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",pm25_mean_exposure,Environmental / outcome,26.2899620146574
+KOR,"Korea, Rep.",2016,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",pm25_mean_exposure,Environmental / outcome,26.6704344134095
+KOR,"Korea, Rep.",2017,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",pm25_mean_exposure,Environmental / outcome,26.0043671138493
+KOR,"Korea, Rep.",2018,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",pm25_mean_exposure,Environmental / outcome,25.9343920098722
+KOR,"Korea, Rep.",2019,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",pm25_mean_exposure,Environmental / outcome,26.0153634264606
+KOR,"Korea, Rep.",2020,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",pm25_mean_exposure,Environmental / outcome,25.9439899531653
+RUS,Russian Federation,2010,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",pm25_mean_exposure,Environmental / outcome,15.378627239492
+RUS,Russian Federation,2011,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",pm25_mean_exposure,Environmental / outcome,13.9138877120952
+RUS,Russian Federation,2012,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",pm25_mean_exposure,Environmental / outcome,13.8991230346483
+RUS,Russian Federation,2013,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",pm25_mean_exposure,Environmental / outcome,14.0574320033086
+RUS,Russian Federation,2014,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",pm25_mean_exposure,Environmental / outcome,14.2481805159069
+RUS,Russian Federation,2015,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",pm25_mean_exposure,Environmental / outcome,12.9392509421972
+RUS,Russian Federation,2016,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",pm25_mean_exposure,Environmental / outcome,12.4784655225055
+RUS,Russian Federation,2017,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",pm25_mean_exposure,Environmental / outcome,11.739094414375
+RUS,Russian Federation,2018,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",pm25_mean_exposure,Environmental / outcome,12.3153675046294
+RUS,Russian Federation,2019,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",pm25_mean_exposure,Environmental / outcome,11.6778230257169
+RUS,Russian Federation,2020,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",pm25_mean_exposure,Environmental / outcome,11.2727775886895
+SAU,Saudi Arabia,2010,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",pm25_mean_exposure,Environmental / outcome,59.8441227942823
+SAU,Saudi Arabia,2011,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",pm25_mean_exposure,Environmental / outcome,61.9036201963126
+SAU,Saudi Arabia,2012,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",pm25_mean_exposure,Environmental / outcome,65.8136535735159
+SAU,Saudi Arabia,2013,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",pm25_mean_exposure,Environmental / outcome,64.2495664318178
+SAU,Saudi Arabia,2014,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",pm25_mean_exposure,Environmental / outcome,51.0877522409227
+SAU,Saudi Arabia,2015,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",pm25_mean_exposure,Environmental / outcome,65.6121801282607
+SAU,Saudi Arabia,2016,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",pm25_mean_exposure,Environmental / outcome,57.2721294327821
+SAU,Saudi Arabia,2017,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",pm25_mean_exposure,Environmental / outcome,59.4402484783372
+SAU,Saudi Arabia,2018,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",pm25_mean_exposure,Environmental / outcome,61.9886640504678
+SAU,Saudi Arabia,2019,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",pm25_mean_exposure,Environmental / outcome,58.6225928552836
+SAU,Saudi Arabia,2020,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",pm25_mean_exposure,Environmental / outcome,53.1486013629285
+GBR,United Kingdom,2010,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",pm25_mean_exposure,Environmental / outcome,12.4589114498692
+GBR,United Kingdom,2011,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",pm25_mean_exposure,Environmental / outcome,13.0110598336171
+GBR,United Kingdom,2012,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",pm25_mean_exposure,Environmental / outcome,11.4844614132453
+GBR,United Kingdom,2013,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",pm25_mean_exposure,Environmental / outcome,11.3936196663408
+GBR,United Kingdom,2014,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",pm25_mean_exposure,Environmental / outcome,10.8076454562065
+GBR,United Kingdom,2015,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",pm25_mean_exposure,Environmental / outcome,10.4602728529493
+GBR,United Kingdom,2016,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",pm25_mean_exposure,Environmental / outcome,10.0359721133567
+GBR,United Kingdom,2017,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",pm25_mean_exposure,Environmental / outcome,10.3814201449701
+GBR,United Kingdom,2018,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",pm25_mean_exposure,Environmental / outcome,10.2397854923418
+GBR,United Kingdom,2019,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",pm25_mean_exposure,Environmental / outcome,9.94569869317993
+GBR,United Kingdom,2020,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",pm25_mean_exposure,Environmental / outcome,9.91288560282114
+USA,United States,2010,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",pm25_mean_exposure,Environmental / outcome,9.27587988353719
+USA,United States,2011,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",pm25_mean_exposure,Environmental / outcome,9.36462744857706
+USA,United States,2012,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",pm25_mean_exposure,Environmental / outcome,9.01055428019472
+USA,United States,2013,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",pm25_mean_exposure,Environmental / outcome,8.74620817680451
+USA,United States,2014,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",pm25_mean_exposure,Environmental / outcome,8.5101265108009
+USA,United States,2015,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",pm25_mean_exposure,Environmental / outcome,8.19074183499752
+USA,United States,2016,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",pm25_mean_exposure,Environmental / outcome,7.40835009300858
+USA,United States,2017,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",pm25_mean_exposure,Environmental / outcome,7.79040584360488
+USA,United States,2018,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",pm25_mean_exposure,Environmental / outcome,7.8220065111125
+USA,United States,2019,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",pm25_mean_exposure,Environmental / outcome,7.17602147949022
+USA,United States,2020,EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",pm25_mean_exposure,Environmental / outcome,7.81485752365112
+CHN,China,2010,EG.USE.COMM.FO.ZS,Fossil fuel energy consumption (% of total),fossil_fuel_energy_pct,Direct predictor,90.8066275814595
+CHN,China,2011,EG.USE.COMM.FO.ZS,Fossil fuel energy consumption (% of total),fossil_fuel_energy_pct,Direct predictor,91.4247318781345
+CHN,China,2012,EG.USE.COMM.FO.ZS,Fossil fuel energy consumption (% of total),fossil_fuel_energy_pct,Direct predictor,91.1492191796216
+CHN,China,2013,EG.USE.COMM.FO.ZS,Fossil fuel energy consumption (% of total),fossil_fuel_energy_pct,Direct predictor,91.0001219143645
+CHN,China,2014,EG.USE.COMM.FO.ZS,Fossil fuel energy consumption (% of total),fossil_fuel_energy_pct,Direct predictor,89.5548400213043
+CHN,China,2015,EG.USE.COMM.FO.ZS,Fossil fuel energy consumption (% of total),fossil_fuel_energy_pct,Direct predictor,71.0695588904552
+CHN,China,2016,EG.USE.COMM.FO.ZS,Fossil fuel energy consumption (% of total),fossil_fuel_energy_pct,Direct predictor,0.0
+CHN,China,2017,EG.USE.COMM.FO.ZS,Fossil fuel energy consumption (% of total),fossil_fuel_energy_pct,Direct predictor,0.0
+CHN,China,2018,EG.USE.COMM.FO.ZS,Fossil fuel energy consumption (% of total),fossil_fuel_energy_pct,Direct predictor,0.0
+CHN,China,2019,EG.USE.COMM.FO.ZS,Fossil fuel energy consumption (% of total),fossil_fuel_energy_pct,Direct predictor,0.0
+CHN,China,2020,EG.USE.COMM.FO.ZS,Fossil fuel energy consumption (% of total),fossil_fuel_energy_pct,Direct predictor,0.0
+FRA,France,2010,EG.USE.COMM.FO.ZS,Fossil fuel energy consumption (% of total),fossil_fuel_energy_pct,Direct predictor,49.5463820747788
+FRA,France,2011,EG.USE.COMM.FO.ZS,Fossil fuel energy consumption (% of total),fossil_fuel_energy_pct,Direct predictor,47.3979454513166
+FRA,France,2012,EG.USE.COMM.FO.ZS,Fossil fuel energy consumption (% of total),fossil_fuel_energy_pct,Direct predictor,47.8591536148997
+FRA,France,2013,EG.USE.COMM.FO.ZS,Fossil fuel energy consumption (% of total),fossil_fuel_energy_pct,Direct predictor,47.4024408546966
+FRA,France,2014,EG.USE.COMM.FO.ZS,Fossil fuel energy consumption (% of total),fossil_fuel_energy_pct,Direct predictor,45.0352121657311
+FRA,France,2015,EG.USE.COMM.FO.ZS,Fossil fuel energy consumption (% of total),fossil_fuel_energy_pct,Direct predictor,45.17655073785
+FRA,France,2016,EG.USE.COMM.FO.ZS,Fossil fuel energy consumption (% of total),fossil_fuel_energy_pct,Direct predictor,0.0
+FRA,France,2017,EG.USE.COMM.FO.ZS,Fossil fuel energy consumption (% of total),fossil_fuel_energy_pct,Direct predictor,0.0
+FRA,France,2018,EG.USE.COMM.FO.ZS,Fossil fuel energy consumption (% of total),fossil_fuel_energy_pct,Direct predictor,0.0
+FRA,France,2019,EG.USE.COMM.FO.ZS,Fossil fuel energy consumption (% of total),fossil_fuel_energy_pct,Direct predictor,0.0
+FRA,France,2020,EG.USE.COMM.FO.ZS,Fossil fuel energy consumption (% of total),fossil_fuel_energy_pct,Direct predictor,0.0
+DEU,Germany,2010,EG.USE.COMM.FO.ZS,Fossil fuel energy consumption (% of total),fossil_fuel_energy_pct,Direct predictor,78.9137435234329
+DEU,Germany,2011,EG.USE.COMM.FO.ZS,Fossil fuel energy consumption (% of total),fossil_fuel_energy_pct,Direct predictor,79.9147448510039
+DEU,Germany,2012,EG.USE.COMM.FO.ZS,Fossil fuel energy consumption (% of total),fossil_fuel_energy_pct,Direct predictor,79.8734282244706
+DEU,Germany,2013,EG.USE.COMM.FO.ZS,Fossil fuel energy consumption (% of total),fossil_fuel_energy_pct,Direct predictor,80.1391869348281
+DEU,Germany,2014,EG.USE.COMM.FO.ZS,Fossil fuel energy consumption (% of total),fossil_fuel_energy_pct,Direct predictor,79.3957288542964
+DEU,Germany,2015,EG.USE.COMM.FO.ZS,Fossil fuel energy consumption (% of total),fossil_fuel_energy_pct,Direct predictor,79.6280369964341
+DEU,Germany,2016,EG.USE.COMM.FO.ZS,Fossil fuel energy consumption (% of total),fossil_fuel_energy_pct,Direct predictor,0.0
+DEU,Germany,2017,EG.USE.COMM.FO.ZS,Fossil fuel energy consumption (% of total),fossil_fuel_energy_pct,Direct predictor,0.0
+DEU,Germany,2018,EG.USE.COMM.FO.ZS,Fossil fuel energy consumption (% of total),fossil_fuel_energy_pct,Direct predictor,0.0
+DEU,Germany,2019,EG.USE.COMM.FO.ZS,Fossil fuel energy consumption (% of total),fossil_fuel_energy_pct,Direct predictor,0.0
+DEU,Germany,2020,EG.USE.COMM.FO.ZS,Fossil fuel energy consumption (% of total),fossil_fuel_energy_pct,Direct predictor,0.0
+ISR,Israel,2010,EG.USE.COMM.FO.ZS,Fossil fuel energy consumption (% of total),fossil_fuel_energy_pct,Direct predictor,96.3156389549734
+ISR,Israel,2011,EG.USE.COMM.FO.ZS,Fossil fuel energy consumption (% of total),fossil_fuel_energy_pct,Direct predictor,96.4452722159678
+ISR,Israel,2012,EG.USE.COMM.FO.ZS,Fossil fuel energy consumption (% of total),fossil_fuel_energy_pct,Direct predictor,99.8871139276641
+ISR,Israel,2013,EG.USE.COMM.FO.ZS,Fossil fuel energy consumption (% of total),fossil_fuel_energy_pct,Direct predictor,
+ISR,Israel,2014,EG.USE.COMM.FO.ZS,Fossil fuel energy consumption (% of total),fossil_fuel_energy_pct,Direct predictor,
+ISR,Israel,2015,EG.USE.COMM.FO.ZS,Fossil fuel energy consumption (% of total),fossil_fuel_energy_pct,Direct predictor,
+ISR,Israel,2016,EG.USE.COMM.FO.ZS,Fossil fuel energy consumption (% of total),fossil_fuel_energy_pct,Direct predictor,0.0
+ISR,Israel,2017,EG.USE.COMM.FO.ZS,Fossil fuel energy consumption (% of total),fossil_fuel_energy_pct,Direct predictor,0.0
+ISR,Israel,2018,EG.USE.COMM.FO.ZS,Fossil fuel energy consumption (% of total),fossil_fuel_energy_pct,Direct predictor,0.0
+ISR,Israel,2019,EG.USE.COMM.FO.ZS,Fossil fuel energy consumption (% of total),fossil_fuel_energy_pct,Direct predictor,0.0
+ISR,Israel,2020,EG.USE.COMM.FO.ZS,Fossil fuel energy consumption (% of total),fossil_fuel_energy_pct,Direct predictor,0.0
+JPN,Japan,2010,EG.USE.COMM.FO.ZS,Fossil fuel energy consumption (% of total),fossil_fuel_energy_pct,Direct predictor,80.7668676604902
+JPN,Japan,2011,EG.USE.COMM.FO.ZS,Fossil fuel energy consumption (% of total),fossil_fuel_energy_pct,Direct predictor,89.5336527279383
+JPN,Japan,2012,EG.USE.COMM.FO.ZS,Fossil fuel energy consumption (% of total),fossil_fuel_energy_pct,Direct predictor,94.6392276053142
+JPN,Japan,2013,EG.USE.COMM.FO.ZS,Fossil fuel energy consumption (% of total),fossil_fuel_energy_pct,Direct predictor,94.6410356489959
+JPN,Japan,2014,EG.USE.COMM.FO.ZS,Fossil fuel energy consumption (% of total),fossil_fuel_energy_pct,Direct predictor,95.0909540310789
+JPN,Japan,2015,EG.USE.COMM.FO.ZS,Fossil fuel energy consumption (% of total),fossil_fuel_energy_pct,Direct predictor,93.791450810853
+JPN,Japan,2016,EG.USE.COMM.FO.ZS,Fossil fuel energy consumption (% of total),fossil_fuel_energy_pct,Direct predictor,0.0
+JPN,Japan,2017,EG.USE.COMM.FO.ZS,Fossil fuel energy consumption (% of total),fossil_fuel_energy_pct,Direct predictor,0.0
+JPN,Japan,2018,EG.USE.COMM.FO.ZS,Fossil fuel energy consumption (% of total),fossil_fuel_energy_pct,Direct predictor,0.0
+JPN,Japan,2019,EG.USE.COMM.FO.ZS,Fossil fuel energy consumption (% of total),fossil_fuel_energy_pct,Direct predictor,0.0
+JPN,Japan,2020,EG.USE.COMM.FO.ZS,Fossil fuel energy consumption (% of total),fossil_fuel_energy_pct,Direct predictor,0.0
+KOR,"Korea, Rep.",2010,EG.USE.COMM.FO.ZS,Fossil fuel energy consumption (% of total),fossil_fuel_energy_pct,Direct predictor,84.9772705251785
+KOR,"Korea, Rep.",2011,EG.USE.COMM.FO.ZS,Fossil fuel energy consumption (% of total),fossil_fuel_energy_pct,Direct predictor,84.3895257817618
+KOR,"Korea, Rep.",2012,EG.USE.COMM.FO.ZS,Fossil fuel energy consumption (% of total),fossil_fuel_energy_pct,Direct predictor,85.2613535136449
+KOR,"Korea, Rep.",2013,EG.USE.COMM.FO.ZS,Fossil fuel energy consumption (% of total),fossil_fuel_energy_pct,Direct predictor,86.198534712566
+KOR,"Korea, Rep.",2014,EG.USE.COMM.FO.ZS,Fossil fuel energy consumption (% of total),fossil_fuel_energy_pct,Direct predictor,84.837677016859
+KOR,"Korea, Rep.",2015,EG.USE.COMM.FO.ZS,Fossil fuel energy consumption (% of total),fossil_fuel_energy_pct,Direct predictor,83.7249545111828
+KOR,"Korea, Rep.",2016,EG.USE.COMM.FO.ZS,Fossil fuel energy consumption (% of total),fossil_fuel_energy_pct,Direct predictor,0.0
+KOR,"Korea, Rep.",2017,EG.USE.COMM.FO.ZS,Fossil fuel energy consumption (% of total),fossil_fuel_energy_pct,Direct predictor,0.0
+KOR,"Korea, Rep.",2018,EG.USE.COMM.FO.ZS,Fossil fuel energy consumption (% of total),fossil_fuel_energy_pct,Direct predictor,0.0
+KOR,"Korea, Rep.",2019,EG.USE.COMM.FO.ZS,Fossil fuel energy consumption (% of total),fossil_fuel_energy_pct,Direct predictor,0.0
+KOR,"Korea, Rep.",2020,EG.USE.COMM.FO.ZS,Fossil fuel energy consumption (% of total),fossil_fuel_energy_pct,Direct predictor,0.0
+RUS,Russian Federation,2010,EG.USE.COMM.FO.ZS,Fossil fuel energy consumption (% of total),fossil_fuel_energy_pct,Direct predictor,89.8894516557171
+RUS,Russian Federation,2011,EG.USE.COMM.FO.ZS,Fossil fuel energy consumption (% of total),fossil_fuel_energy_pct,Direct predictor,91.6925475612423
+RUS,Russian Federation,2012,EG.USE.COMM.FO.ZS,Fossil fuel energy consumption (% of total),fossil_fuel_energy_pct,Direct predictor,92.7448881852914
+RUS,Russian Federation,2013,EG.USE.COMM.FO.ZS,Fossil fuel energy consumption (% of total),fossil_fuel_energy_pct,Direct predictor,92.2077778085416
+RUS,Russian Federation,2014,EG.USE.COMM.FO.ZS,Fossil fuel energy consumption (% of total),fossil_fuel_energy_pct,Direct predictor,92.3829682310696
+RUS,Russian Federation,2015,EG.USE.COMM.FO.ZS,Fossil fuel energy consumption (% of total),fossil_fuel_energy_pct,Direct predictor,49.9404108669885
+RUS,Russian Federation,2016,EG.USE.COMM.FO.ZS,Fossil fuel energy consumption (% of total),fossil_fuel_energy_pct,Direct predictor,0.0
+RUS,Russian Federation,2017,EG.USE.COMM.FO.ZS,Fossil fuel energy consumption (% of total),fossil_fuel_energy_pct,Direct predictor,0.0
+RUS,Russian Federation,2018,EG.USE.COMM.FO.ZS,Fossil fuel energy consumption (% of total),fossil_fuel_energy_pct,Direct predictor,0.0
+RUS,Russian Federation,2019,EG.USE.COMM.FO.ZS,Fossil fuel energy consumption (% of total),fossil_fuel_energy_pct,Direct predictor,0.0
+RUS,Russian Federation,2020,EG.USE.COMM.FO.ZS,Fossil fuel energy consumption (% of total),fossil_fuel_energy_pct,Direct predictor,0.0
+SAU,Saudi Arabia,2010,EG.USE.COMM.FO.ZS,Fossil fuel energy consumption (% of total),fossil_fuel_energy_pct,Direct predictor,97.1141605250732
+SAU,Saudi Arabia,2011,EG.USE.COMM.FO.ZS,Fossil fuel energy consumption (% of total),fossil_fuel_energy_pct,Direct predictor,88.2559935839333
+SAU,Saudi Arabia,2012,EG.USE.COMM.FO.ZS,Fossil fuel energy consumption (% of total),fossil_fuel_energy_pct,Direct predictor,96.8982298785652
+SAU,Saudi Arabia,2013,EG.USE.COMM.FO.ZS,Fossil fuel energy consumption (% of total),fossil_fuel_energy_pct,Direct predictor,93.5954421193098
+SAU,Saudi Arabia,2014,EG.USE.COMM.FO.ZS,Fossil fuel energy consumption (% of total),fossil_fuel_energy_pct,Direct predictor,94.6812895083609
+SAU,Saudi Arabia,2015,EG.USE.COMM.FO.ZS,Fossil fuel energy consumption (% of total),fossil_fuel_energy_pct,Direct predictor,7.12657787813047
+SAU,Saudi Arabia,2016,EG.USE.COMM.FO.ZS,Fossil fuel energy consumption (% of total),fossil_fuel_energy_pct,Direct predictor,0.0
+SAU,Saudi Arabia,2017,EG.USE.COMM.FO.ZS,Fossil fuel energy consumption (% of total),fossil_fuel_energy_pct,Direct predictor,0.0
+SAU,Saudi Arabia,2018,EG.USE.COMM.FO.ZS,Fossil fuel energy consumption (% of total),fossil_fuel_energy_pct,Direct predictor,0.0
+SAU,Saudi Arabia,2019,EG.USE.COMM.FO.ZS,Fossil fuel energy consumption (% of total),fossil_fuel_energy_pct,Direct predictor,0.0
+SAU,Saudi Arabia,2020,EG.USE.COMM.FO.ZS,Fossil fuel energy consumption (% of total),fossil_fuel_energy_pct,Direct predictor,0.0
+GBR,United Kingdom,2010,EG.USE.COMM.FO.ZS,Fossil fuel energy consumption (% of total),fossil_fuel_energy_pct,Direct predictor,88.0471564659239
+GBR,United Kingdom,2011,EG.USE.COMM.FO.ZS,Fossil fuel energy consumption (% of total),fossil_fuel_energy_pct,Direct predictor,85.5149021890224
+GBR,United Kingdom,2012,EG.USE.COMM.FO.ZS,Fossil fuel energy consumption (% of total),fossil_fuel_energy_pct,Direct predictor,85.521340980268
+GBR,United Kingdom,2013,EG.USE.COMM.FO.ZS,Fossil fuel energy consumption (% of total),fossil_fuel_energy_pct,Direct predictor,84.2622069916402
+GBR,United Kingdom,2014,EG.USE.COMM.FO.ZS,Fossil fuel energy consumption (% of total),fossil_fuel_energy_pct,Direct predictor,82.9732271356392
+GBR,United Kingdom,2015,EG.USE.COMM.FO.ZS,Fossil fuel energy consumption (% of total),fossil_fuel_energy_pct,Direct predictor,80.0887890113877
+GBR,United Kingdom,2016,EG.USE.COMM.FO.ZS,Fossil fuel energy consumption (% of total),fossil_fuel_energy_pct,Direct predictor,0.0
+GBR,United Kingdom,2017,EG.USE.COMM.FO.ZS,Fossil fuel energy consumption (% of total),fossil_fuel_energy_pct,Direct predictor,0.0
+GBR,United Kingdom,2018,EG.USE.COMM.FO.ZS,Fossil fuel energy consumption (% of total),fossil_fuel_energy_pct,Direct predictor,0.0
+GBR,United Kingdom,2019,EG.USE.COMM.FO.ZS,Fossil fuel energy consumption (% of total),fossil_fuel_energy_pct,Direct predictor,0.0
+GBR,United Kingdom,2020,EG.USE.COMM.FO.ZS,Fossil fuel energy consumption (% of total),fossil_fuel_energy_pct,Direct predictor,0.0
+USA,United States,2010,EG.USE.COMM.FO.ZS,Fossil fuel energy consumption (% of total),fossil_fuel_energy_pct,Direct predictor,84.1233868138427
+USA,United States,2011,EG.USE.COMM.FO.ZS,Fossil fuel energy consumption (% of total),fossil_fuel_energy_pct,Direct predictor,83.8876736758574
+USA,United States,2012,EG.USE.COMM.FO.ZS,Fossil fuel energy consumption (% of total),fossil_fuel_energy_pct,Direct predictor,83.9446029612371
+USA,United States,2013,EG.USE.COMM.FO.ZS,Fossil fuel energy consumption (% of total),fossil_fuel_energy_pct,Direct predictor,82.9728876992826
+USA,United States,2014,EG.USE.COMM.FO.ZS,Fossil fuel energy consumption (% of total),fossil_fuel_energy_pct,Direct predictor,83.4019897520666
+USA,United States,2015,EG.USE.COMM.FO.ZS,Fossil fuel energy consumption (% of total),fossil_fuel_energy_pct,Direct predictor,82.3258162759788
+USA,United States,2016,EG.USE.COMM.FO.ZS,Fossil fuel energy consumption (% of total),fossil_fuel_energy_pct,Direct predictor,0.0
+USA,United States,2017,EG.USE.COMM.FO.ZS,Fossil fuel energy consumption (% of total),fossil_fuel_energy_pct,Direct predictor,0.0
+USA,United States,2018,EG.USE.COMM.FO.ZS,Fossil fuel energy consumption (% of total),fossil_fuel_energy_pct,Direct predictor,0.0
+USA,United States,2019,EG.USE.COMM.FO.ZS,Fossil fuel energy consumption (% of total),fossil_fuel_energy_pct,Direct predictor,0.0
+USA,United States,2020,EG.USE.COMM.FO.ZS,Fossil fuel energy consumption (% of total),fossil_fuel_energy_pct,Direct predictor,0.0
+CHN,China,2010,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),energy_use_per_capita_kg_oil_eq,Direct predictor,1899.79996108685
+CHN,China,2011,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),energy_use_per_capita_kg_oil_eq,Direct predictor,2027.46525356855
+CHN,China,2012,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),energy_use_per_capita_kg_oil_eq,Direct predictor,2085.21872095825
+CHN,China,2013,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),energy_use_per_capita_kg_oil_eq,Direct predictor,2137.32572690907
+CHN,China,2014,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),energy_use_per_capita_kg_oil_eq,Direct predictor,2177.55011435267
+CHN,China,2015,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),energy_use_per_capita_kg_oil_eq,Direct predictor,2175.1544486832
+CHN,China,2016,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),energy_use_per_capita_kg_oil_eq,Direct predictor,2149.2047500244
+CHN,China,2017,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),energy_use_per_capita_kg_oil_eq,Direct predictor,2215.91139022057
+CHN,China,2018,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),energy_use_per_capita_kg_oil_eq,Direct predictor,2310.87757050979
+CHN,China,2019,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),energy_use_per_capita_kg_oil_eq,Direct predictor,2397.96868908473
+CHN,China,2020,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),energy_use_per_capita_kg_oil_eq,Direct predictor,2465.96954605987
+FRA,France,2010,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),energy_use_per_capita_kg_oil_eq,Direct predictor,4040.43918739374
+FRA,France,2011,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),energy_use_per_capita_kg_oil_eq,Direct predictor,3951.00450412595
+FRA,France,2012,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),energy_use_per_capita_kg_oil_eq,Direct predictor,3929.20601557226
+FRA,France,2013,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),energy_use_per_capita_kg_oil_eq,Direct predictor,3925.86545930191
+FRA,France,2014,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),energy_use_per_capita_kg_oil_eq,Direct predictor,3755.83244171123
+FRA,France,2015,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),energy_use_per_capita_kg_oil_eq,Direct predictor,3799.19260526718
+FRA,France,2016,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),energy_use_per_capita_kg_oil_eq,Direct predictor,3718.17053401513
+FRA,France,2017,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),energy_use_per_capita_kg_oil_eq,Direct predictor,3705.41111644137
+FRA,France,2018,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),energy_use_per_capita_kg_oil_eq,Direct predictor,3669.37065950443
+FRA,France,2019,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),energy_use_per_capita_kg_oil_eq,Direct predictor,3605.53190025511
+FRA,France,2020,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),energy_use_per_capita_kg_oil_eq,Direct predictor,3228.48915727036
+DEU,Germany,2010,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),energy_use_per_capita_kg_oil_eq,Direct predictor,4029.83085754355
+DEU,Germany,2011,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),energy_use_per_capita_kg_oil_eq,Direct predictor,3891.87175356307
+DEU,Germany,2012,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),energy_use_per_capita_kg_oil_eq,Direct predictor,3913.43920397127
+DEU,Germany,2013,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),energy_use_per_capita_kg_oil_eq,Direct predictor,3986.18505186393
+DEU,Germany,2014,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),energy_use_per_capita_kg_oil_eq,Direct predictor,3794.44720253102
+DEU,Germany,2015,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),energy_use_per_capita_kg_oil_eq,Direct predictor,3780.85027551891
+DEU,Germany,2016,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),energy_use_per_capita_kg_oil_eq,Direct predictor,3765.21799936242
+DEU,Germany,2017,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),energy_use_per_capita_kg_oil_eq,Direct predictor,3763.19404182465
+DEU,Germany,2018,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),energy_use_per_capita_kg_oil_eq,Direct predictor,3659.22924485198
+DEU,Germany,2019,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),energy_use_per_capita_kg_oil_eq,Direct predictor,3570.88159282488
+DEU,Germany,2020,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),energy_use_per_capita_kg_oil_eq,Direct predictor,3349.19931383762
+ISR,Israel,2010,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),energy_use_per_capita_kg_oil_eq,Direct predictor,3043.56517574048
+ISR,Israel,2011,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),energy_use_per_capita_kg_oil_eq,Direct predictor,2981.37242150116
+ISR,Israel,2012,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),energy_use_per_capita_kg_oil_eq,Direct predictor,2968.58833913788
+ISR,Israel,2013,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),energy_use_per_capita_kg_oil_eq,Direct predictor,2662.60942480489
+ISR,Israel,2014,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),energy_use_per_capita_kg_oil_eq,Direct predictor,2528.01855666417
+ISR,Israel,2015,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),energy_use_per_capita_kg_oil_eq,Direct predictor,2607.84399987972
+ISR,Israel,2016,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),energy_use_per_capita_kg_oil_eq,Direct predictor,2569.21718310487
+ISR,Israel,2017,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),energy_use_per_capita_kg_oil_eq,Direct predictor,2481.51602271413
+ISR,Israel,2018,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),energy_use_per_capita_kg_oil_eq,Direct predictor,2490.06554012289
+ISR,Israel,2019,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),energy_use_per_capita_kg_oil_eq,Direct predictor,2407.97500275888
+ISR,Israel,2020,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),energy_use_per_capita_kg_oil_eq,Direct predictor,2453.62703150387
+JPN,Japan,2010,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),energy_use_per_capita_kg_oil_eq,Direct predictor,3900.21212768124
+JPN,Japan,2011,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),energy_use_per_capita_kg_oil_eq,Direct predictor,3620.18019068219
+JPN,Japan,2012,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),energy_use_per_capita_kg_oil_eq,Direct predictor,3536.70253450885
+JPN,Japan,2013,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),energy_use_per_capita_kg_oil_eq,Direct predictor,3567.33780517627
+JPN,Japan,2014,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),energy_use_per_capita_kg_oil_eq,Direct predictor,3445.81632921551
+JPN,Japan,2015,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),energy_use_per_capita_kg_oil_eq,Direct predictor,3400.59271053608
+JPN,Japan,2016,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),energy_use_per_capita_kg_oil_eq,Direct predictor,3370.8877963853
+JPN,Japan,2017,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),energy_use_per_capita_kg_oil_eq,Direct predictor,3391.05041453219
+JPN,Japan,2018,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),energy_use_per_capita_kg_oil_eq,Direct predictor,3343.05412833973
+JPN,Japan,2019,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),energy_use_per_capita_kg_oil_eq,Direct predictor,3261.62024942915
+JPN,Japan,2020,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),energy_use_per_capita_kg_oil_eq,Direct predictor,3046.85480668859
+KOR,"Korea, Rep.",2010,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),energy_use_per_capita_kg_oil_eq,Direct predictor,4920.34159542887
+KOR,"Korea, Rep.",2011,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),energy_use_per_capita_kg_oil_eq,Direct predictor,5114.96282558864
+KOR,"Korea, Rep.",2012,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),energy_use_per_capita_kg_oil_eq,Direct predictor,5122.94213308196
+KOR,"Korea, Rep.",2013,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),energy_use_per_capita_kg_oil_eq,Direct predictor,5108.23633855207
+KOR,"Korea, Rep.",2014,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),energy_use_per_capita_kg_oil_eq,Direct predictor,5136.98533019492
+KOR,"Korea, Rep.",2015,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),energy_use_per_capita_kg_oil_eq,Direct predictor,5239.00345362778
+KOR,"Korea, Rep.",2016,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),energy_use_per_capita_kg_oil_eq,Direct predictor,5390.84042635905
+KOR,"Korea, Rep.",2017,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),energy_use_per_capita_kg_oil_eq,Direct predictor,5467.82224967457
+KOR,"Korea, Rep.",2018,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),energy_use_per_capita_kg_oil_eq,Direct predictor,5531.77957372505
+KOR,"Korea, Rep.",2019,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),energy_use_per_capita_kg_oil_eq,Direct predictor,5334.67385872126
+KOR,"Korea, Rep.",2020,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),energy_use_per_capita_kg_oil_eq,Direct predictor,5195.91011087811
+RUS,Russian Federation,2010,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),energy_use_per_capita_kg_oil_eq,Direct predictor,4853.36753031766
+RUS,Russian Federation,2011,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),energy_use_per_capita_kg_oil_eq,Direct predictor,5004.23439250465
+RUS,Russian Federation,2012,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),energy_use_per_capita_kg_oil_eq,Direct predictor,5056.08323400834
+RUS,Russian Federation,2013,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),energy_use_per_capita_kg_oil_eq,Direct predictor,4919.89870162422
+RUS,Russian Federation,2014,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),energy_use_per_capita_kg_oil_eq,Direct predictor,4915.75746633152
+RUS,Russian Federation,2015,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),energy_use_per_capita_kg_oil_eq,Direct predictor,4804.23014928516
+RUS,Russian Federation,2016,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),energy_use_per_capita_kg_oil_eq,Direct predictor,4936.04266971322
+RUS,Russian Federation,2017,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),energy_use_per_capita_kg_oil_eq,Direct predictor,5018.77352571388
+RUS,Russian Federation,2018,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),energy_use_per_capita_kg_oil_eq,Direct predictor,5279.09416060338
+RUS,Russian Federation,2019,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),energy_use_per_capita_kg_oil_eq,Direct predictor,5082.7299560342
+RUS,Russian Federation,2020,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),energy_use_per_capita_kg_oil_eq,Direct predictor,5068.38550364971
+SAU,Saudi Arabia,2010,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),energy_use_per_capita_kg_oil_eq,Direct predictor,7965.26121862505
+SAU,Saudi Arabia,2011,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),energy_use_per_capita_kg_oil_eq,Direct predictor,7979.3799657336
+SAU,Saudi Arabia,2012,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),energy_use_per_capita_kg_oil_eq,Direct predictor,7862.42354103658
+SAU,Saudi Arabia,2013,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),energy_use_per_capita_kg_oil_eq,Direct predictor,7401.17130265584
+SAU,Saudi Arabia,2014,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),energy_use_per_capita_kg_oil_eq,Direct predictor,7959.81351652344
+SAU,Saudi Arabia,2015,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),energy_use_per_capita_kg_oil_eq,Direct predictor,7786.91651664863
+SAU,Saudi Arabia,2016,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),energy_use_per_capita_kg_oil_eq,Direct predictor,7521.58911581712
+SAU,Saudi Arabia,2017,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),energy_use_per_capita_kg_oil_eq,Direct predictor,7707.05632967392
+SAU,Saudi Arabia,2018,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),energy_use_per_capita_kg_oil_eq,Direct predictor,7650.76338796016
+SAU,Saudi Arabia,2019,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),energy_use_per_capita_kg_oil_eq,Direct predictor,7669.39905417665
+SAU,Saudi Arabia,2020,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),energy_use_per_capita_kg_oil_eq,Direct predictor,7172.00803547452
+GBR,United Kingdom,2010,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),energy_use_per_capita_kg_oil_eq,Direct predictor,3235.05383786127
+GBR,United Kingdom,2011,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),energy_use_per_capita_kg_oil_eq,Direct predictor,2973.83120573757
+GBR,United Kingdom,2012,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),energy_use_per_capita_kg_oil_eq,Direct predictor,3028.77223348044
+GBR,United Kingdom,2013,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),energy_use_per_capita_kg_oil_eq,Direct predictor,2962.29760006424
+GBR,United Kingdom,2014,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),energy_use_per_capita_kg_oil_eq,Direct predictor,2767.96188412765
+GBR,United Kingdom,2015,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),energy_use_per_capita_kg_oil_eq,Direct predictor,2774.79682774608
+GBR,United Kingdom,2016,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),energy_use_per_capita_kg_oil_eq,Direct predictor,2696.97999020896
+GBR,United Kingdom,2017,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),energy_use_per_capita_kg_oil_eq,Direct predictor,2658.99577329303
+GBR,United Kingdom,2018,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),energy_use_per_capita_kg_oil_eq,Direct predictor,2632.15067210726
+GBR,United Kingdom,2019,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),energy_use_per_capita_kg_oil_eq,Direct predictor,2515.97344619501
+GBR,United Kingdom,2020,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),energy_use_per_capita_kg_oil_eq,Direct predictor,2317.4085386833
+USA,United States,2010,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),energy_use_per_capita_kg_oil_eq,Direct predictor,7162.55933024159
+USA,United States,2011,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),energy_use_per_capita_kg_oil_eq,Direct predictor,7009.64607964907
+USA,United States,2012,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),energy_use_per_capita_kg_oil_eq,Direct predictor,6820.46062064875
+USA,United States,2013,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),energy_use_per_capita_kg_oil_eq,Direct predictor,6888.38143742637
+USA,United States,2014,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),energy_use_per_capita_kg_oil_eq,Direct predictor,6915.64165280321
+USA,United States,2015,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),energy_use_per_capita_kg_oil_eq,Direct predictor,6789.64733291075
+USA,United States,2016,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),energy_use_per_capita_kg_oil_eq,Direct predictor,6663.4963294418
+USA,United States,2017,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),energy_use_per_capita_kg_oil_eq,Direct predictor,6590.83509745633
+USA,United States,2018,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),energy_use_per_capita_kg_oil_eq,Direct predictor,6738.27272433986
+USA,United States,2019,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),energy_use_per_capita_kg_oil_eq,Direct predictor,6700.93033990565
+USA,United States,2020,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),energy_use_per_capita_kg_oil_eq,Direct predictor,6141.53125755889
+CHN,China,2010,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",industry_value_added_pct_gdp,Direct predictor,45.7066207106778
+CHN,China,2011,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",industry_value_added_pct_gdp,Direct predictor,45.8002054108107
+CHN,China,2012,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",industry_value_added_pct_gdp,Direct predictor,44.6820698165478
+CHN,China,2013,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",industry_value_added_pct_gdp,Direct predictor,43.3938707801605
+CHN,China,2014,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",industry_value_added_pct_gdp,Direct predictor,42.2827157791092
+CHN,China,2015,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",industry_value_added_pct_gdp,Direct predictor,40.0475902161032
+CHN,China,2016,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",industry_value_added_pct_gdp,Direct predictor,38.811156093921
+CHN,China,2017,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",industry_value_added_pct_gdp,Direct predictor,39.129944350895
+CHN,China,2018,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",industry_value_added_pct_gdp,Direct predictor,38.9777001747097
+CHN,China,2019,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",industry_value_added_pct_gdp,Direct predictor,37.7642333162735
+CHN,China,2020,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",industry_value_added_pct_gdp,Direct predictor,36.9115624066306
+FRA,France,2010,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",industry_value_added_pct_gdp,Direct predictor,17.5945885002022
+FRA,France,2011,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",industry_value_added_pct_gdp,Direct predictor,17.6800048726048
+FRA,France,2012,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",industry_value_added_pct_gdp,Direct predictor,17.4684347699959
+FRA,France,2013,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",industry_value_added_pct_gdp,Direct predictor,17.5699939241217
+FRA,France,2014,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",industry_value_added_pct_gdp,Direct predictor,17.3416195349368
+FRA,France,2015,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",industry_value_added_pct_gdp,Direct predictor,17.236441547058
+FRA,France,2016,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",industry_value_added_pct_gdp,Direct predictor,16.9433572396904
+FRA,France,2017,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",industry_value_added_pct_gdp,Direct predictor,16.7483032647876
+FRA,France,2018,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",industry_value_added_pct_gdp,Direct predictor,16.725283255726
+FRA,France,2019,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",industry_value_added_pct_gdp,Direct predictor,16.907003960354
+FRA,France,2020,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",industry_value_added_pct_gdp,Direct predictor,16.272651205236
+DEU,Germany,2010,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",industry_value_added_pct_gdp,Direct predictor,26.0371435344861
+DEU,Germany,2011,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",industry_value_added_pct_gdp,Direct predictor,26.2795286339924
+DEU,Germany,2012,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",industry_value_added_pct_gdp,Direct predictor,26.5450401531822
+DEU,Germany,2013,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",industry_value_added_pct_gdp,Direct predictor,25.8779408891742
+DEU,Germany,2014,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",industry_value_added_pct_gdp,Direct predictor,25.9859539549736
+DEU,Germany,2015,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",industry_value_added_pct_gdp,Direct predictor,25.8737038512745
+DEU,Germany,2016,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",industry_value_added_pct_gdp,Direct predictor,26.1732405694774
+DEU,Germany,2017,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",industry_value_added_pct_gdp,Direct predictor,25.9754703565139
+DEU,Germany,2018,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",industry_value_added_pct_gdp,Direct predictor,25.8506477811784
+DEU,Germany,2019,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",industry_value_added_pct_gdp,Direct predictor,25.5415743169893
+DEU,Germany,2020,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",industry_value_added_pct_gdp,Direct predictor,25.2353421894561
+ISR,Israel,2010,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",industry_value_added_pct_gdp,Direct predictor,20.8142494931167
+ISR,Israel,2011,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",industry_value_added_pct_gdp,Direct predictor,20.1347126935193
+ISR,Israel,2012,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",industry_value_added_pct_gdp,Direct predictor,20.4568472081077
+ISR,Israel,2013,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",industry_value_added_pct_gdp,Direct predictor,20.5672452681451
+ISR,Israel,2014,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",industry_value_added_pct_gdp,Direct predictor,19.9174851566845
+ISR,Israel,2015,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",industry_value_added_pct_gdp,Direct predictor,19.9747306038652
+ISR,Israel,2016,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",industry_value_added_pct_gdp,Direct predictor,19.1238077128283
+ISR,Israel,2017,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",industry_value_added_pct_gdp,Direct predictor,18.564684688678
+ISR,Israel,2018,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",industry_value_added_pct_gdp,Direct predictor,18.8202979612975
+ISR,Israel,2019,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",industry_value_added_pct_gdp,Direct predictor,18.9233446958735
+ISR,Israel,2020,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",industry_value_added_pct_gdp,Direct predictor,19.4382959029959
+JPN,Japan,2010,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",industry_value_added_pct_gdp,Direct predictor,28.3359701667911
+JPN,Japan,2011,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",industry_value_added_pct_gdp,Direct predictor,26.7014360671016
+JPN,Japan,2012,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",industry_value_added_pct_gdp,Direct predictor,26.562641428228
+JPN,Japan,2013,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",industry_value_added_pct_gdp,Direct predictor,26.6507450551464
+JPN,Japan,2014,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",industry_value_added_pct_gdp,Direct predictor,27.3136267349767
+JPN,Japan,2015,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",industry_value_added_pct_gdp,Direct predictor,28.5837114240167
+JPN,Japan,2016,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",industry_value_added_pct_gdp,Direct predictor,28.6299476490573
+JPN,Japan,2017,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",industry_value_added_pct_gdp,Direct predictor,28.8824260088632
+JPN,Japan,2018,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",industry_value_added_pct_gdp,Direct predictor,29.0140076866127
+JPN,Japan,2019,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",industry_value_added_pct_gdp,Direct predictor,28.8040848106902
+JPN,Japan,2020,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",industry_value_added_pct_gdp,Direct predictor,29.0568076109153
+KOR,"Korea, Rep.",2010,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",industry_value_added_pct_gdp,Direct predictor,34.4083287071276
+KOR,"Korea, Rep.",2011,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",industry_value_added_pct_gdp,Direct predictor,34.8688946576209
+KOR,"Korea, Rep.",2012,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",industry_value_added_pct_gdp,Direct predictor,34.7007966708538
+KOR,"Korea, Rep.",2013,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",industry_value_added_pct_gdp,Direct predictor,35.1987111905484
+KOR,"Korea, Rep.",2014,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",industry_value_added_pct_gdp,Direct predictor,35.0245177739824
+KOR,"Korea, Rep.",2015,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",industry_value_added_pct_gdp,Direct predictor,35.113231110723
+KOR,"Korea, Rep.",2016,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",industry_value_added_pct_gdp,Direct predictor,35.226493712639
+KOR,"Korea, Rep.",2017,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",industry_value_added_pct_gdp,Direct predictor,35.6298842658067
+KOR,"Korea, Rep.",2018,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",industry_value_added_pct_gdp,Direct predictor,34.9767074768513
+KOR,"Korea, Rep.",2019,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",industry_value_added_pct_gdp,Direct predictor,33.6464921028153
+KOR,"Korea, Rep.",2020,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",industry_value_added_pct_gdp,Direct predictor,33.3563261777639
+RUS,Russian Federation,2010,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",industry_value_added_pct_gdp,Direct predictor,29.999588218512
+RUS,Russian Federation,2011,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",industry_value_added_pct_gdp,Direct predictor,29.4135888378747
+RUS,Russian Federation,2012,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",industry_value_added_pct_gdp,Direct predictor,29.102868072666
+RUS,Russian Federation,2013,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",industry_value_added_pct_gdp,Direct predictor,28.1912891799352
+RUS,Russian Federation,2014,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",industry_value_added_pct_gdp,Direct predictor,27.9315270606099
+RUS,Russian Federation,2015,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",industry_value_added_pct_gdp,Direct predictor,29.7940599874349
+RUS,Russian Federation,2016,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",industry_value_added_pct_gdp,Direct predictor,29.1739050669208
+RUS,Russian Federation,2017,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",industry_value_added_pct_gdp,Direct predictor,30.6732968853437
+RUS,Russian Federation,2018,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",industry_value_added_pct_gdp,Direct predictor,32.5542980530841
+RUS,Russian Federation,2019,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",industry_value_added_pct_gdp,Direct predictor,32.1504958365379
+RUS,Russian Federation,2020,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",industry_value_added_pct_gdp,Direct predictor,29.7171245814295
+SAU,Saudi Arabia,2010,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",industry_value_added_pct_gdp,Direct predictor,58.0314401714882
+SAU,Saudi Arabia,2011,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",industry_value_added_pct_gdp,Direct predictor,63.0803869808085
+SAU,Saudi Arabia,2012,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",industry_value_added_pct_gdp,Direct predictor,61.9428982819125
+SAU,Saudi Arabia,2013,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",industry_value_added_pct_gdp,Direct predictor,58.9702568849547
+SAU,Saudi Arabia,2014,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",industry_value_added_pct_gdp,Direct predictor,56.1653404810043
+SAU,Saudi Arabia,2015,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",industry_value_added_pct_gdp,Direct predictor,44.6011697093878
+SAU,Saudi Arabia,2016,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",industry_value_added_pct_gdp,Direct predictor,42.5305962013279
+SAU,Saudi Arabia,2017,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",industry_value_added_pct_gdp,Direct predictor,44.8899324686986
+SAU,Saudi Arabia,2018,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",industry_value_added_pct_gdp,Direct predictor,49.0147439495304
+SAU,Saudi Arabia,2019,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",industry_value_added_pct_gdp,Direct predictor,45.7234459871756
+SAU,Saudi Arabia,2020,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",industry_value_added_pct_gdp,Direct predictor,38.3004545080469
+GBR,United Kingdom,2010,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",industry_value_added_pct_gdp,Direct predictor,18.5566755103695
+GBR,United Kingdom,2011,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",industry_value_added_pct_gdp,Direct predictor,18.3010218899425
+GBR,United Kingdom,2012,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",industry_value_added_pct_gdp,Direct predictor,18.2827169299324
+GBR,United Kingdom,2013,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",industry_value_added_pct_gdp,Direct predictor,18.592711752238
+GBR,United Kingdom,2014,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",industry_value_added_pct_gdp,Direct predictor,18.3478341562377
+GBR,United Kingdom,2015,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",industry_value_added_pct_gdp,Direct predictor,18.1397353548933
+GBR,United Kingdom,2016,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",industry_value_added_pct_gdp,Direct predictor,17.6677948178206
+GBR,United Kingdom,2017,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",industry_value_added_pct_gdp,Direct predictor,17.8215277161884
+GBR,United Kingdom,2018,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",industry_value_added_pct_gdp,Direct predictor,18.0023660420923
+GBR,United Kingdom,2019,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",industry_value_added_pct_gdp,Direct predictor,17.8736338534045
+GBR,United Kingdom,2020,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",industry_value_added_pct_gdp,Direct predictor,17.4957170827215
+USA,United States,2010,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",industry_value_added_pct_gdp,Direct predictor,19.3102572393851
+USA,United States,2011,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",industry_value_added_pct_gdp,Direct predictor,19.407502343174
+USA,United States,2012,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",industry_value_added_pct_gdp,Direct predictor,19.1626113169507
+USA,United States,2013,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",industry_value_added_pct_gdp,Direct predictor,19.2416260217373
+USA,United States,2014,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",industry_value_added_pct_gdp,Direct predictor,19.3315152083176
+USA,United States,2015,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",industry_value_added_pct_gdp,Direct predictor,18.5871320435183
+USA,United States,2016,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",industry_value_added_pct_gdp,Direct predictor,18.0422212818459
+USA,United States,2017,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",industry_value_added_pct_gdp,Direct predictor,18.4354240836094
+USA,United States,2018,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",industry_value_added_pct_gdp,Direct predictor,18.6308982431189
+USA,United States,2019,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",industry_value_added_pct_gdp,Direct predictor,18.2804280414808
+USA,United States,2020,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)",industry_value_added_pct_gdp,Direct predictor,17.5084284843618
+CHN,China,2010,SP.URB.TOTL.IN.ZS,Urban population (% of total population),urban_population_pct,Structural predictor,49.2340270628041
+CHN,China,2011,SP.URB.TOTL.IN.ZS,Urban population (% of total population),urban_population_pct,Structural predictor,51.8300285339355
+CHN,China,2012,SP.URB.TOTL.IN.ZS,Urban population (% of total population),urban_population_pct,Structural predictor,53.1003112792969
+CHN,China,2013,SP.URB.TOTL.IN.ZS,Urban population (% of total population),urban_population_pct,Structural predictor,54.4900016784668
+CHN,China,2014,SP.URB.TOTL.IN.ZS,Urban population (% of total population),urban_population_pct,Structural predictor,55.7502555847168
+CHN,China,2015,SP.URB.TOTL.IN.ZS,Urban population (% of total population),urban_population_pct,Structural predictor,57.3297843933105
+CHN,China,2016,SP.URB.TOTL.IN.ZS,Urban population (% of total population),urban_population_pct,Structural predictor,58.8399238586426
+CHN,China,2017,SP.URB.TOTL.IN.ZS,Urban population (% of total population),urban_population_pct,Structural predictor,60.2402687072754
+CHN,China,2018,SP.URB.TOTL.IN.ZS,Urban population (% of total population),urban_population_pct,Structural predictor,61.5001983642578
+CHN,China,2019,SP.URB.TOTL.IN.ZS,Urban population (% of total population),urban_population_pct,Structural predictor,62.7099151611328
+CHN,China,2020,SP.URB.TOTL.IN.ZS,Urban population (% of total population),urban_population_pct,Structural predictor,63.5234230266258
+FRA,France,2010,SP.URB.TOTL.IN.ZS,Urban population (% of total population),urban_population_pct,Structural predictor,77.0962844808803
+FRA,France,2011,SP.URB.TOTL.IN.ZS,Urban population (% of total population),urban_population_pct,Structural predictor,77.1182717387509
+FRA,France,2012,SP.URB.TOTL.IN.ZS,Urban population (% of total population),urban_population_pct,Structural predictor,77.1669464919916
+FRA,France,2013,SP.URB.TOTL.IN.ZS,Urban population (% of total population),urban_population_pct,Structural predictor,77.2440721470918
+FRA,France,2014,SP.URB.TOTL.IN.ZS,Urban population (% of total population),urban_population_pct,Structural predictor,77.3524296788613
+FRA,France,2015,SP.URB.TOTL.IN.ZS,Urban population (% of total population),urban_population_pct,Structural predictor,77.7610919150066
+FRA,France,2016,SP.URB.TOTL.IN.ZS,Urban population (% of total population),urban_population_pct,Structural predictor,78.5999114705779
+FRA,France,2017,SP.URB.TOTL.IN.ZS,Urban population (% of total population),urban_population_pct,Structural predictor,78.6467804026368
+FRA,France,2018,SP.URB.TOTL.IN.ZS,Urban population (% of total population),urban_population_pct,Structural predictor,78.6714432536599
+FRA,France,2019,SP.URB.TOTL.IN.ZS,Urban population (% of total population),urban_population_pct,Structural predictor,78.6890784549356
+FRA,France,2020,SP.URB.TOTL.IN.ZS,Urban population (% of total population),urban_population_pct,Structural predictor,78.7119131765249
+DEU,Germany,2010,SP.URB.TOTL.IN.ZS,Urban population (% of total population),urban_population_pct,Structural predictor,80.305702559949
+DEU,Germany,2011,SP.URB.TOTL.IN.ZS,Urban population (% of total population),urban_population_pct,Structural predictor,80.3405762928198
+DEU,Germany,2012,SP.URB.TOTL.IN.ZS,Urban population (% of total population),urban_population_pct,Structural predictor,80.393447520218
+DEU,Germany,2013,SP.URB.TOTL.IN.ZS,Urban population (% of total population),urban_population_pct,Structural predictor,80.4732318400362
+DEU,Germany,2014,SP.URB.TOTL.IN.ZS,Urban population (% of total population),urban_population_pct,Structural predictor,80.57574023743
+DEU,Germany,2015,SP.URB.TOTL.IN.ZS,Urban population (% of total population),urban_population_pct,Structural predictor,80.6974371632814
+DEU,Germany,2016,SP.URB.TOTL.IN.ZS,Urban population (% of total population),urban_population_pct,Structural predictor,80.8347870684725
+DEU,Germany,2017,SP.URB.TOTL.IN.ZS,Urban population (% of total population),urban_population_pct,Structural predictor,80.9842544038853
+DEU,Germany,2018,SP.URB.TOTL.IN.ZS,Urban population (% of total population),urban_population_pct,Structural predictor,81.1423036204018
+DEU,Germany,2019,SP.URB.TOTL.IN.ZS,Urban population (% of total population),urban_population_pct,Structural predictor,81.3053991689039
+DEU,Germany,2020,SP.URB.TOTL.IN.ZS,Urban population (% of total population),urban_population_pct,Structural predictor,81.4700055002738
+ISR,Israel,2010,SP.URB.TOTL.IN.ZS,Urban population (% of total population),urban_population_pct,Structural predictor,91.7316426703946
+ISR,Israel,2011,SP.URB.TOTL.IN.ZS,Urban population (% of total population),urban_population_pct,Structural predictor,91.7304024673781
+ISR,Israel,2012,SP.URB.TOTL.IN.ZS,Urban population (% of total population),urban_population_pct,Structural predictor,91.7276502819515
+ISR,Israel,2013,SP.URB.TOTL.IN.ZS,Urban population (% of total population),urban_population_pct,Structural predictor,91.7227831465406
+ISR,Israel,2014,SP.URB.TOTL.IN.ZS,Urban population (% of total population),urban_population_pct,Structural predictor,91.7151980935716
+ISR,Israel,2015,SP.URB.TOTL.IN.ZS,Urban population (% of total population),urban_population_pct,Structural predictor,91.7042921554705
+ISR,Israel,2016,SP.URB.TOTL.IN.ZS,Urban population (% of total population),urban_population_pct,Structural predictor,91.6894623646632
+ISR,Israel,2017,SP.URB.TOTL.IN.ZS,Urban population (% of total population),urban_population_pct,Structural predictor,91.6701057535759
+ISR,Israel,2018,SP.URB.TOTL.IN.ZS,Urban population (% of total population),urban_population_pct,Structural predictor,91.6456193546346
+ISR,Israel,2019,SP.URB.TOTL.IN.ZS,Urban population (% of total population),urban_population_pct,Structural predictor,91.6154002002652
+ISR,Israel,2020,SP.URB.TOTL.IN.ZS,Urban population (% of total population),urban_population_pct,Structural predictor,91.5788453228939
+JPN,Japan,2010,SP.URB.TOTL.IN.ZS,Urban population (% of total population),urban_population_pct,Structural predictor,90.6228586840649
+JPN,Japan,2011,SP.URB.TOTL.IN.ZS,Urban population (% of total population),urban_population_pct,Structural predictor,90.8631654434251
+JPN,Japan,2012,SP.URB.TOTL.IN.ZS,Urban population (% of total population),urban_population_pct,Structural predictor,91.0265277326652
+JPN,Japan,2013,SP.URB.TOTL.IN.ZS,Urban population (% of total population),urban_population_pct,Structural predictor,91.1516595654317
+JPN,Japan,2014,SP.URB.TOTL.IN.ZS,Urban population (% of total population),urban_population_pct,Structural predictor,91.2548945132333
+JPN,Japan,2015,SP.URB.TOTL.IN.ZS,Urban population (% of total population),urban_population_pct,Structural predictor,91.3532644103625
+JPN,Japan,2016,SP.URB.TOTL.IN.ZS,Urban population (% of total population),urban_population_pct,Structural predictor,91.4541254852142
+JPN,Japan,2017,SP.URB.TOTL.IN.ZS,Urban population (% of total population),urban_population_pct,Structural predictor,91.5498419685883
+JPN,Japan,2018,SP.URB.TOTL.IN.ZS,Urban population (% of total population),urban_population_pct,Structural predictor,91.6377318609728
+JPN,Japan,2019,SP.URB.TOTL.IN.ZS,Urban population (% of total population),urban_population_pct,Structural predictor,91.7164207898107
+JPN,Japan,2020,SP.URB.TOTL.IN.ZS,Urban population (% of total population),urban_population_pct,Structural predictor,91.7809926267889
+KOR,"Korea, Rep.",2010,SP.URB.TOTL.IN.ZS,Urban population (% of total population),urban_population_pct,Structural predictor,81.9685075986486
+KOR,"Korea, Rep.",2011,SP.URB.TOTL.IN.ZS,Urban population (% of total population),urban_population_pct,Structural predictor,81.9615408086376
+KOR,"Korea, Rep.",2012,SP.URB.TOTL.IN.ZS,Urban population (% of total population),urban_population_pct,Structural predictor,81.9087898200378
+KOR,"Korea, Rep.",2013,SP.URB.TOTL.IN.ZS,Urban population (% of total population),urban_population_pct,Structural predictor,81.8269383502703
+KOR,"Korea, Rep.",2014,SP.URB.TOTL.IN.ZS,Urban population (% of total population),urban_population_pct,Structural predictor,81.7315682816954
+KOR,"Korea, Rep.",2015,SP.URB.TOTL.IN.ZS,Urban population (% of total population),urban_population_pct,Structural predictor,81.639489860678
+KOR,"Korea, Rep.",2016,SP.URB.TOTL.IN.ZS,Urban population (% of total population),urban_population_pct,Structural predictor,81.5559241797057
+KOR,"Korea, Rep.",2017,SP.URB.TOTL.IN.ZS,Urban population (% of total population),urban_population_pct,Structural predictor,81.471030429984
+KOR,"Korea, Rep.",2018,SP.URB.TOTL.IN.ZS,Urban population (% of total population),urban_population_pct,Structural predictor,81.3823523035196
+KOR,"Korea, Rep.",2019,SP.URB.TOTL.IN.ZS,Urban population (% of total population),urban_population_pct,Structural predictor,81.2901063535619
+KOR,"Korea, Rep.",2020,SP.URB.TOTL.IN.ZS,Urban population (% of total population),urban_population_pct,Structural predictor,81.1759595622913
+RUS,Russian Federation,2010,SP.URB.TOTL.IN.ZS,Urban population (% of total population),urban_population_pct,Structural predictor,73.6696307887624
+RUS,Russian Federation,2011,SP.URB.TOTL.IN.ZS,Urban population (% of total population),urban_population_pct,Structural predictor,73.8534851074219
+RUS,Russian Federation,2012,SP.URB.TOTL.IN.ZS,Urban population (% of total population),urban_population_pct,Structural predictor,73.97265625
+RUS,Russian Federation,2013,SP.URB.TOTL.IN.ZS,Urban population (% of total population),urban_population_pct,Structural predictor,74.0762949770228
+RUS,Russian Federation,2014,SP.URB.TOTL.IN.ZS,Urban population (% of total population),urban_population_pct,Structural predictor,74.1776476748791
+RUS,Russian Federation,2015,SP.URB.TOTL.IN.ZS,Urban population (% of total population),urban_population_pct,Structural predictor,74.275919065527
+RUS,Russian Federation,2016,SP.URB.TOTL.IN.ZS,Urban population (% of total population),urban_population_pct,Structural predictor,74.3703138709243
+RUS,Russian Federation,2017,SP.URB.TOTL.IN.ZS,Urban population (% of total population),urban_population_pct,Structural predictor,74.460036813029
+RUS,Russian Federation,2018,SP.URB.TOTL.IN.ZS,Urban population (% of total population),urban_population_pct,Structural predictor,74.5442926137992
+RUS,Russian Federation,2019,SP.URB.TOTL.IN.ZS,Urban population (% of total population),urban_population_pct,Structural predictor,74.6222859951926
+RUS,Russian Federation,2020,SP.URB.TOTL.IN.ZS,Urban population (% of total population),urban_population_pct,Structural predictor,74.6932216791674
+SAU,Saudi Arabia,2010,SP.URB.TOTL.IN.ZS,Urban population (% of total population),urban_population_pct,Structural predictor,82.0791668544465
+SAU,Saudi Arabia,2011,SP.URB.TOTL.IN.ZS,Urban population (% of total population),urban_population_pct,Structural predictor,82.2543876159947
+SAU,Saudi Arabia,2012,SP.URB.TOTL.IN.ZS,Urban population (% of total population),urban_population_pct,Structural predictor,82.4311918025358
+SAU,Saudi Arabia,2013,SP.URB.TOTL.IN.ZS,Urban population (% of total population),urban_population_pct,Structural predictor,82.6071884619102
+SAU,Saudi Arabia,2014,SP.URB.TOTL.IN.ZS,Urban population (% of total population),urban_population_pct,Structural predictor,82.7822571294871
+SAU,Saudi Arabia,2015,SP.URB.TOTL.IN.ZS,Urban population (% of total population),urban_population_pct,Structural predictor,82.9562773406163
+SAU,Saudi Arabia,2016,SP.URB.TOTL.IN.ZS,Urban population (% of total population),urban_population_pct,Structural predictor,83.129128630626
+SAU,Saudi Arabia,2017,SP.URB.TOTL.IN.ZS,Urban population (% of total population),urban_population_pct,Structural predictor,83.300690534822
+SAU,Saudi Arabia,2018,SP.URB.TOTL.IN.ZS,Urban population (% of total population),urban_population_pct,Structural predictor,83.4708425884849
+SAU,Saudi Arabia,2019,SP.URB.TOTL.IN.ZS,Urban population (% of total population),urban_population_pct,Structural predictor,83.6394643268678
+SAU,Saudi Arabia,2020,SP.URB.TOTL.IN.ZS,Urban population (% of total population),urban_population_pct,Structural predictor,83.8064352851942
+GBR,United Kingdom,2010,SP.URB.TOTL.IN.ZS,Urban population (% of total population),urban_population_pct,Structural predictor,80.995165116277
+GBR,United Kingdom,2011,SP.URB.TOTL.IN.ZS,Urban population (% of total population),urban_population_pct,Structural predictor,81.1359685592627
+GBR,United Kingdom,2012,SP.URB.TOTL.IN.ZS,Urban population (% of total population),urban_population_pct,Structural predictor,81.2905667759508
+GBR,United Kingdom,2013,SP.URB.TOTL.IN.ZS,Urban population (% of total population),urban_population_pct,Structural predictor,81.4573768694887
+GBR,United Kingdom,2014,SP.URB.TOTL.IN.ZS,Urban population (% of total population),urban_population_pct,Structural predictor,81.6355750750722
+GBR,United Kingdom,2015,SP.URB.TOTL.IN.ZS,Urban population (% of total population),urban_population_pct,Structural predictor,81.8243772295647
+GBR,United Kingdom,2016,SP.URB.TOTL.IN.ZS,Urban population (% of total population),urban_population_pct,Structural predictor,82.0229991698295
+GBR,United Kingdom,2017,SP.URB.TOTL.IN.ZS,Urban population (% of total population),urban_population_pct,Structural predictor,82.23065673273
+GBR,United Kingdom,2018,SP.URB.TOTL.IN.ZS,Urban population (% of total population),urban_population_pct,Structural predictor,82.4465657551295
+GBR,United Kingdom,2019,SP.URB.TOTL.IN.ZS,Urban population (% of total population),urban_population_pct,Structural predictor,82.6699420738913
+GBR,United Kingdom,2020,SP.URB.TOTL.IN.ZS,Urban population (% of total population),urban_population_pct,Structural predictor,82.9000015258789
+USA,United States,2010,SP.URB.TOTL.IN.ZS,Urban population (% of total population),urban_population_pct,Structural predictor,80.6997744673366
+USA,United States,2011,SP.URB.TOTL.IN.ZS,Urban population (% of total population),urban_population_pct,Structural predictor,80.6957554256024
+USA,United States,2012,SP.URB.TOTL.IN.ZS,Urban population (% of total population),urban_population_pct,Structural predictor,80.6837493386238
+USA,United States,2013,SP.URB.TOTL.IN.ZS,Urban population (% of total population),urban_population_pct,Structural predictor,80.660889281215
+USA,United States,2014,SP.URB.TOTL.IN.ZS,Urban population (% of total population),urban_population_pct,Structural predictor,80.6242231779766
+USA,United States,2015,SP.URB.TOTL.IN.ZS,Urban population (% of total population),urban_population_pct,Structural predictor,80.5707989535091
+USA,United States,2016,SP.URB.TOTL.IN.ZS,Urban population (% of total population),urban_population_pct,Structural predictor,80.4976645324131
+USA,United States,2017,SP.URB.TOTL.IN.ZS,Urban population (% of total population),urban_population_pct,Structural predictor,80.4018678392891
+USA,United States,2018,SP.URB.TOTL.IN.ZS,Urban population (% of total population),urban_population_pct,Structural predictor,80.2804567987377
+USA,United States,2019,SP.URB.TOTL.IN.ZS,Urban population (% of total population),urban_population_pct,Structural predictor,80.1304793353594
+USA,United States,2020,SP.URB.TOTL.IN.ZS,Urban population (% of total population),urban_population_pct,Structural predictor,79.997451762548
+CHN,China,2010,AG.LND.FRST.ZS,Forest area (% of land area),forest_area_pct_land,Structural predictor,21.3683288541342
+CHN,China,2011,AG.LND.FRST.ZS,Forest area (% of land area),forest_area_pct_land,Structural predictor,21.574627370433
+CHN,China,2012,AG.LND.FRST.ZS,Forest area (% of land area),forest_area_pct_land,Structural predictor,21.7809258867318
+CHN,China,2013,AG.LND.FRST.ZS,Forest area (% of land area),forest_area_pct_land,Structural predictor,21.9872244030306
+CHN,China,2014,AG.LND.FRST.ZS,Forest area (% of land area),forest_area_pct_land,Structural predictor,22.1935229193294
+CHN,China,2015,AG.LND.FRST.ZS,Forest area (% of land area),forest_area_pct_land,Structural predictor,22.3998214356282
+CHN,China,2016,AG.LND.FRST.ZS,Forest area (% of land area),forest_area_pct_land,Structural predictor,22.6305120997506
+CHN,China,2017,AG.LND.FRST.ZS,Forest area (% of land area),forest_area_pct_land,Structural predictor,22.8306567492632
+CHN,China,2018,AG.LND.FRST.ZS,Forest area (% of land area),forest_area_pct_land,Structural predictor,23.0309079153534
+CHN,China,2019,AG.LND.FRST.ZS,Forest area (% of land area),forest_area_pct_land,Structural predictor,23.2311590814436
+CHN,China,2020,AG.LND.FRST.ZS,Forest area (% of land area),forest_area_pct_land,Structural predictor,23.4313037309562
+FRA,France,2010,AG.LND.FRST.ZS,Forest area (% of land area),forest_area_pct_land,Structural predictor,30.4647926523796
+FRA,France,2011,AG.LND.FRST.ZS,Forest area (% of land area),forest_area_pct_land,Structural predictor,30.6195379905372
+FRA,France,2012,AG.LND.FRST.ZS,Forest area (% of land area),forest_area_pct_land,Structural predictor,30.7742833286947
+FRA,France,2013,AG.LND.FRST.ZS,Forest area (% of land area),forest_area_pct_land,Structural predictor,30.9290286668522
+FRA,France,2014,AG.LND.FRST.ZS,Forest area (% of land area),forest_area_pct_land,Structural predictor,31.0837740050097
+FRA,France,2015,AG.LND.FRST.ZS,Forest area (% of land area),forest_area_pct_land,Structural predictor,31.2385193431673
+FRA,France,2016,AG.LND.FRST.ZS,Forest area (% of land area),forest_area_pct_land,Structural predictor,31.3932646813248
+FRA,France,2017,AG.LND.FRST.ZS,Forest area (% of land area),forest_area_pct_land,Structural predictor,31.5480100194823
+FRA,France,2018,AG.LND.FRST.ZS,Forest area (% of land area),forest_area_pct_land,Structural predictor,31.7027553576399
+FRA,France,2019,AG.LND.FRST.ZS,Forest area (% of land area),forest_area_pct_land,Structural predictor,31.8575006957974
+FRA,France,2020,AG.LND.FRST.ZS,Forest area (% of land area),forest_area_pct_land,Structural predictor,32.0122460339549
+DEU,Germany,2010,AG.LND.FRST.ZS,Forest area (% of land area),forest_area_pct_land,Structural predictor,32.7308718478354
+DEU,Germany,2011,AG.LND.FRST.ZS,Forest area (% of land area),forest_area_pct_land,Structural predictor,32.7375487720909
+DEU,Germany,2012,AG.LND.FRST.ZS,Forest area (% of land area),forest_area_pct_land,Structural predictor,32.7451655477133
+DEU,Germany,2013,AG.LND.FRST.ZS,Forest area (% of land area),forest_area_pct_land,Structural predictor,32.7189864709929
+DEU,Germany,2014,AG.LND.FRST.ZS,Forest area (% of land area),forest_area_pct_land,Structural predictor,32.7228432215535
+DEU,Germany,2015,AG.LND.FRST.ZS,Forest area (% of land area),forest_area_pct_land,Structural predictor,32.7323281545606
+DEU,Germany,2016,AG.LND.FRST.ZS,Forest area (% of land area),forest_area_pct_land,Structural predictor,32.685482024273
+DEU,Germany,2017,AG.LND.FRST.ZS,Forest area (% of land area),forest_area_pct_land,Structural predictor,32.6845464693591
+DEU,Germany,2018,AG.LND.FRST.ZS,Forest area (% of land area),forest_area_pct_land,Structural predictor,32.6836109680005
+DEU,Germany,2019,AG.LND.FRST.ZS,Forest area (% of land area),forest_area_pct_land,Structural predictor,32.6826755201923
+DEU,Germany,2020,AG.LND.FRST.ZS,Forest area (% of land area),forest_area_pct_land,Structural predictor,32.6826755201923
+ISR,Israel,2010,AG.LND.FRST.ZS,Forest area (% of land area),forest_area_pct_land,Structural predictor,7.11645101663586
+ISR,Israel,2011,AG.LND.FRST.ZS,Forest area (% of land area),forest_area_pct_land,Structural predictor,7.2181146025878
+ISR,Israel,2012,AG.LND.FRST.ZS,Forest area (% of land area),forest_area_pct_land,Structural predictor,7.31977818853974
+ISR,Israel,2013,AG.LND.FRST.ZS,Forest area (% of land area),forest_area_pct_land,Structural predictor,7.42144177449168
+ISR,Israel,2014,AG.LND.FRST.ZS,Forest area (% of land area),forest_area_pct_land,Structural predictor,7.52310536044362
+ISR,Israel,2015,AG.LND.FRST.ZS,Forest area (% of land area),forest_area_pct_land,Structural predictor,7.62476894639556
+ISR,Israel,2016,AG.LND.FRST.ZS,Forest area (% of land area),forest_area_pct_land,Structural predictor,6.46950092421442
+ISR,Israel,2017,AG.LND.FRST.ZS,Forest area (% of land area),forest_area_pct_land,Structural predictor,6.46950092421442
+ISR,Israel,2018,AG.LND.FRST.ZS,Forest area (% of land area),forest_area_pct_land,Structural predictor,6.46950092421442
+ISR,Israel,2019,AG.LND.FRST.ZS,Forest area (% of land area),forest_area_pct_land,Structural predictor,6.46950092421442
+ISR,Israel,2020,AG.LND.FRST.ZS,Forest area (% of land area),forest_area_pct_land,Structural predictor,6.46950092421442
+JPN,Japan,2010,AG.LND.FRST.ZS,Forest area (% of land area),forest_area_pct_land,Structural predictor,68.4938271604938
+JPN,Japan,2011,AG.LND.FRST.ZS,Forest area (% of land area),forest_area_pct_land,Structural predictor,68.481755829904
+JPN,Japan,2012,AG.LND.FRST.ZS,Forest area (% of land area),forest_area_pct_land,Structural predictor,68.4696844993141
+JPN,Japan,2013,AG.LND.FRST.ZS,Forest area (% of land area),forest_area_pct_land,Structural predictor,68.4576131687243
+JPN,Japan,2014,AG.LND.FRST.ZS,Forest area (% of land area),forest_area_pct_land,Structural predictor,68.4455418381344
+JPN,Japan,2015,AG.LND.FRST.ZS,Forest area (% of land area),forest_area_pct_land,Structural predictor,68.4334705075446
+JPN,Japan,2016,AG.LND.FRST.ZS,Forest area (% of land area),forest_area_pct_land,Structural predictor,68.4224965706447
+JPN,Japan,2017,AG.LND.FRST.ZS,Forest area (% of land area),forest_area_pct_land,Structural predictor,68.4087791495199
+JPN,Japan,2018,AG.LND.FRST.ZS,Forest area (% of land area),forest_area_pct_land,Structural predictor,68.4087791495199
+JPN,Japan,2019,AG.LND.FRST.ZS,Forest area (% of land area),forest_area_pct_land,Structural predictor,68.4087791495199
+JPN,Japan,2020,AG.LND.FRST.ZS,Forest area (% of land area),forest_area_pct_land,Structural predictor,68.4087791495199
+KOR,"Korea, Rep.",2010,AG.LND.FRST.ZS,Forest area (% of land area),forest_area_pct_land,Structural predictor,65.7098765432099
+KOR,"Korea, Rep.",2011,AG.LND.FRST.ZS,Forest area (% of land area),forest_area_pct_land,Structural predictor,65.6137462701924
+KOR,"Korea, Rep.",2012,AG.LND.FRST.ZS,Forest area (% of land area),forest_area_pct_land,Structural predictor,65.4300688521221
+KOR,"Korea, Rep.",2013,AG.LND.FRST.ZS,Forest area (% of land area),forest_area_pct_land,Structural predictor,65.2495227146758
+KOR,"Korea, Rep.",2014,AG.LND.FRST.ZS,Forest area (% of land area),forest_area_pct_land,Structural predictor,65.1442060966848
+KOR,"Korea, Rep.",2015,AG.LND.FRST.ZS,Forest area (% of land area),forest_area_pct_land,Structural predictor,65.0315562625071
+KOR,"Korea, Rep.",2016,AG.LND.FRST.ZS,Forest area (% of land area),forest_area_pct_land,Structural predictor,64.8791145667716
+KOR,"Korea, Rep.",2017,AG.LND.FRST.ZS,Forest area (% of land area),forest_area_pct_land,Structural predictor,64.783099169316
+KOR,"Korea, Rep.",2018,AG.LND.FRST.ZS,Forest area (% of land area),forest_area_pct_land,Structural predictor,64.6739130434783
+KOR,"Korea, Rep.",2019,AG.LND.FRST.ZS,Forest area (% of land area),forest_area_pct_land,Structural predictor,64.5184426229508
+KOR,"Korea, Rep.",2020,AG.LND.FRST.ZS,Forest area (% of land area),forest_area_pct_land,Structural predictor,64.4159836065574
+RUS,Russian Federation,2010,AG.LND.FRST.ZS,Forest area (% of land area),forest_area_pct_land,Structural predictor,49.7735892145447
+RUS,Russian Federation,2011,AG.LND.FRST.ZS,Forest area (% of land area),forest_area_pct_land,Structural predictor,49.7710839739218
+RUS,Russian Federation,2012,AG.LND.FRST.ZS,Forest area (% of land area),forest_area_pct_land,Structural predictor,49.7685787332989
+RUS,Russian Federation,2013,AG.LND.FRST.ZS,Forest area (% of land area),forest_area_pct_land,Structural predictor,49.766073492676
+RUS,Russian Federation,2014,AG.LND.FRST.ZS,Forest area (% of land area),forest_area_pct_land,Structural predictor,49.763568252053
+RUS,Russian Federation,2015,AG.LND.FRST.ZS,Forest area (% of land area),forest_area_pct_land,Structural predictor,49.7610630114301
+RUS,Russian Federation,2016,AG.LND.FRST.ZS,Forest area (% of land area),forest_area_pct_land,Structural predictor,49.7726977132993
+RUS,Russian Federation,2017,AG.LND.FRST.ZS,Forest area (% of land area),forest_area_pct_land,Structural predictor,49.7843605035639
+RUS,Russian Federation,2018,AG.LND.FRST.ZS,Forest area (% of land area),forest_area_pct_land,Structural predictor,49.7843605035639
+RUS,Russian Federation,2019,AG.LND.FRST.ZS,Forest area (% of land area),forest_area_pct_land,Structural predictor,49.7843605035639
+RUS,Russian Federation,2020,AG.LND.FRST.ZS,Forest area (% of land area),forest_area_pct_land,Structural predictor,49.7843605035639
+SAU,Saudi Arabia,2010,AG.LND.FRST.ZS,Forest area (% of land area),forest_area_pct_land,Structural predictor,0.454484134921779
+SAU,Saudi Arabia,2011,AG.LND.FRST.ZS,Forest area (% of land area),forest_area_pct_land,Structural predictor,0.454484134921779
+SAU,Saudi Arabia,2012,AG.LND.FRST.ZS,Forest area (% of land area),forest_area_pct_land,Structural predictor,0.454484134921779
+SAU,Saudi Arabia,2013,AG.LND.FRST.ZS,Forest area (% of land area),forest_area_pct_land,Structural predictor,0.454484134921779
+SAU,Saudi Arabia,2014,AG.LND.FRST.ZS,Forest area (% of land area),forest_area_pct_land,Structural predictor,0.454484134921779
+SAU,Saudi Arabia,2015,AG.LND.FRST.ZS,Forest area (% of land area),forest_area_pct_land,Structural predictor,0.454484134921779
+SAU,Saudi Arabia,2016,AG.LND.FRST.ZS,Forest area (% of land area),forest_area_pct_land,Structural predictor,0.454484134921779
+SAU,Saudi Arabia,2017,AG.LND.FRST.ZS,Forest area (% of land area),forest_area_pct_land,Structural predictor,0.454484134921779
+SAU,Saudi Arabia,2018,AG.LND.FRST.ZS,Forest area (% of land area),forest_area_pct_land,Structural predictor,0.454484134921779
+SAU,Saudi Arabia,2019,AG.LND.FRST.ZS,Forest area (% of land area),forest_area_pct_land,Structural predictor,0.454484134921779
+SAU,Saudi Arabia,2020,AG.LND.FRST.ZS,Forest area (% of land area),forest_area_pct_land,Structural predictor,0.454484134921779
+GBR,United Kingdom,2010,AG.LND.FRST.ZS,Forest area (% of land area),forest_area_pct_land,Structural predictor,12.6441532674741
+GBR,United Kingdom,2011,AG.LND.FRST.ZS,Forest area (% of land area),forest_area_pct_land,Structural predictor,12.7235150663415
+GBR,United Kingdom,2012,AG.LND.FRST.ZS,Forest area (% of land area),forest_area_pct_land,Structural predictor,12.8028768652089
+GBR,United Kingdom,2013,AG.LND.FRST.ZS,Forest area (% of land area),forest_area_pct_land,Structural predictor,12.8822386640764
+GBR,United Kingdom,2014,AG.LND.FRST.ZS,Forest area (% of land area),forest_area_pct_land,Structural predictor,12.9616004629438
+GBR,United Kingdom,2015,AG.LND.FRST.ZS,Forest area (% of land area),forest_area_pct_land,Structural predictor,13.0409622618113
+GBR,United Kingdom,2016,AG.LND.FRST.ZS,Forest area (% of land area),forest_area_pct_land,Structural predictor,13.0574959699087
+GBR,United Kingdom,2017,AG.LND.FRST.ZS,Forest area (% of land area),forest_area_pct_land,Structural predictor,13.0781631050304
+GBR,United Kingdom,2018,AG.LND.FRST.ZS,Forest area (% of land area),forest_area_pct_land,Structural predictor,13.1153639482495
+GBR,United Kingdom,2019,AG.LND.FRST.ZS,Forest area (% of land area),forest_area_pct_land,Structural predictor,13.1525647914686
+GBR,United Kingdom,2020,AG.LND.FRST.ZS,Forest area (% of land area),forest_area_pct_land,Structural predictor,13.1856322076634
+USA,United States,2010,AG.LND.FRST.ZS,Forest area (% of land area),forest_area_pct_land,Structural predictor,33.7494069366007
+USA,United States,2011,AG.LND.FRST.ZS,Forest area (% of land area),forest_area_pct_land,Structural predictor,33.7794700582241
+USA,United States,2012,AG.LND.FRST.ZS,Forest area (% of land area),forest_area_pct_land,Structural predictor,33.8095331798474
+USA,United States,2013,AG.LND.FRST.ZS,Forest area (% of land area),forest_area_pct_land,Structural predictor,33.8395963014708
+USA,United States,2014,AG.LND.FRST.ZS,Forest area (% of land area),forest_area_pct_land,Structural predictor,33.8696594230942
+USA,United States,2015,AG.LND.FRST.ZS,Forest area (% of land area),forest_area_pct_land,Structural predictor,33.8997225447175
+USA,United States,2016,AG.LND.FRST.ZS,Forest area (% of land area),forest_area_pct_land,Structural predictor,33.8997225447175
+USA,United States,2017,AG.LND.FRST.ZS,Forest area (% of land area),forest_area_pct_land,Structural predictor,33.8669264120375
+USA,United States,2018,AG.LND.FRST.ZS,Forest area (% of land area),forest_area_pct_land,Structural predictor,33.8669264120375
+USA,United States,2019,AG.LND.FRST.ZS,Forest area (% of land area),forest_area_pct_land,Structural predictor,33.8669264120375
+USA,United States,2020,AG.LND.FRST.ZS,Forest area (% of land area),forest_area_pct_land,Structural predictor,33.8669264120375
+CHN,China,2010,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),renewable_energy_pct_total_final,Structural predictor,12.3
+CHN,China,2011,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),renewable_energy_pct_total_final,Structural predictor,11.3
+CHN,China,2012,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),renewable_energy_pct_total_final,Structural predictor,11.5
+CHN,China,2013,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),renewable_energy_pct_total_final,Structural predictor,11.5
+CHN,China,2014,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),renewable_energy_pct_total_final,Structural predictor,11.9
+CHN,China,2015,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),renewable_energy_pct_total_final,Structural predictor,12.2
+CHN,China,2016,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),renewable_energy_pct_total_final,Structural predictor,12.6
+CHN,China,2017,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),renewable_energy_pct_total_final,Structural predictor,13.1
+CHN,China,2018,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),renewable_energy_pct_total_final,Structural predictor,13.5
+CHN,China,2019,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),renewable_energy_pct_total_final,Structural predictor,14.3
+CHN,China,2020,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),renewable_energy_pct_total_final,Structural predictor,14.9
+FRA,France,2010,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),renewable_energy_pct_total_final,Structural predictor,11.9
+FRA,France,2011,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),renewable_energy_pct_total_final,Structural predictor,10.6
+FRA,France,2012,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),renewable_energy_pct_total_final,Structural predictor,12.3
+FRA,France,2013,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),renewable_energy_pct_total_final,Structural predictor,13.4
+FRA,France,2014,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),renewable_energy_pct_total_final,Structural predictor,13.2
+FRA,France,2015,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),renewable_energy_pct_total_final,Structural predictor,13.3
+FRA,France,2016,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),renewable_energy_pct_total_final,Structural predictor,14.2
+FRA,France,2017,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),renewable_energy_pct_total_final,Structural predictor,14.1
+FRA,France,2018,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),renewable_energy_pct_total_final,Structural predictor,15.2
+FRA,France,2019,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),renewable_energy_pct_total_final,Structural predictor,15.5
+FRA,France,2020,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),renewable_energy_pct_total_final,Structural predictor,16.8
+DEU,Germany,2010,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),renewable_energy_pct_total_final,Structural predictor,11.6
+DEU,Germany,2011,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),renewable_energy_pct_total_final,Structural predictor,12.5
+DEU,Germany,2012,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),renewable_energy_pct_total_final,Structural predictor,13.6
+DEU,Germany,2013,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),renewable_energy_pct_total_final,Structural predictor,13.6
+DEU,Germany,2014,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),renewable_energy_pct_total_final,Structural predictor,14.0
+DEU,Germany,2015,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),renewable_energy_pct_total_final,Structural predictor,14.6
+DEU,Germany,2016,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),renewable_energy_pct_total_final,Structural predictor,14.2
+DEU,Germany,2017,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),renewable_energy_pct_total_final,Structural predictor,15.2
+DEU,Germany,2018,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),renewable_energy_pct_total_final,Structural predictor,16.0
+DEU,Germany,2019,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),renewable_energy_pct_total_final,Structural predictor,17.1
+DEU,Germany,2020,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),renewable_energy_pct_total_final,Structural predictor,18.5
+ISR,Israel,2010,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),renewable_energy_pct_total_final,Structural predictor,8.6
+ISR,Israel,2011,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),renewable_energy_pct_total_final,Structural predictor,9.1
+ISR,Israel,2012,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),renewable_energy_pct_total_final,Structural predictor,2.9
+ISR,Israel,2013,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),renewable_energy_pct_total_final,Structural predictor,3.3
+ISR,Israel,2014,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),renewable_energy_pct_total_final,Structural predictor,3.7
+ISR,Israel,2015,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),renewable_energy_pct_total_final,Structural predictor,3.7
+ISR,Israel,2016,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),renewable_energy_pct_total_final,Structural predictor,4.0
+ISR,Israel,2017,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),renewable_energy_pct_total_final,Structural predictor,3.9
+ISR,Israel,2018,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),renewable_energy_pct_total_final,Structural predictor,3.8
+ISR,Israel,2019,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),renewable_energy_pct_total_final,Structural predictor,4.5
+ISR,Israel,2020,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),renewable_energy_pct_total_final,Structural predictor,5.6
+JPN,Japan,2010,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),renewable_energy_pct_total_final,Structural predictor,4.7
+JPN,Japan,2011,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),renewable_energy_pct_total_final,Structural predictor,4.8
+JPN,Japan,2012,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),renewable_energy_pct_total_final,Structural predictor,4.7
+JPN,Japan,2013,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),renewable_energy_pct_total_final,Structural predictor,5.0
+JPN,Japan,2014,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),renewable_energy_pct_total_final,Structural predictor,5.6
+JPN,Japan,2015,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),renewable_energy_pct_total_final,Structural predictor,6.2
+JPN,Japan,2016,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),renewable_energy_pct_total_final,Structural predictor,6.4
+JPN,Japan,2017,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),renewable_energy_pct_total_final,Structural predictor,6.9
+JPN,Japan,2018,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),renewable_energy_pct_total_final,Structural predictor,7.3
+JPN,Japan,2019,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),renewable_energy_pct_total_final,Structural predictor,7.8
+JPN,Japan,2020,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),renewable_energy_pct_total_final,Structural predictor,8.5
+KOR,"Korea, Rep.",2010,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),renewable_energy_pct_total_final,Structural predictor,1.3
+KOR,"Korea, Rep.",2011,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),renewable_energy_pct_total_final,Structural predictor,1.4
+KOR,"Korea, Rep.",2012,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),renewable_energy_pct_total_final,Structural predictor,1.6
+KOR,"Korea, Rep.",2013,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),renewable_energy_pct_total_final,Structural predictor,1.9
+KOR,"Korea, Rep.",2014,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),renewable_energy_pct_total_final,Structural predictor,2.9
+KOR,"Korea, Rep.",2015,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),renewable_energy_pct_total_final,Structural predictor,2.7
+KOR,"Korea, Rep.",2016,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),renewable_energy_pct_total_final,Structural predictor,2.6
+KOR,"Korea, Rep.",2017,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),renewable_energy_pct_total_final,Structural predictor,2.8
+KOR,"Korea, Rep.",2018,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),renewable_energy_pct_total_final,Structural predictor,3.2
+KOR,"Korea, Rep.",2019,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),renewable_energy_pct_total_final,Structural predictor,3.2
+KOR,"Korea, Rep.",2020,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),renewable_energy_pct_total_final,Structural predictor,3.6
+RUS,Russian Federation,2010,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),renewable_energy_pct_total_final,Structural predictor,3.3
+RUS,Russian Federation,2011,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),renewable_energy_pct_total_final,Structural predictor,3.2
+RUS,Russian Federation,2012,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),renewable_energy_pct_total_final,Structural predictor,3.2
+RUS,Russian Federation,2013,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),renewable_energy_pct_total_final,Structural predictor,3.6
+RUS,Russian Federation,2014,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),renewable_energy_pct_total_final,Structural predictor,3.3
+RUS,Russian Federation,2015,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),renewable_energy_pct_total_final,Structural predictor,3.2
+RUS,Russian Federation,2016,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),renewable_energy_pct_total_final,Structural predictor,3.4
+RUS,Russian Federation,2017,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),renewable_energy_pct_total_final,Structural predictor,3.2
+RUS,Russian Federation,2018,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),renewable_energy_pct_total_final,Structural predictor,3.2
+RUS,Russian Federation,2019,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),renewable_energy_pct_total_final,Structural predictor,3.2
+RUS,Russian Federation,2020,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),renewable_energy_pct_total_final,Structural predictor,3.7
+SAU,Saudi Arabia,2010,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),renewable_energy_pct_total_final,Structural predictor,0.0
+SAU,Saudi Arabia,2011,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),renewable_energy_pct_total_final,Structural predictor,0.0
+SAU,Saudi Arabia,2012,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),renewable_energy_pct_total_final,Structural predictor,0.0
+SAU,Saudi Arabia,2013,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),renewable_energy_pct_total_final,Structural predictor,0.0
+SAU,Saudi Arabia,2014,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),renewable_energy_pct_total_final,Structural predictor,0.0
+SAU,Saudi Arabia,2015,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),renewable_energy_pct_total_final,Structural predictor,0.0
+SAU,Saudi Arabia,2016,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),renewable_energy_pct_total_final,Structural predictor,0.0
+SAU,Saudi Arabia,2017,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),renewable_energy_pct_total_final,Structural predictor,0.0
+SAU,Saudi Arabia,2018,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),renewable_energy_pct_total_final,Structural predictor,0.0
+SAU,Saudi Arabia,2019,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),renewable_energy_pct_total_final,Structural predictor,0.0
+SAU,Saudi Arabia,2020,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),renewable_energy_pct_total_final,Structural predictor,0.1
+GBR,United Kingdom,2010,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),renewable_energy_pct_total_final,Structural predictor,3.2
+GBR,United Kingdom,2011,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),renewable_energy_pct_total_final,Structural predictor,4.0
+GBR,United Kingdom,2012,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),renewable_energy_pct_total_final,Structural predictor,4.2
+GBR,United Kingdom,2013,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),renewable_energy_pct_total_final,Structural predictor,5.2
+GBR,United Kingdom,2014,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),renewable_energy_pct_total_final,Structural predictor,6.6
+GBR,United Kingdom,2015,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),renewable_energy_pct_total_final,Structural predictor,7.7
+GBR,United Kingdom,2016,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),renewable_energy_pct_total_final,Structural predictor,7.7
+GBR,United Kingdom,2017,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),renewable_energy_pct_total_final,Structural predictor,8.8
+GBR,United Kingdom,2018,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),renewable_energy_pct_total_final,Structural predictor,10.2
+GBR,United Kingdom,2019,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),renewable_energy_pct_total_final,Structural predictor,11.4
+GBR,United Kingdom,2020,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),renewable_energy_pct_total_final,Structural predictor,13.6
+USA,United States,2010,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),renewable_energy_pct_total_final,Structural predictor,7.4
+USA,United States,2011,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),renewable_energy_pct_total_final,Structural predictor,8.4
+USA,United States,2012,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),renewable_energy_pct_total_final,Structural predictor,8.5
+USA,United States,2013,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),renewable_energy_pct_total_final,Structural predictor,8.9
+USA,United States,2014,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),renewable_energy_pct_total_final,Structural predictor,9.0
+USA,United States,2015,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),renewable_energy_pct_total_final,Structural predictor,8.9
+USA,United States,2016,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),renewable_energy_pct_total_final,Structural predictor,9.3
+USA,United States,2017,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),renewable_energy_pct_total_final,Structural predictor,9.7
+USA,United States,2018,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),renewable_energy_pct_total_final,Structural predictor,9.9
+USA,United States,2019,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),renewable_energy_pct_total_final,Structural predictor,10.2
+USA,United States,2020,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),renewable_energy_pct_total_final,Structural predictor,11.0
+CHN,China,2010,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",life_expectancy_years,Social / USI,75.668
+CHN,China,2011,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",life_expectancy_years,Social / USI,75.889
+CHN,China,2012,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",life_expectancy_years,Social / USI,76.2
+CHN,China,2013,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",life_expectancy_years,Social / USI,76.452
+CHN,China,2014,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",life_expectancy_years,Social / USI,76.714
+CHN,China,2015,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",life_expectancy_years,Social / USI,76.975
+CHN,China,2016,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",life_expectancy_years,Social / USI,77.214
+CHN,China,2017,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",life_expectancy_years,Social / USI,77.235
+CHN,China,2018,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",life_expectancy_years,Social / USI,77.709
+CHN,China,2019,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",life_expectancy_years,Social / USI,77.94
+CHN,China,2020,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",life_expectancy_years,Social / USI,78.019
+FRA,France,2010,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",life_expectancy_years,Social / USI,81.6634146341463
+FRA,France,2011,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",life_expectancy_years,Social / USI,82.1146341463415
+FRA,France,2012,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",life_expectancy_years,Social / USI,81.9682926829268
+FRA,France,2013,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",life_expectancy_years,Social / USI,82.219512195122
+FRA,France,2014,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",life_expectancy_years,Social / USI,82.719512195122
+FRA,France,2015,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",life_expectancy_years,Social / USI,82.3219512195122
+FRA,France,2016,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",life_expectancy_years,Social / USI,82.5731707317073
+FRA,France,2017,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",life_expectancy_years,Social / USI,82.5756097560976
+FRA,France,2018,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",life_expectancy_years,Social / USI,82.6756097560976
+FRA,France,2019,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",life_expectancy_years,Social / USI,82.8268292682927
+FRA,France,2020,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",life_expectancy_years,Social / USI,82.1756097560976
+DEU,Germany,2010,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",life_expectancy_years,Social / USI,79.9878048780488
+DEU,Germany,2011,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",life_expectancy_years,Social / USI,80.4365853658537
+DEU,Germany,2012,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",life_expectancy_years,Social / USI,80.5390243902439
+DEU,Germany,2013,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",life_expectancy_years,Social / USI,80.490243902439
+DEU,Germany,2014,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",life_expectancy_years,Social / USI,81.090243902439
+DEU,Germany,2015,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",life_expectancy_years,Social / USI,80.6414634146341
+DEU,Germany,2016,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",life_expectancy_years,Social / USI,80.990243902439
+DEU,Germany,2017,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",life_expectancy_years,Social / USI,80.9926829268293
+DEU,Germany,2018,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",life_expectancy_years,Social / USI,80.8926829268293
+DEU,Germany,2019,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",life_expectancy_years,Social / USI,81.2926829268293
+DEU,Germany,2020,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",life_expectancy_years,Social / USI,81.0414634146342
+ISR,Israel,2010,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",life_expectancy_years,Social / USI,81.6024390243903
+ISR,Israel,2011,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",life_expectancy_years,Social / USI,81.6560975609756
+ISR,Israel,2012,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",life_expectancy_years,Social / USI,81.7048780487805
+ISR,Israel,2013,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",life_expectancy_years,Social / USI,82.0560975609756
+ISR,Israel,2014,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",life_expectancy_years,Social / USI,82.1536585365854
+ISR,Israel,2015,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",life_expectancy_years,Social / USI,82.0512195121951
+ISR,Israel,2016,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",life_expectancy_years,Social / USI,82.4073170731707
+ISR,Israel,2017,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",life_expectancy_years,Social / USI,82.5512195121951
+ISR,Israel,2018,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",life_expectancy_years,Social / USI,82.8024390243903
+ISR,Israel,2019,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",life_expectancy_years,Social / USI,82.8048780487805
+ISR,Israel,2020,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",life_expectancy_years,Social / USI,82.6487804878049
+JPN,Japan,2010,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",life_expectancy_years,Social / USI,82.8426829268293
+JPN,Japan,2011,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",life_expectancy_years,Social / USI,82.5912195121951
+JPN,Japan,2012,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",life_expectancy_years,Social / USI,83.0960975609756
+JPN,Japan,2013,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",life_expectancy_years,Social / USI,83.3319512195122
+JPN,Japan,2014,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",life_expectancy_years,Social / USI,83.5878048780488
+JPN,Japan,2015,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",life_expectancy_years,Social / USI,83.7939024390244
+JPN,Japan,2016,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",life_expectancy_years,Social / USI,83.9848780487805
+JPN,Japan,2017,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",life_expectancy_years,Social / USI,84.099756097561
+JPN,Japan,2018,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",life_expectancy_years,Social / USI,84.2109756097561
+JPN,Japan,2019,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",life_expectancy_years,Social / USI,84.3563414634146
+JPN,Japan,2020,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",life_expectancy_years,Social / USI,84.56
+KOR,"Korea, Rep.",2010,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",life_expectancy_years,Social / USI,80.1170731707317
+KOR,"Korea, Rep.",2011,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",life_expectancy_years,Social / USI,80.5682926829269
+KOR,"Korea, Rep.",2012,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",life_expectancy_years,Social / USI,80.819512195122
+KOR,"Korea, Rep.",2013,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",life_expectancy_years,Social / USI,81.2707317073171
+KOR,"Korea, Rep.",2014,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",life_expectancy_years,Social / USI,81.7219512195122
+KOR,"Korea, Rep.",2015,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",life_expectancy_years,Social / USI,82.0243902439024
+KOR,"Korea, Rep.",2016,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",life_expectancy_years,Social / USI,82.2756097560976
+KOR,"Korea, Rep.",2017,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",life_expectancy_years,Social / USI,82.6268292682927
+KOR,"Korea, Rep.",2018,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",life_expectancy_years,Social / USI,82.6268292682927
+KOR,"Korea, Rep.",2019,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",life_expectancy_years,Social / USI,83.2268292682927
+KOR,"Korea, Rep.",2020,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",life_expectancy_years,Social / USI,83.4268292682927
+RUS,Russian Federation,2010,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",life_expectancy_years,Social / USI,68.8412195121951
+RUS,Russian Federation,2011,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",life_expectancy_years,Social / USI,69.6839024390244
+RUS,Russian Federation,2012,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",life_expectancy_years,Social / USI,70.0721951219512
+RUS,Russian Federation,2013,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",life_expectancy_years,Social / USI,70.5787804878049
+RUS,Russian Federation,2014,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",life_expectancy_years,Social / USI,70.7436585365854
+RUS,Russian Federation,2015,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",life_expectancy_years,Social / USI,71.1834146341463
+RUS,Russian Federation,2016,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",life_expectancy_years,Social / USI,71.6512195121951
+RUS,Russian Federation,2017,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",life_expectancy_years,Social / USI,72.4514634146342
+RUS,Russian Federation,2018,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",life_expectancy_years,Social / USI,72.6621951219512
+RUS,Russian Federation,2019,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",life_expectancy_years,Social / USI,73.0839024390244
+RUS,Russian Federation,2020,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",life_expectancy_years,Social / USI,71.3387804878049
+SAU,Saudi Arabia,2010,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",life_expectancy_years,Social / USI,75.616
+SAU,Saudi Arabia,2011,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",life_expectancy_years,Social / USI,75.808
+SAU,Saudi Arabia,2012,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",life_expectancy_years,Social / USI,76.09
+SAU,Saudi Arabia,2013,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",life_expectancy_years,Social / USI,76.517
+SAU,Saudi Arabia,2014,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",life_expectancy_years,Social / USI,77.116
+SAU,Saudi Arabia,2015,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",life_expectancy_years,Social / USI,77.776
+SAU,Saudi Arabia,2016,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",life_expectancy_years,Social / USI,78.354
+SAU,Saudi Arabia,2017,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",life_expectancy_years,Social / USI,78.721
+SAU,Saudi Arabia,2018,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",life_expectancy_years,Social / USI,78.75
+SAU,Saudi Arabia,2019,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",life_expectancy_years,Social / USI,78.313
+SAU,Saudi Arabia,2020,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",life_expectancy_years,Social / USI,77.596
+GBR,United Kingdom,2010,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",life_expectancy_years,Social / USI,80.4024390243902
+GBR,United Kingdom,2011,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",life_expectancy_years,Social / USI,80.9512195121951
+GBR,United Kingdom,2012,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",life_expectancy_years,Social / USI,80.9048780487805
+GBR,United Kingdom,2013,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",life_expectancy_years,Social / USI,81.0048780487805
+GBR,United Kingdom,2014,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",life_expectancy_years,Social / USI,81.3048780487805
+GBR,United Kingdom,2015,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",life_expectancy_years,Social / USI,80.9560975609756
+GBR,United Kingdom,2016,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",life_expectancy_years,Social / USI,81.1560975609756
+GBR,United Kingdom,2017,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",life_expectancy_years,Social / USI,81.2560975609756
+GBR,United Kingdom,2018,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",life_expectancy_years,Social / USI,81.2560975609756
+GBR,United Kingdom,2019,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",life_expectancy_years,Social / USI,81.3691219512195
+GBR,United Kingdom,2020,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",life_expectancy_years,Social / USI,80.331756097561
+USA,United States,2010,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",life_expectancy_years,Social / USI,78.5414634146342
+USA,United States,2011,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",life_expectancy_years,Social / USI,78.6414634146341
+USA,United States,2012,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",life_expectancy_years,Social / USI,78.7414634146342
+USA,United States,2013,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",life_expectancy_years,Social / USI,78.7414634146342
+USA,United States,2014,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",life_expectancy_years,Social / USI,78.8414634146341
+USA,United States,2015,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",life_expectancy_years,Social / USI,78.690243902439
+USA,United States,2016,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",life_expectancy_years,Social / USI,78.5390243902439
+USA,United States,2017,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",life_expectancy_years,Social / USI,78.5390243902439
+USA,United States,2018,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",life_expectancy_years,Social / USI,78.6390243902439
+USA,United States,2019,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",life_expectancy_years,Social / USI,78.7878048780488
+USA,United States,2020,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",life_expectancy_years,Social / USI,76.9804878048781
+CHN,China,2010,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),fertilizer_consumption_kg_per_ha,Agricultural / USI,425.239340293993
+CHN,China,2011,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),fertilizer_consumption_kg_per_ha,Agricultural / USI,444.64980620155
+CHN,China,2012,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),fertilizer_consumption_kg_per_ha,Agricultural / USI,457.333238442414
+CHN,China,2013,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),fertilizer_consumption_kg_per_ha,Agricultural / USI,458.516155476157
+CHN,China,2014,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),fertilizer_consumption_kg_per_ha,Agricultural / USI,477.579277718331
+CHN,China,2015,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),fertilizer_consumption_kg_per_ha,Agricultural / USI,465.6126796366
+CHN,China,2016,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),fertilizer_consumption_kg_per_ha,Agricultural / USI,480.055071748405
+CHN,China,2017,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),fertilizer_consumption_kg_per_ha,Agricultural / USI,460.457754805883
+CHN,China,2018,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),fertilizer_consumption_kg_per_ha,Agricultural / USI,442.553246565176
+CHN,China,2019,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),fertilizer_consumption_kg_per_ha,Agricultural / USI,427.750847233594
+CHN,China,2020,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),fertilizer_consumption_kg_per_ha,Agricultural / USI,414.491446133711
+FRA,France,2010,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),fertilizer_consumption_kg_per_ha,Agricultural / USI,150.537957564465
+FRA,France,2011,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),fertilizer_consumption_kg_per_ha,Agricultural / USI,141.299303944316
+FRA,France,2012,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),fertilizer_consumption_kg_per_ha,Agricultural / USI,160.786305431114
+FRA,France,2013,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),fertilizer_consumption_kg_per_ha,Agricultural / USI,169.417394582015
+FRA,France,2014,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),fertilizer_consumption_kg_per_ha,Agricultural / USI,168.426725431051
+FRA,France,2015,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),fertilizer_consumption_kg_per_ha,Agricultural / USI,170.400948118645
+FRA,France,2016,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),fertilizer_consumption_kg_per_ha,Agricultural / USI,163.139120924284
+FRA,France,2017,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),fertilizer_consumption_kg_per_ha,Agricultural / USI,177.62482732281
+FRA,France,2018,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),fertilizer_consumption_kg_per_ha,Agricultural / USI,170.970793980051
+FRA,France,2019,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),fertilizer_consumption_kg_per_ha,Agricultural / USI,157.722612244347
+FRA,France,2020,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),fertilizer_consumption_kg_per_ha,Agricultural / USI,179.540121660326
+DEU,Germany,2010,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),fertilizer_consumption_kg_per_ha,Agricultural / USI,211.596825932804
+DEU,Germany,2011,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),fertilizer_consumption_kg_per_ha,Agricultural / USI,191.486989473684
+DEU,Germany,2012,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),fertilizer_consumption_kg_per_ha,Agricultural / USI,198.921581882711
+DEU,Germany,2013,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),fertilizer_consumption_kg_per_ha,Agricultural / USI,203.47061300101
+DEU,Germany,2014,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),fertilizer_consumption_kg_per_ha,Agricultural / USI,217.69567781616
+DEU,Germany,2015,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),fertilizer_consumption_kg_per_ha,Agricultural / USI,202.273932128989
+DEU,Germany,2016,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),fertilizer_consumption_kg_per_ha,Agricultural / USI,197.228258097424
+DEU,Germany,2017,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),fertilizer_consumption_kg_per_ha,Agricultural / USI,178.118926265715
+DEU,Germany,2018,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),fertilizer_consumption_kg_per_ha,Agricultural / USI,166.481118404228
+DEU,Germany,2019,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),fertilizer_consumption_kg_per_ha,Agricultural / USI,174.098685333789
+DEU,Germany,2020,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),fertilizer_consumption_kg_per_ha,Agricultural / USI,163.242026748971
+ISR,Israel,2010,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),fertilizer_consumption_kg_per_ha,Agricultural / USI,206.403269754768
+ISR,Israel,2011,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),fertilizer_consumption_kg_per_ha,Agricultural / USI,251.606357795063
+ISR,Israel,2012,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),fertilizer_consumption_kg_per_ha,Agricultural / USI,278.833107191316
+ISR,Israel,2013,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),fertilizer_consumption_kg_per_ha,Agricultural / USI,296.011196641008
+ISR,Israel,2014,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),fertilizer_consumption_kg_per_ha,Agricultural / USI,264.226289517471
+ISR,Israel,2015,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),fertilizer_consumption_kg_per_ha,Agricultural / USI,243.606998654105
+ISR,Israel,2016,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),fertilizer_consumption_kg_per_ha,Agricultural / USI,280.677966101695
+ISR,Israel,2017,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),fertilizer_consumption_kg_per_ha,Agricultural / USI,229.850129198966
+ISR,Israel,2018,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),fertilizer_consumption_kg_per_ha,Agricultural / USI,240.677966101695
+ISR,Israel,2019,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),fertilizer_consumption_kg_per_ha,Agricultural / USI,211.677248677249
+ISR,Israel,2020,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),fertilizer_consumption_kg_per_ha,Agricultural / USI,240.312273057371
+JPN,Japan,2010,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),fertilizer_consumption_kg_per_ha,Agricultural / USI,255.090378327884
+JPN,Japan,2011,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),fertilizer_consumption_kg_per_ha,Agricultural / USI,249.839915373766
+JPN,Japan,2012,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),fertilizer_consumption_kg_per_ha,Agricultural / USI,252.825247291569
+JPN,Japan,2013,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),fertilizer_consumption_kg_per_ha,Agricultural / USI,244.643699858424
+JPN,Japan,2014,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),fertilizer_consumption_kg_per_ha,Agricultural / USI,253.197536712459
+JPN,Japan,2015,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),fertilizer_consumption_kg_per_ha,Agricultural / USI,225.326991676576
+JPN,Japan,2016,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),fertilizer_consumption_kg_per_ha,Agricultural / USI,236.018164435946
+JPN,Japan,2017,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),fertilizer_consumption_kg_per_ha,Agricultural / USI,243.234799327085
+JPN,Japan,2018,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),fertilizer_consumption_kg_per_ha,Agricultural / USI,235.997102848865
+JPN,Japan,2019,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),fertilizer_consumption_kg_per_ha,Agricultural / USI,226.503394762367
+JPN,Japan,2020,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),fertilizer_consumption_kg_per_ha,Agricultural / USI,216.008771929825
+KOR,"Korea, Rep.",2010,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),fertilizer_consumption_kg_per_ha,Agricultural / USI,330.282680822827
+KOR,"Korea, Rep.",2011,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),fertilizer_consumption_kg_per_ha,Agricultural / USI,337.319220430108
+KOR,"Korea, Rep.",2012,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),fertilizer_consumption_kg_per_ha,Agricultural / USI,351.825647089739
+KOR,"Korea, Rep.",2013,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),fertilizer_consumption_kg_per_ha,Agricultural / USI,344.695814948523
+KOR,"Korea, Rep.",2014,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),fertilizer_consumption_kg_per_ha,Agricultural / USI,345.922764227642
+KOR,"Korea, Rep.",2015,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),fertilizer_consumption_kg_per_ha,Agricultural / USI,337.812905428474
+KOR,"Korea, Rep.",2016,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),fertilizer_consumption_kg_per_ha,Agricultural / USI,351.141449683322
+KOR,"Korea, Rep.",2017,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),fertilizer_consumption_kg_per_ha,Agricultural / USI,353.420204768383
+KOR,"Korea, Rep.",2018,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),fertilizer_consumption_kg_per_ha,Agricultural / USI,367.328238719068
+KOR,"Korea, Rep.",2019,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),fertilizer_consumption_kg_per_ha,Agricultural / USI,366.530791788856
+KOR,"Korea, Rep.",2020,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),fertilizer_consumption_kg_per_ha,Agricultural / USI,304.810650887574
+RUS,Russian Federation,2010,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),fertilizer_consumption_kg_per_ha,Agricultural / USI,15.7245024620013
+RUS,Russian Federation,2011,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),fertilizer_consumption_kg_per_ha,Agricultural / USI,16.1872271864134
+RUS,Russian Federation,2012,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),fertilizer_consumption_kg_per_ha,Agricultural / USI,15.4335835066462
+RUS,Russian Federation,2013,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),fertilizer_consumption_kg_per_ha,Agricultural / USI,15.2982761880492
+RUS,Russian Federation,2014,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),fertilizer_consumption_kg_per_ha,Agricultural / USI,15.9005006206381
+RUS,Russian Federation,2015,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),fertilizer_consumption_kg_per_ha,Agricultural / USI,16.6626112832822
+RUS,Russian Federation,2016,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),fertilizer_consumption_kg_per_ha,Agricultural / USI,18.6871819743689
+RUS,Russian Federation,2017,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),fertilizer_consumption_kg_per_ha,Agricultural / USI,20.328288765218
+RUS,Russian Federation,2018,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),fertilizer_consumption_kg_per_ha,Agricultural / USI,20.8141127341778
+RUS,Russian Federation,2019,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),fertilizer_consumption_kg_per_ha,Agricultural / USI,22.5914475252571
+RUS,Russian Federation,2020,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),fertilizer_consumption_kg_per_ha,Agricultural / USI,25.3278119836579
+SAU,Saudi Arabia,2010,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),fertilizer_consumption_kg_per_ha,Agricultural / USI,68.8665664458924
+SAU,Saudi Arabia,2011,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),fertilizer_consumption_kg_per_ha,Agricultural / USI,80.8902157991174
+SAU,Saudi Arabia,2012,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),fertilizer_consumption_kg_per_ha,Agricultural / USI,88.4004176161606
+SAU,Saudi Arabia,2013,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),fertilizer_consumption_kg_per_ha,Agricultural / USI,82.0958973593605
+SAU,Saudi Arabia,2014,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),fertilizer_consumption_kg_per_ha,Agricultural / USI,79.0364842823095
+SAU,Saudi Arabia,2015,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),fertilizer_consumption_kg_per_ha,Agricultural / USI,92.3986374834626
+SAU,Saudi Arabia,2016,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),fertilizer_consumption_kg_per_ha,Agricultural / USI,91.2878380425944
+SAU,Saudi Arabia,2017,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),fertilizer_consumption_kg_per_ha,Agricultural / USI,86.7207810912629
+SAU,Saudi Arabia,2018,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),fertilizer_consumption_kg_per_ha,Agricultural / USI,87.3911212307019
+SAU,Saudi Arabia,2019,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),fertilizer_consumption_kg_per_ha,Agricultural / USI,87.6278306689828
+SAU,Saudi Arabia,2020,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),fertilizer_consumption_kg_per_ha,Agricultural / USI,125.327912029354
+GBR,United Kingdom,2010,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),fertilizer_consumption_kg_per_ha,Agricultural / USI,243.048576214405
+GBR,United Kingdom,2011,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),fertilizer_consumption_kg_per_ha,Agricultural / USI,246.94820191356
+GBR,United Kingdom,2012,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),fertilizer_consumption_kg_per_ha,Agricultural / USI,232.936252414681
+GBR,United Kingdom,2013,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),fertilizer_consumption_kg_per_ha,Agricultural / USI,233.025824368755
+GBR,United Kingdom,2014,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),fertilizer_consumption_kg_per_ha,Agricultural / USI,247.854335445576
+GBR,United Kingdom,2015,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),fertilizer_consumption_kg_per_ha,Agricultural / USI,252.370653801364
+GBR,United Kingdom,2016,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),fertilizer_consumption_kg_per_ha,Agricultural / USI,247.759276224295
+GBR,United Kingdom,2017,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),fertilizer_consumption_kg_per_ha,Agricultural / USI,248.566493032888
+GBR,United Kingdom,2018,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),fertilizer_consumption_kg_per_ha,Agricultural / USI,245.619777867634
+GBR,United Kingdom,2019,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),fertilizer_consumption_kg_per_ha,Agricultural / USI,245.004665440953
+GBR,United Kingdom,2020,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),fertilizer_consumption_kg_per_ha,Agricultural / USI,233.168769261304
+USA,United States,2010,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),fertilizer_consumption_kg_per_ha,Agricultural / USI,124.742074360818
+USA,United States,2011,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),fertilizer_consumption_kg_per_ha,Agricultural / USI,130.282137245549
+USA,United States,2012,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),fertilizer_consumption_kg_per_ha,Agricultural / USI,134.988067410634
+USA,United States,2013,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),fertilizer_consumption_kg_per_ha,Agricultural / USI,135.673477861669
+USA,United States,2014,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),fertilizer_consumption_kg_per_ha,Agricultural / USI,128.08924823705
+USA,United States,2015,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),fertilizer_consumption_kg_per_ha,Agricultural / USI,129.184330326896
+USA,United States,2016,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),fertilizer_consumption_kg_per_ha,Agricultural / USI,128.040032389991
+USA,United States,2017,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),fertilizer_consumption_kg_per_ha,Agricultural / USI,127.967235730789
+USA,United States,2018,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),fertilizer_consumption_kg_per_ha,Agricultural / USI,130.337684511433
+USA,United States,2019,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),fertilizer_consumption_kg_per_ha,Agricultural / USI,130.085491379582
+USA,United States,2020,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),fertilizer_consumption_kg_per_ha,Agricultural / USI,134.602541285667
+CHN,China,2010,NY.GDP.PCAP.CD,GDP per capita (current US$),gdp_per_capita_current_usd,Economic / USI,4629.24551710077
+CHN,China,2011,NY.GDP.PCAP.CD,GDP per capita (current US$),gdp_per_capita_current_usd,Economic / USI,5703.76027973346
+CHN,China,2012,NY.GDP.PCAP.CD,GDP per capita (current US$),gdp_per_capita_current_usd,Economic / USI,6405.0574241349
+CHN,China,2013,NY.GDP.PCAP.CD,GDP per capita (current US$),gdp_per_capita_current_usd,Economic / USI,7147.03518622344
+CHN,China,2014,NY.GDP.PCAP.CD,GDP per capita (current US$),gdp_per_capita_current_usd,Economic / USI,7781.06597484974
+CHN,China,2015,NY.GDP.PCAP.CD,GDP per capita (current US$),gdp_per_capita_current_usd,Economic / USI,8175.33285077393
+CHN,China,2016,NY.GDP.PCAP.CD,GDP per capita (current US$),gdp_per_capita_current_usd,Economic / USI,8254.86859320357
+CHN,China,2017,NY.GDP.PCAP.CD,GDP per capita (current US$),gdp_per_capita_current_usd,Economic / USI,8979.67652709856
+CHN,China,2018,NY.GDP.PCAP.CD,GDP per capita (current US$),gdp_per_capita_current_usd,Economic / USI,10085.6638148819
+CHN,China,2019,NY.GDP.PCAP.CD,GDP per capita (current US$),gdp_per_capita_current_usd,Economic / USI,10342.9009524335
+CHN,China,2020,NY.GDP.PCAP.CD,GDP per capita (current US$),gdp_per_capita_current_usd,Economic / USI,10627.4637989619
+FRA,France,2010,NY.GDP.PCAP.CD,GDP per capita (current US$),gdp_per_capita_current_usd,Economic / USI,40694.8211697025
+FRA,France,2011,NY.GDP.PCAP.CD,GDP per capita (current US$),gdp_per_capita_current_usd,Economic / USI,43929.7840873812
+FRA,France,2012,NY.GDP.PCAP.CD,GDP per capita (current US$),gdp_per_capita_current_usd,Economic / USI,40863.5814412333
+FRA,France,2013,NY.GDP.PCAP.CD,GDP per capita (current US$),gdp_per_capita_current_usd,Economic / USI,42669.1795111893
+FRA,France,2014,NY.GDP.PCAP.CD,GDP per capita (current US$),gdp_per_capita_current_usd,Economic / USI,43148.0459288416
+FRA,France,2015,NY.GDP.PCAP.CD,GDP per capita (current US$),gdp_per_capita_current_usd,Economic / USI,36702.4323733379
+FRA,France,2016,NY.GDP.PCAP.CD,GDP per capita (current US$),gdp_per_capita_current_usd,Economic / USI,37024.2157133669
+FRA,France,2017,NY.GDP.PCAP.CD,GDP per capita (current US$),gdp_per_capita_current_usd,Economic / USI,38687.1626407164
+FRA,France,2018,NY.GDP.PCAP.CD,GDP per capita (current US$),gdp_per_capita_current_usd,Economic / USI,41418.1766484844
+FRA,France,2019,NY.GDP.PCAP.CD,GDP per capita (current US$),gdp_per_capita_current_usd,Economic / USI,40408.2848574751
+FRA,France,2020,NY.GDP.PCAP.CD,GDP per capita (current US$),gdp_per_capita_current_usd,Economic / USI,39169.8606000707
+DEU,Germany,2010,NY.GDP.PCAP.CD,GDP per capita (current US$),gdp_per_capita_current_usd,Economic / USI,42396.9665976293
+DEU,Germany,2011,NY.GDP.PCAP.CD,GDP per capita (current US$),gdp_per_capita_current_usd,Economic / USI,47630.9761883572
+DEU,Germany,2012,NY.GDP.PCAP.CD,GDP per capita (current US$),gdp_per_capita_current_usd,Economic / USI,44718.0159214069
+DEU,Germany,2013,NY.GDP.PCAP.CD,GDP per capita (current US$),gdp_per_capita_current_usd,Economic / USI,47206.8353514242
+DEU,Germany,2014,NY.GDP.PCAP.CD,GDP per capita (current US$),gdp_per_capita_current_usd,Economic / USI,48959.5991203133
+DEU,Germany,2015,NY.GDP.PCAP.CD,GDP per capita (current US$),gdp_per_capita_current_usd,Economic / USI,41929.7549110722
+DEU,Germany,2016,NY.GDP.PCAP.CD,GDP per capita (current US$),gdp_per_capita_current_usd,Economic / USI,42948.9381932694
+DEU,Germany,2017,NY.GDP.PCAP.CD,GDP per capita (current US$),gdp_per_capita_current_usd,Economic / USI,45553.9341495339
+DEU,Germany,2018,NY.GDP.PCAP.CD,GDP per capita (current US$),gdp_per_capita_current_usd,Economic / USI,48916.1686612154
+DEU,Germany,2019,NY.GDP.PCAP.CD,GDP per capita (current US$),gdp_per_capita_current_usd,Economic / USI,47656.199739747
+DEU,Germany,2020,NY.GDP.PCAP.CD,GDP per capita (current US$),gdp_per_capita_current_usd,Economic / USI,47394.8734504469
+ISR,Israel,2010,NY.GDP.PCAP.CD,GDP per capita (current US$),gdp_per_capita_current_usd,Economic / USI,31439.0887027614
+ISR,Israel,2011,NY.GDP.PCAP.CD,GDP per capita (current US$),gdp_per_capita_current_usd,Economic / USI,34522.5215979073
+ISR,Israel,2012,NY.GDP.PCAP.CD,GDP per capita (current US$),gdp_per_capita_current_usd,Economic / USI,33321.4300881602
+ISR,Israel,2013,NY.GDP.PCAP.CD,GDP per capita (current US$),gdp_per_capita_current_usd,Economic / USI,37034.3161080785
+ISR,Israel,2014,NY.GDP.PCAP.CD,GDP per capita (current US$),gdp_per_capita_current_usd,Economic / USI,38343.3046626235
+ISR,Israel,2015,NY.GDP.PCAP.CD,GDP per capita (current US$),gdp_per_capita_current_usd,Economic / USI,36213.1041481958
+ISR,Israel,2016,NY.GDP.PCAP.CD,GDP per capita (current US$),gdp_per_capita_current_usd,Economic / USI,37671.5389138798
+ISR,Israel,2017,NY.GDP.PCAP.CD,GDP per capita (current US$),gdp_per_capita_current_usd,Economic / USI,41138.470964272
+ISR,Israel,2018,NY.GDP.PCAP.CD,GDP per capita (current US$),gdp_per_capita_current_usd,Economic / USI,42362.6652754196
+ISR,Israel,2019,NY.GDP.PCAP.CD,GDP per capita (current US$),gdp_per_capita_current_usd,Economic / USI,44250.6313628073
+ISR,Israel,2020,NY.GDP.PCAP.CD,GDP per capita (current US$),gdp_per_capita_current_usd,Economic / USI,44575.5719045492
+JPN,Japan,2010,NY.GDP.PCAP.CD,GDP per capita (current US$),gdp_per_capita_current_usd,Economic / USI,44968.1562349739
+JPN,Japan,2011,NY.GDP.PCAP.CD,GDP per capita (current US$),gdp_per_capita_current_usd,Economic / USI,48760.0789494211
+JPN,Japan,2012,NY.GDP.PCAP.CD,GDP per capita (current US$),gdp_per_capita_current_usd,Economic / USI,49145.2804308193
+JPN,Japan,2013,NY.GDP.PCAP.CD,GDP per capita (current US$),gdp_per_capita_current_usd,Economic / USI,40898.6478964744
+JPN,Japan,2014,NY.GDP.PCAP.CD,GDP per capita (current US$),gdp_per_capita_current_usd,Economic / USI,38475.3952461838
+JPN,Japan,2015,NY.GDP.PCAP.CD,GDP per capita (current US$),gdp_per_capita_current_usd,Economic / USI,34960.6393843385
+JPN,Japan,2016,NY.GDP.PCAP.CD,GDP per capita (current US$),gdp_per_capita_current_usd,Economic / USI,39375.4731620781
+JPN,Japan,2017,NY.GDP.PCAP.CD,GDP per capita (current US$),gdp_per_capita_current_usd,Economic / USI,38834.0529341227
+JPN,Japan,2018,NY.GDP.PCAP.CD,GDP per capita (current US$),gdp_per_capita_current_usd,Economic / USI,39751.1330982711
+JPN,Japan,2019,NY.GDP.PCAP.CD,GDP per capita (current US$),gdp_per_capita_current_usd,Economic / USI,40415.9567649547
+JPN,Japan,2020,NY.GDP.PCAP.CD,GDP per capita (current US$),gdp_per_capita_current_usd,Economic / USI,40028.7341726762
+KOR,"Korea, Rep.",2010,NY.GDP.PCAP.CD,GDP per capita (current US$),gdp_per_capita_current_usd,Economic / USI,24071.2620526362
+KOR,"Korea, Rep.",2011,NY.GDP.PCAP.CD,GDP per capita (current US$),gdp_per_capita_current_usd,Economic / USI,26175.2398553363
+KOR,"Korea, Rep.",2012,NY.GDP.PCAP.CD,GDP per capita (current US$),gdp_per_capita_current_usd,Economic / USI,26600.5477433903
+KOR,"Korea, Rep.",2013,NY.GDP.PCAP.CD,GDP per capita (current US$),gdp_per_capita_current_usd,Economic / USI,28449.3591104972
+KOR,"Korea, Rep.",2014,NY.GDP.PCAP.CD,GDP per capita (current US$),gdp_per_capita_current_usd,Economic / USI,30667.0912467447
+KOR,"Korea, Rep.",2015,NY.GDP.PCAP.CD,GDP per capita (current US$),gdp_per_capita_current_usd,Economic / USI,30171.7906545222
+KOR,"Korea, Rep.",2016,NY.GDP.PCAP.CD,GDP per capita (current US$),gdp_per_capita_current_usd,Economic / USI,30832.0628072516
+KOR,"Korea, Rep.",2017,NY.GDP.PCAP.CD,GDP per capita (current US$),gdp_per_capita_current_usd,Economic / USI,33296.9845439195
+KOR,"Korea, Rep.",2018,NY.GDP.PCAP.CD,GDP per capita (current US$),gdp_per_capita_current_usd,Economic / USI,35363.9508228687
+KOR,"Korea, Rep.",2019,NY.GDP.PCAP.CD,GDP per capita (current US$),gdp_per_capita_current_usd,Economic / USI,33826.9443301597
+KOR,"Korea, Rep.",2020,NY.GDP.PCAP.CD,GDP per capita (current US$),gdp_per_capita_current_usd,Economic / USI,33645.7719545073
+RUS,Russian Federation,2010,NY.GDP.PCAP.CD,GDP per capita (current US$),gdp_per_capita_current_usd,Economic / USI,10674.990234375
+RUS,Russian Federation,2011,NY.GDP.PCAP.CD,GDP per capita (current US$),gdp_per_capita_current_usd,Economic / USI,14305.33203125
+RUS,Russian Federation,2012,NY.GDP.PCAP.CD,GDP per capita (current US$),gdp_per_capita_current_usd,Economic / USI,15401.8515625
+RUS,Russian Federation,2013,NY.GDP.PCAP.CD,GDP per capita (current US$),gdp_per_capita_current_usd,Economic / USI,15941.4482421875
+RUS,Russian Federation,2014,NY.GDP.PCAP.CD,GDP per capita (current US$),gdp_per_capita_current_usd,Economic / USI,14055.47265625
+RUS,Russian Federation,2015,NY.GDP.PCAP.CD,GDP per capita (current US$),gdp_per_capita_current_usd,Economic / USI,9277.7138671875
+RUS,Russian Federation,2016,NY.GDP.PCAP.CD,GDP per capita (current US$),gdp_per_capita_current_usd,Economic / USI,8663.158203125
+RUS,Russian Federation,2017,NY.GDP.PCAP.CD,GDP per capita (current US$),gdp_per_capita_current_usd,Economic / USI,10658.9130859375
+RUS,Russian Federation,2018,NY.GDP.PCAP.CD,GDP per capita (current US$),gdp_per_capita_current_usd,Economic / USI,11211.8876953125
+RUS,Russian Federation,2019,NY.GDP.PCAP.CD,GDP per capita (current US$),gdp_per_capita_current_usd,Economic / USI,11447.701171875
+RUS,Russian Federation,2020,NY.GDP.PCAP.CD,GDP per capita (current US$),gdp_per_capita_current_usd,Economic / USI,10108.3271484375
+SAU,Saudi Arabia,2010,NY.GDP.PCAP.CD,GDP per capita (current US$),gdp_per_capita_current_usd,Economic / USI,22028.3901426586
+SAU,Saudi Arabia,2011,NY.GDP.PCAP.CD,GDP per capita (current US$),gdp_per_capita_current_usd,Economic / USI,27126.7498747702
+SAU,Saudi Arabia,2012,NY.GDP.PCAP.CD,GDP per capita (current US$),gdp_per_capita_current_usd,Economic / USI,28733.4375513452
+SAU,Saudi Arabia,2013,NY.GDP.PCAP.CD,GDP per capita (current US$),gdp_per_capita_current_usd,Economic / USI,27865.465604962
+SAU,Saudi Arabia,2014,NY.GDP.PCAP.CD,GDP per capita (current US$),gdp_per_capita_current_usd,Economic / USI,27805.4850319422
+SAU,Saudi Arabia,2015,NY.GDP.PCAP.CD,GDP per capita (current US$),gdp_per_capita_current_usd,Economic / USI,23256.1549553531
+SAU,Saudi Arabia,2016,NY.GDP.PCAP.CD,GDP per capita (current US$),gdp_per_capita_current_usd,Economic / USI,22267.7217050387
+SAU,Saudi Arabia,2017,NY.GDP.PCAP.CD,GDP per capita (current US$),gdp_per_capita_current_usd,Economic / USI,23929.2907135982
+SAU,Saudi Arabia,2018,NY.GDP.PCAP.CD,GDP per capita (current US$),gdp_per_capita_current_usd,Economic / USI,29360.0658968566
+SAU,Saudi Arabia,2019,NY.GDP.PCAP.CD,GDP per capita (current US$),gdp_per_capita_current_usd,Economic / USI,29566.7933827436
+SAU,Saudi Arabia,2020,NY.GDP.PCAP.CD,GDP per capita (current US$),gdp_per_capita_current_usd,Economic / USI,24338.8307301067
+GBR,United Kingdom,2010,NY.GDP.PCAP.CD,GDP per capita (current US$),gdp_per_capita_current_usd,Economic / USI,39778.3220528565
+GBR,United Kingdom,2011,NY.GDP.PCAP.CD,GDP per capita (current US$),gdp_per_capita_current_usd,Economic / USI,42295.9273835322
+GBR,United Kingdom,2012,NY.GDP.PCAP.CD,GDP per capita (current US$),gdp_per_capita_current_usd,Economic / USI,42688.3263728372
+GBR,United Kingdom,2013,NY.GDP.PCAP.CD,GDP per capita (current US$),gdp_per_capita_current_usd,Economic / USI,43606.9837896348
+GBR,United Kingdom,2014,NY.GDP.PCAP.CD,GDP per capita (current US$),gdp_per_capita_current_usd,Economic / USI,47746.2421759562
+GBR,United Kingdom,2015,NY.GDP.PCAP.CD,GDP per capita (current US$),gdp_per_capita_current_usd,Economic / USI,45255.3449216209
+GBR,United Kingdom,2016,NY.GDP.PCAP.CD,GDP per capita (current US$),gdp_per_capita_current_usd,Economic / USI,41257.9085545556
+GBR,United Kingdom,2017,NY.GDP.PCAP.CD,GDP per capita (current US$),gdp_per_capita_current_usd,Economic / USI,40916.8115070354
+GBR,United Kingdom,2018,NY.GDP.PCAP.CD,GDP per capita (current US$),gdp_per_capita_current_usd,Economic / USI,43702.9976303165
+GBR,United Kingdom,2019,NY.GDP.PCAP.CD,GDP per capita (current US$),gdp_per_capita_current_usd,Economic / USI,43158.7411267323
+GBR,United Kingdom,2020,NY.GDP.PCAP.CD,GDP per capita (current US$),gdp_per_capita_current_usd,Economic / USI,40812.6794663879
+USA,United States,2010,NY.GDP.PCAP.CD,GDP per capita (current US$),gdp_per_capita_current_usd,Economic / USI,48642.6100179312
+USA,United States,2011,NY.GDP.PCAP.CD,GDP per capita (current US$),gdp_per_capita_current_usd,Economic / USI,50024.868799398
+USA,United States,2012,NY.GDP.PCAP.CD,GDP per capita (current US$),gdp_per_capita_current_usd,Economic / USI,51708.4011556577
+USA,United States,2013,NY.GDP.PCAP.CD,GDP per capita (current US$),gdp_per_capita_current_usd,Economic / USI,53179.0127634561
+USA,United States,2014,NY.GDP.PCAP.CD,GDP per capita (current US$),gdp_per_capita_current_usd,Economic / USI,54973.4207515712
+USA,United States,2015,NY.GDP.PCAP.CD,GDP per capita (current US$),gdp_per_capita_current_usd,Economic / USI,56572.9188996063
+USA,United States,2016,NY.GDP.PCAP.CD,GDP per capita (current US$),gdp_per_capita_current_usd,Economic / USI,57638.1018367192
+USA,United States,2017,NY.GDP.PCAP.CD,GDP per capita (current US$),gdp_per_capita_current_usd,Economic / USI,59635.0984397965
+USA,United States,2018,NY.GDP.PCAP.CD,GDP per capita (current US$),gdp_per_capita_current_usd,Economic / USI,62499.8744390068
+USA,United States,2019,NY.GDP.PCAP.CD,GDP per capita (current US$),gdp_per_capita_current_usd,Economic / USI,64746.4506778863
+USA,United States,2020,NY.GDP.PCAP.CD,GDP per capita (current US$),gdp_per_capita_current_usd,Economic / USI,63515.9491807833
+CHN,China,2010,EG.ELC.ACCS.ZS,Access to electricity (% of population),access_to_electricity_pct,Infrastructure / USI,99.7
+CHN,China,2011,EG.ELC.ACCS.ZS,Access to electricity (% of population),access_to_electricity_pct,Infrastructure / USI,99.9
+CHN,China,2012,EG.ELC.ACCS.ZS,Access to electricity (% of population),access_to_electricity_pct,Infrastructure / USI,99.9
+CHN,China,2013,EG.ELC.ACCS.ZS,Access to electricity (% of population),access_to_electricity_pct,Infrastructure / USI,100.0
+CHN,China,2014,EG.ELC.ACCS.ZS,Access to electricity (% of population),access_to_electricity_pct,Infrastructure / USI,100.0
+CHN,China,2015,EG.ELC.ACCS.ZS,Access to electricity (% of population),access_to_electricity_pct,Infrastructure / USI,100.0
+CHN,China,2016,EG.ELC.ACCS.ZS,Access to electricity (% of population),access_to_electricity_pct,Infrastructure / USI,100.0
+CHN,China,2017,EG.ELC.ACCS.ZS,Access to electricity (% of population),access_to_electricity_pct,Infrastructure / USI,100.0
+CHN,China,2018,EG.ELC.ACCS.ZS,Access to electricity (% of population),access_to_electricity_pct,Infrastructure / USI,100.0
+CHN,China,2019,EG.ELC.ACCS.ZS,Access to electricity (% of population),access_to_electricity_pct,Infrastructure / USI,100.0
+CHN,China,2020,EG.ELC.ACCS.ZS,Access to electricity (% of population),access_to_electricity_pct,Infrastructure / USI,100.0
+FRA,France,2010,EG.ELC.ACCS.ZS,Access to electricity (% of population),access_to_electricity_pct,Infrastructure / USI,100.0
+FRA,France,2011,EG.ELC.ACCS.ZS,Access to electricity (% of population),access_to_electricity_pct,Infrastructure / USI,100.0
+FRA,France,2012,EG.ELC.ACCS.ZS,Access to electricity (% of population),access_to_electricity_pct,Infrastructure / USI,100.0
+FRA,France,2013,EG.ELC.ACCS.ZS,Access to electricity (% of population),access_to_electricity_pct,Infrastructure / USI,100.0
+FRA,France,2014,EG.ELC.ACCS.ZS,Access to electricity (% of population),access_to_electricity_pct,Infrastructure / USI,100.0
+FRA,France,2015,EG.ELC.ACCS.ZS,Access to electricity (% of population),access_to_electricity_pct,Infrastructure / USI,100.0
+FRA,France,2016,EG.ELC.ACCS.ZS,Access to electricity (% of population),access_to_electricity_pct,Infrastructure / USI,100.0
+FRA,France,2017,EG.ELC.ACCS.ZS,Access to electricity (% of population),access_to_electricity_pct,Infrastructure / USI,100.0
+FRA,France,2018,EG.ELC.ACCS.ZS,Access to electricity (% of population),access_to_electricity_pct,Infrastructure / USI,100.0
+FRA,France,2019,EG.ELC.ACCS.ZS,Access to electricity (% of population),access_to_electricity_pct,Infrastructure / USI,100.0
+FRA,France,2020,EG.ELC.ACCS.ZS,Access to electricity (% of population),access_to_electricity_pct,Infrastructure / USI,100.0
+DEU,Germany,2010,EG.ELC.ACCS.ZS,Access to electricity (% of population),access_to_electricity_pct,Infrastructure / USI,100.0
+DEU,Germany,2011,EG.ELC.ACCS.ZS,Access to electricity (% of population),access_to_electricity_pct,Infrastructure / USI,100.0
+DEU,Germany,2012,EG.ELC.ACCS.ZS,Access to electricity (% of population),access_to_electricity_pct,Infrastructure / USI,100.0
+DEU,Germany,2013,EG.ELC.ACCS.ZS,Access to electricity (% of population),access_to_electricity_pct,Infrastructure / USI,100.0
+DEU,Germany,2014,EG.ELC.ACCS.ZS,Access to electricity (% of population),access_to_electricity_pct,Infrastructure / USI,100.0
+DEU,Germany,2015,EG.ELC.ACCS.ZS,Access to electricity (% of population),access_to_electricity_pct,Infrastructure / USI,100.0
+DEU,Germany,2016,EG.ELC.ACCS.ZS,Access to electricity (% of population),access_to_electricity_pct,Infrastructure / USI,100.0
+DEU,Germany,2017,EG.ELC.ACCS.ZS,Access to electricity (% of population),access_to_electricity_pct,Infrastructure / USI,100.0
+DEU,Germany,2018,EG.ELC.ACCS.ZS,Access to electricity (% of population),access_to_electricity_pct,Infrastructure / USI,100.0
+DEU,Germany,2019,EG.ELC.ACCS.ZS,Access to electricity (% of population),access_to_electricity_pct,Infrastructure / USI,100.0
+DEU,Germany,2020,EG.ELC.ACCS.ZS,Access to electricity (% of population),access_to_electricity_pct,Infrastructure / USI,100.0
+ISR,Israel,2010,EG.ELC.ACCS.ZS,Access to electricity (% of population),access_to_electricity_pct,Infrastructure / USI,100.0
+ISR,Israel,2011,EG.ELC.ACCS.ZS,Access to electricity (% of population),access_to_electricity_pct,Infrastructure / USI,100.0
+ISR,Israel,2012,EG.ELC.ACCS.ZS,Access to electricity (% of population),access_to_electricity_pct,Infrastructure / USI,100.0
+ISR,Israel,2013,EG.ELC.ACCS.ZS,Access to electricity (% of population),access_to_electricity_pct,Infrastructure / USI,100.0
+ISR,Israel,2014,EG.ELC.ACCS.ZS,Access to electricity (% of population),access_to_electricity_pct,Infrastructure / USI,100.0
+ISR,Israel,2015,EG.ELC.ACCS.ZS,Access to electricity (% of population),access_to_electricity_pct,Infrastructure / USI,100.0
+ISR,Israel,2016,EG.ELC.ACCS.ZS,Access to electricity (% of population),access_to_electricity_pct,Infrastructure / USI,100.0
+ISR,Israel,2017,EG.ELC.ACCS.ZS,Access to electricity (% of population),access_to_electricity_pct,Infrastructure / USI,100.0
+ISR,Israel,2018,EG.ELC.ACCS.ZS,Access to electricity (% of population),access_to_electricity_pct,Infrastructure / USI,100.0
+ISR,Israel,2019,EG.ELC.ACCS.ZS,Access to electricity (% of population),access_to_electricity_pct,Infrastructure / USI,100.0
+ISR,Israel,2020,EG.ELC.ACCS.ZS,Access to electricity (% of population),access_to_electricity_pct,Infrastructure / USI,100.0
+JPN,Japan,2010,EG.ELC.ACCS.ZS,Access to electricity (% of population),access_to_electricity_pct,Infrastructure / USI,100.0
+JPN,Japan,2011,EG.ELC.ACCS.ZS,Access to electricity (% of population),access_to_electricity_pct,Infrastructure / USI,100.0
+JPN,Japan,2012,EG.ELC.ACCS.ZS,Access to electricity (% of population),access_to_electricity_pct,Infrastructure / USI,100.0
+JPN,Japan,2013,EG.ELC.ACCS.ZS,Access to electricity (% of population),access_to_electricity_pct,Infrastructure / USI,100.0
+JPN,Japan,2014,EG.ELC.ACCS.ZS,Access to electricity (% of population),access_to_electricity_pct,Infrastructure / USI,100.0
+JPN,Japan,2015,EG.ELC.ACCS.ZS,Access to electricity (% of population),access_to_electricity_pct,Infrastructure / USI,100.0
+JPN,Japan,2016,EG.ELC.ACCS.ZS,Access to electricity (% of population),access_to_electricity_pct,Infrastructure / USI,100.0
+JPN,Japan,2017,EG.ELC.ACCS.ZS,Access to electricity (% of population),access_to_electricity_pct,Infrastructure / USI,100.0
+JPN,Japan,2018,EG.ELC.ACCS.ZS,Access to electricity (% of population),access_to_electricity_pct,Infrastructure / USI,100.0
+JPN,Japan,2019,EG.ELC.ACCS.ZS,Access to electricity (% of population),access_to_electricity_pct,Infrastructure / USI,100.0
+JPN,Japan,2020,EG.ELC.ACCS.ZS,Access to electricity (% of population),access_to_electricity_pct,Infrastructure / USI,100.0
+KOR,"Korea, Rep.",2010,EG.ELC.ACCS.ZS,Access to electricity (% of population),access_to_electricity_pct,Infrastructure / USI,100.0
+KOR,"Korea, Rep.",2011,EG.ELC.ACCS.ZS,Access to electricity (% of population),access_to_electricity_pct,Infrastructure / USI,100.0
+KOR,"Korea, Rep.",2012,EG.ELC.ACCS.ZS,Access to electricity (% of population),access_to_electricity_pct,Infrastructure / USI,100.0
+KOR,"Korea, Rep.",2013,EG.ELC.ACCS.ZS,Access to electricity (% of population),access_to_electricity_pct,Infrastructure / USI,100.0
+KOR,"Korea, Rep.",2014,EG.ELC.ACCS.ZS,Access to electricity (% of population),access_to_electricity_pct,Infrastructure / USI,100.0
+KOR,"Korea, Rep.",2015,EG.ELC.ACCS.ZS,Access to electricity (% of population),access_to_electricity_pct,Infrastructure / USI,100.0
+KOR,"Korea, Rep.",2016,EG.ELC.ACCS.ZS,Access to electricity (% of population),access_to_electricity_pct,Infrastructure / USI,100.0
+KOR,"Korea, Rep.",2017,EG.ELC.ACCS.ZS,Access to electricity (% of population),access_to_electricity_pct,Infrastructure / USI,100.0
+KOR,"Korea, Rep.",2018,EG.ELC.ACCS.ZS,Access to electricity (% of population),access_to_electricity_pct,Infrastructure / USI,100.0
+KOR,"Korea, Rep.",2019,EG.ELC.ACCS.ZS,Access to electricity (% of population),access_to_electricity_pct,Infrastructure / USI,100.0
+KOR,"Korea, Rep.",2020,EG.ELC.ACCS.ZS,Access to electricity (% of population),access_to_electricity_pct,Infrastructure / USI,100.0
+RUS,Russian Federation,2010,EG.ELC.ACCS.ZS,Access to electricity (% of population),access_to_electricity_pct,Infrastructure / USI,99.3
+RUS,Russian Federation,2011,EG.ELC.ACCS.ZS,Access to electricity (% of population),access_to_electricity_pct,Infrastructure / USI,99.2
+RUS,Russian Federation,2012,EG.ELC.ACCS.ZS,Access to electricity (% of population),access_to_electricity_pct,Infrastructure / USI,100.0
+RUS,Russian Federation,2013,EG.ELC.ACCS.ZS,Access to electricity (% of population),access_to_electricity_pct,Infrastructure / USI,100.0
+RUS,Russian Federation,2014,EG.ELC.ACCS.ZS,Access to electricity (% of population),access_to_electricity_pct,Infrastructure / USI,100.0
+RUS,Russian Federation,2015,EG.ELC.ACCS.ZS,Access to electricity (% of population),access_to_electricity_pct,Infrastructure / USI,95.5
+RUS,Russian Federation,2016,EG.ELC.ACCS.ZS,Access to electricity (% of population),access_to_electricity_pct,Infrastructure / USI,99.4
+RUS,Russian Federation,2017,EG.ELC.ACCS.ZS,Access to electricity (% of population),access_to_electricity_pct,Infrastructure / USI,100.0
+RUS,Russian Federation,2018,EG.ELC.ACCS.ZS,Access to electricity (% of population),access_to_electricity_pct,Infrastructure / USI,100.0
+RUS,Russian Federation,2019,EG.ELC.ACCS.ZS,Access to electricity (% of population),access_to_electricity_pct,Infrastructure / USI,99.8
+RUS,Russian Federation,2020,EG.ELC.ACCS.ZS,Access to electricity (% of population),access_to_electricity_pct,Infrastructure / USI,99.9
+SAU,Saudi Arabia,2010,EG.ELC.ACCS.ZS,Access to electricity (% of population),access_to_electricity_pct,Infrastructure / USI,100.0
+SAU,Saudi Arabia,2011,EG.ELC.ACCS.ZS,Access to electricity (% of population),access_to_electricity_pct,Infrastructure / USI,100.0
+SAU,Saudi Arabia,2012,EG.ELC.ACCS.ZS,Access to electricity (% of population),access_to_electricity_pct,Infrastructure / USI,100.0
+SAU,Saudi Arabia,2013,EG.ELC.ACCS.ZS,Access to electricity (% of population),access_to_electricity_pct,Infrastructure / USI,100.0
+SAU,Saudi Arabia,2014,EG.ELC.ACCS.ZS,Access to electricity (% of population),access_to_electricity_pct,Infrastructure / USI,100.0
+SAU,Saudi Arabia,2015,EG.ELC.ACCS.ZS,Access to electricity (% of population),access_to_electricity_pct,Infrastructure / USI,100.0
+SAU,Saudi Arabia,2016,EG.ELC.ACCS.ZS,Access to electricity (% of population),access_to_electricity_pct,Infrastructure / USI,99.9
+SAU,Saudi Arabia,2017,EG.ELC.ACCS.ZS,Access to electricity (% of population),access_to_electricity_pct,Infrastructure / USI,100.0
+SAU,Saudi Arabia,2018,EG.ELC.ACCS.ZS,Access to electricity (% of population),access_to_electricity_pct,Infrastructure / USI,99.9
+SAU,Saudi Arabia,2019,EG.ELC.ACCS.ZS,Access to electricity (% of population),access_to_electricity_pct,Infrastructure / USI,100.0
+SAU,Saudi Arabia,2020,EG.ELC.ACCS.ZS,Access to electricity (% of population),access_to_electricity_pct,Infrastructure / USI,100.0
+GBR,United Kingdom,2010,EG.ELC.ACCS.ZS,Access to electricity (% of population),access_to_electricity_pct,Infrastructure / USI,100.0
+GBR,United Kingdom,2011,EG.ELC.ACCS.ZS,Access to electricity (% of population),access_to_electricity_pct,Infrastructure / USI,100.0
+GBR,United Kingdom,2012,EG.ELC.ACCS.ZS,Access to electricity (% of population),access_to_electricity_pct,Infrastructure / USI,100.0
+GBR,United Kingdom,2013,EG.ELC.ACCS.ZS,Access to electricity (% of population),access_to_electricity_pct,Infrastructure / USI,100.0
+GBR,United Kingdom,2014,EG.ELC.ACCS.ZS,Access to electricity (% of population),access_to_electricity_pct,Infrastructure / USI,100.0
+GBR,United Kingdom,2015,EG.ELC.ACCS.ZS,Access to electricity (% of population),access_to_electricity_pct,Infrastructure / USI,100.0
+GBR,United Kingdom,2016,EG.ELC.ACCS.ZS,Access to electricity (% of population),access_to_electricity_pct,Infrastructure / USI,100.0
+GBR,United Kingdom,2017,EG.ELC.ACCS.ZS,Access to electricity (% of population),access_to_electricity_pct,Infrastructure / USI,100.0
+GBR,United Kingdom,2018,EG.ELC.ACCS.ZS,Access to electricity (% of population),access_to_electricity_pct,Infrastructure / USI,100.0
+GBR,United Kingdom,2019,EG.ELC.ACCS.ZS,Access to electricity (% of population),access_to_electricity_pct,Infrastructure / USI,100.0
+GBR,United Kingdom,2020,EG.ELC.ACCS.ZS,Access to electricity (% of population),access_to_electricity_pct,Infrastructure / USI,100.0
+USA,United States,2010,EG.ELC.ACCS.ZS,Access to electricity (% of population),access_to_electricity_pct,Infrastructure / USI,100.0
+USA,United States,2011,EG.ELC.ACCS.ZS,Access to electricity (% of population),access_to_electricity_pct,Infrastructure / USI,100.0
+USA,United States,2012,EG.ELC.ACCS.ZS,Access to electricity (% of population),access_to_electricity_pct,Infrastructure / USI,100.0
+USA,United States,2013,EG.ELC.ACCS.ZS,Access to electricity (% of population),access_to_electricity_pct,Infrastructure / USI,100.0
+USA,United States,2014,EG.ELC.ACCS.ZS,Access to electricity (% of population),access_to_electricity_pct,Infrastructure / USI,100.0
+USA,United States,2015,EG.ELC.ACCS.ZS,Access to electricity (% of population),access_to_electricity_pct,Infrastructure / USI,100.0
+USA,United States,2016,EG.ELC.ACCS.ZS,Access to electricity (% of population),access_to_electricity_pct,Infrastructure / USI,100.0
+USA,United States,2017,EG.ELC.ACCS.ZS,Access to electricity (% of population),access_to_electricity_pct,Infrastructure / USI,100.0
+USA,United States,2018,EG.ELC.ACCS.ZS,Access to electricity (% of population),access_to_electricity_pct,Infrastructure / USI,100.0
+USA,United States,2019,EG.ELC.ACCS.ZS,Access to electricity (% of population),access_to_electricity_pct,Infrastructure / USI,100.0
+USA,United States,2020,EG.ELC.ACCS.ZS,Access to electricity (% of population),access_to_electricity_pct,Infrastructure / USI,100.0
+CHN,China,2010,SE.SEC.ENRR,"School enrollment, secondary (% gross)",school_enrollment_secondary_gross_pct,Education / USI,90.7829173331445
+CHN,China,2011,SE.SEC.ENRR,"School enrollment, secondary (% gross)",school_enrollment_secondary_gross_pct,Education / USI,92.0329425203903
+CHN,China,2012,SE.SEC.ENRR,"School enrollment, secondary (% gross)",school_enrollment_secondary_gross_pct,Education / USI,92.2603063015232
+CHN,China,2013,SE.SEC.ENRR,"School enrollment, secondary (% gross)",school_enrollment_secondary_gross_pct,Education / USI,
+CHN,China,2014,SE.SEC.ENRR,"School enrollment, secondary (% gross)",school_enrollment_secondary_gross_pct,Education / USI,
+CHN,China,2015,SE.SEC.ENRR,"School enrollment, secondary (% gross)",school_enrollment_secondary_gross_pct,Education / USI,
+CHN,China,2016,SE.SEC.ENRR,"School enrollment, secondary (% gross)",school_enrollment_secondary_gross_pct,Education / USI,
+CHN,China,2017,SE.SEC.ENRR,"School enrollment, secondary (% gross)",school_enrollment_secondary_gross_pct,Education / USI,
+CHN,China,2018,SE.SEC.ENRR,"School enrollment, secondary (% gross)",school_enrollment_secondary_gross_pct,Education / USI,
+CHN,China,2019,SE.SEC.ENRR,"School enrollment, secondary (% gross)",school_enrollment_secondary_gross_pct,Education / USI,
+CHN,China,2020,SE.SEC.ENRR,"School enrollment, secondary (% gross)",school_enrollment_secondary_gross_pct,Education / USI,
+FRA,France,2010,SE.SEC.ENRR,"School enrollment, secondary (% gross)",school_enrollment_secondary_gross_pct,Education / USI,106.424942016602
+FRA,France,2011,SE.SEC.ENRR,"School enrollment, secondary (% gross)",school_enrollment_secondary_gross_pct,Education / USI,106.610641479492
+FRA,France,2012,SE.SEC.ENRR,"School enrollment, secondary (% gross)",school_enrollment_secondary_gross_pct,Education / USI,105.813583374023
+FRA,France,2013,SE.SEC.ENRR,"School enrollment, secondary (% gross)",school_enrollment_secondary_gross_pct,Education / USI,104.376602172852
+FRA,France,2014,SE.SEC.ENRR,"School enrollment, secondary (% gross)",school_enrollment_secondary_gross_pct,Education / USI,103.425827026367
+FRA,France,2015,SE.SEC.ENRR,"School enrollment, secondary (% gross)",school_enrollment_secondary_gross_pct,Education / USI,103.396041870117
+FRA,France,2016,SE.SEC.ENRR,"School enrollment, secondary (% gross)",school_enrollment_secondary_gross_pct,Education / USI,103.308097839355
+FRA,France,2017,SE.SEC.ENRR,"School enrollment, secondary (% gross)",school_enrollment_secondary_gross_pct,Education / USI,103.756080627441
+FRA,France,2018,SE.SEC.ENRR,"School enrollment, secondary (% gross)",school_enrollment_secondary_gross_pct,Education / USI,103.773330688477
+FRA,France,2019,SE.SEC.ENRR,"School enrollment, secondary (% gross)",school_enrollment_secondary_gross_pct,Education / USI,104.07689666748
+FRA,France,2020,SE.SEC.ENRR,"School enrollment, secondary (% gross)",school_enrollment_secondary_gross_pct,Education / USI,104.566566467285
+DEU,Germany,2010,SE.SEC.ENRR,"School enrollment, secondary (% gross)",school_enrollment_secondary_gross_pct,Education / USI,104.891357421875
+DEU,Germany,2011,SE.SEC.ENRR,"School enrollment, secondary (% gross)",school_enrollment_secondary_gross_pct,Education / USI,105.34651184082
+DEU,Germany,2012,SE.SEC.ENRR,"School enrollment, secondary (% gross)",school_enrollment_secondary_gross_pct,Education / USI,104.442237854004
+DEU,Germany,2013,SE.SEC.ENRR,"School enrollment, secondary (% gross)",school_enrollment_secondary_gross_pct,Education / USI,103.935333251953
+DEU,Germany,2014,SE.SEC.ENRR,"School enrollment, secondary (% gross)",school_enrollment_secondary_gross_pct,Education / USI,103.303871154785
+DEU,Germany,2015,SE.SEC.ENRR,"School enrollment, secondary (% gross)",school_enrollment_secondary_gross_pct,Education / USI,102.192413330078
+DEU,Germany,2016,SE.SEC.ENRR,"School enrollment, secondary (% gross)",school_enrollment_secondary_gross_pct,Education / USI,100.852310180664
+DEU,Germany,2017,SE.SEC.ENRR,"School enrollment, secondary (% gross)",school_enrollment_secondary_gross_pct,Education / USI,101.095642089844
+DEU,Germany,2018,SE.SEC.ENRR,"School enrollment, secondary (% gross)",school_enrollment_secondary_gross_pct,Education / USI,100.837303161621
+DEU,Germany,2019,SE.SEC.ENRR,"School enrollment, secondary (% gross)",school_enrollment_secondary_gross_pct,Education / USI,101.152557373047
+DEU,Germany,2020,SE.SEC.ENRR,"School enrollment, secondary (% gross)",school_enrollment_secondary_gross_pct,Education / USI,101.307800292969
+ISR,Israel,2010,SE.SEC.ENRR,"School enrollment, secondary (% gross)",school_enrollment_secondary_gross_pct,Education / USI,97.8008117675781
+ISR,Israel,2011,SE.SEC.ENRR,"School enrollment, secondary (% gross)",school_enrollment_secondary_gross_pct,Education / USI,98.0884170532227
+ISR,Israel,2012,SE.SEC.ENRR,"School enrollment, secondary (% gross)",school_enrollment_secondary_gross_pct,Education / USI,98.0721435546875
+ISR,Israel,2013,SE.SEC.ENRR,"School enrollment, secondary (% gross)",school_enrollment_secondary_gross_pct,Education / USI,98.7666168212891
+ISR,Israel,2014,SE.SEC.ENRR,"School enrollment, secondary (% gross)",school_enrollment_secondary_gross_pct,Education / USI,98.5257034301758
+ISR,Israel,2015,SE.SEC.ENRR,"School enrollment, secondary (% gross)",school_enrollment_secondary_gross_pct,Education / USI,98.464973449707
+ISR,Israel,2016,SE.SEC.ENRR,"School enrollment, secondary (% gross)",school_enrollment_secondary_gross_pct,Education / USI,99.2754516601562
+ISR,Israel,2017,SE.SEC.ENRR,"School enrollment, secondary (% gross)",school_enrollment_secondary_gross_pct,Education / USI,98.0842971801758
+ISR,Israel,2018,SE.SEC.ENRR,"School enrollment, secondary (% gross)",school_enrollment_secondary_gross_pct,Education / USI,98.327278137207
+ISR,Israel,2019,SE.SEC.ENRR,"School enrollment, secondary (% gross)",school_enrollment_secondary_gross_pct,Education / USI,97.8852386474609
+ISR,Israel,2020,SE.SEC.ENRR,"School enrollment, secondary (% gross)",school_enrollment_secondary_gross_pct,Education / USI,98.0958404541016
+JPN,Japan,2010,SE.SEC.ENRR,"School enrollment, secondary (% gross)",school_enrollment_secondary_gross_pct,Education / USI,
+JPN,Japan,2011,SE.SEC.ENRR,"School enrollment, secondary (% gross)",school_enrollment_secondary_gross_pct,Education / USI,
+JPN,Japan,2012,SE.SEC.ENRR,"School enrollment, secondary (% gross)",school_enrollment_secondary_gross_pct,Education / USI,
+JPN,Japan,2013,SE.SEC.ENRR,"School enrollment, secondary (% gross)",school_enrollment_secondary_gross_pct,Education / USI,101.049438476562
+JPN,Japan,2014,SE.SEC.ENRR,"School enrollment, secondary (% gross)",school_enrollment_secondary_gross_pct,Education / USI,101.036422729492
+JPN,Japan,2015,SE.SEC.ENRR,"School enrollment, secondary (% gross)",school_enrollment_secondary_gross_pct,Education / USI,101.724517822266
+JPN,Japan,2016,SE.SEC.ENRR,"School enrollment, secondary (% gross)",school_enrollment_secondary_gross_pct,Education / USI,101.296928405762
+JPN,Japan,2017,SE.SEC.ENRR,"School enrollment, secondary (% gross)",school_enrollment_secondary_gross_pct,Education / USI,100.260749816895
+JPN,Japan,2018,SE.SEC.ENRR,"School enrollment, secondary (% gross)",school_enrollment_secondary_gross_pct,Education / USI,100.482200622559
+JPN,Japan,2019,SE.SEC.ENRR,"School enrollment, secondary (% gross)",school_enrollment_secondary_gross_pct,Education / USI,100.660270690918
+JPN,Japan,2020,SE.SEC.ENRR,"School enrollment, secondary (% gross)",school_enrollment_secondary_gross_pct,Education / USI,101.34056854248
+KOR,"Korea, Rep.",2010,SE.SEC.ENRR,"School enrollment, secondary (% gross)",school_enrollment_secondary_gross_pct,Education / USI,97.2930603027344
+KOR,"Korea, Rep.",2011,SE.SEC.ENRR,"School enrollment, secondary (% gross)",school_enrollment_secondary_gross_pct,Education / USI,97.5294189453125
+KOR,"Korea, Rep.",2012,SE.SEC.ENRR,"School enrollment, secondary (% gross)",school_enrollment_secondary_gross_pct,Education / USI,97.3674163818359
+KOR,"Korea, Rep.",2013,SE.SEC.ENRR,"School enrollment, secondary (% gross)",school_enrollment_secondary_gross_pct,Education / USI,97.8287506103516
+KOR,"Korea, Rep.",2014,SE.SEC.ENRR,"School enrollment, secondary (% gross)",school_enrollment_secondary_gross_pct,Education / USI,98.5806732177734
+KOR,"Korea, Rep.",2015,SE.SEC.ENRR,"School enrollment, secondary (% gross)",school_enrollment_secondary_gross_pct,Education / USI,98.5931930541992
+KOR,"Korea, Rep.",2016,SE.SEC.ENRR,"School enrollment, secondary (% gross)",school_enrollment_secondary_gross_pct,Education / USI,98.7179565429688
+KOR,"Korea, Rep.",2017,SE.SEC.ENRR,"School enrollment, secondary (% gross)",school_enrollment_secondary_gross_pct,Education / USI,99.105583190918
+KOR,"Korea, Rep.",2018,SE.SEC.ENRR,"School enrollment, secondary (% gross)",school_enrollment_secondary_gross_pct,Education / USI,99.3186569213867
+KOR,"Korea, Rep.",2019,SE.SEC.ENRR,"School enrollment, secondary (% gross)",school_enrollment_secondary_gross_pct,Education / USI,98.3813018798828
+KOR,"Korea, Rep.",2020,SE.SEC.ENRR,"School enrollment, secondary (% gross)",school_enrollment_secondary_gross_pct,Education / USI,97.0888214111328
+RUS,Russian Federation,2010,SE.SEC.ENRR,"School enrollment, secondary (% gross)",school_enrollment_secondary_gross_pct,Education / USI,
+RUS,Russian Federation,2011,SE.SEC.ENRR,"School enrollment, secondary (% gross)",school_enrollment_secondary_gross_pct,Education / USI,94.5758904929741
+RUS,Russian Federation,2012,SE.SEC.ENRR,"School enrollment, secondary (% gross)",school_enrollment_secondary_gross_pct,Education / USI,95.5384826756866
+RUS,Russian Federation,2013,SE.SEC.ENRR,"School enrollment, secondary (% gross)",school_enrollment_secondary_gross_pct,Education / USI,95.9993761959632
+RUS,Russian Federation,2014,SE.SEC.ENRR,"School enrollment, secondary (% gross)",school_enrollment_secondary_gross_pct,Education / USI,95.6056322692131
+RUS,Russian Federation,2015,SE.SEC.ENRR,"School enrollment, secondary (% gross)",school_enrollment_secondary_gross_pct,Education / USI,96.3292563031308
+RUS,Russian Federation,2016,SE.SEC.ENRR,"School enrollment, secondary (% gross)",school_enrollment_secondary_gross_pct,Education / USI,95.8434944997854
+RUS,Russian Federation,2017,SE.SEC.ENRR,"School enrollment, secondary (% gross)",school_enrollment_secondary_gross_pct,Education / USI,97.5206298303399
+RUS,Russian Federation,2018,SE.SEC.ENRR,"School enrollment, secondary (% gross)",school_enrollment_secondary_gross_pct,Education / USI,99.1831046517789
+RUS,Russian Federation,2019,SE.SEC.ENRR,"School enrollment, secondary (% gross)",school_enrollment_secondary_gross_pct,Education / USI,100.471744682473
+RUS,Russian Federation,2020,SE.SEC.ENRR,"School enrollment, secondary (% gross)",school_enrollment_secondary_gross_pct,Education / USI,91.5812884026933
+SAU,Saudi Arabia,2010,SE.SEC.ENRR,"School enrollment, secondary (% gross)",school_enrollment_secondary_gross_pct,Education / USI,
+SAU,Saudi Arabia,2011,SE.SEC.ENRR,"School enrollment, secondary (% gross)",school_enrollment_secondary_gross_pct,Education / USI,
+SAU,Saudi Arabia,2012,SE.SEC.ENRR,"School enrollment, secondary (% gross)",school_enrollment_secondary_gross_pct,Education / USI,
+SAU,Saudi Arabia,2013,SE.SEC.ENRR,"School enrollment, secondary (% gross)",school_enrollment_secondary_gross_pct,Education / USI,93.0168905157466
+SAU,Saudi Arabia,2014,SE.SEC.ENRR,"School enrollment, secondary (% gross)",school_enrollment_secondary_gross_pct,Education / USI,98.8496091524944
+SAU,Saudi Arabia,2015,SE.SEC.ENRR,"School enrollment, secondary (% gross)",school_enrollment_secondary_gross_pct,Education / USI,102.979200639837
+SAU,Saudi Arabia,2016,SE.SEC.ENRR,"School enrollment, secondary (% gross)",school_enrollment_secondary_gross_pct,Education / USI,105.491550199825
+SAU,Saudi Arabia,2017,SE.SEC.ENRR,"School enrollment, secondary (% gross)",school_enrollment_secondary_gross_pct,Education / USI,106.244903966787
+SAU,Saudi Arabia,2018,SE.SEC.ENRR,"School enrollment, secondary (% gross)",school_enrollment_secondary_gross_pct,Education / USI,106.376211565111
+SAU,Saudi Arabia,2019,SE.SEC.ENRR,"School enrollment, secondary (% gross)",school_enrollment_secondary_gross_pct,Education / USI,104.048257824894
+SAU,Saudi Arabia,2020,SE.SEC.ENRR,"School enrollment, secondary (% gross)",school_enrollment_secondary_gross_pct,Education / USI,104.411027399625
+GBR,United Kingdom,2010,SE.SEC.ENRR,"School enrollment, secondary (% gross)",school_enrollment_secondary_gross_pct,Education / USI,103.461151123047
+GBR,United Kingdom,2011,SE.SEC.ENRR,"School enrollment, secondary (% gross)",school_enrollment_secondary_gross_pct,Education / USI,94.1645202636719
+GBR,United Kingdom,2012,SE.SEC.ENRR,"School enrollment, secondary (% gross)",school_enrollment_secondary_gross_pct,Education / USI,92.5272903442383
+GBR,United Kingdom,2013,SE.SEC.ENRR,"School enrollment, secondary (% gross)",school_enrollment_secondary_gross_pct,Education / USI,126.064338684082
+GBR,United Kingdom,2014,SE.SEC.ENRR,"School enrollment, secondary (% gross)",school_enrollment_secondary_gross_pct,Education / USI,128.822494506836
+GBR,United Kingdom,2015,SE.SEC.ENRR,"School enrollment, secondary (% gross)",school_enrollment_secondary_gross_pct,Education / USI,126.110870361328
+GBR,United Kingdom,2016,SE.SEC.ENRR,"School enrollment, secondary (% gross)",school_enrollment_secondary_gross_pct,Education / USI,
+GBR,United Kingdom,2017,SE.SEC.ENRR,"School enrollment, secondary (% gross)",school_enrollment_secondary_gross_pct,Education / USI,125.62979888916
+GBR,United Kingdom,2018,SE.SEC.ENRR,"School enrollment, secondary (% gross)",school_enrollment_secondary_gross_pct,Education / USI,120.088279724121
+GBR,United Kingdom,2019,SE.SEC.ENRR,"School enrollment, secondary (% gross)",school_enrollment_secondary_gross_pct,Education / USI,117.156600952148
+GBR,United Kingdom,2020,SE.SEC.ENRR,"School enrollment, secondary (% gross)",school_enrollment_secondary_gross_pct,Education / USI,114.617248535156
+USA,United States,2010,SE.SEC.ENRR,"School enrollment, secondary (% gross)",school_enrollment_secondary_gross_pct,Education / USI,
+USA,United States,2011,SE.SEC.ENRR,"School enrollment, secondary (% gross)",school_enrollment_secondary_gross_pct,Education / USI,
+USA,United States,2012,SE.SEC.ENRR,"School enrollment, secondary (% gross)",school_enrollment_secondary_gross_pct,Education / USI,
+USA,United States,2013,SE.SEC.ENRR,"School enrollment, secondary (% gross)",school_enrollment_secondary_gross_pct,Education / USI,96.1864929199219
+USA,United States,2014,SE.SEC.ENRR,"School enrollment, secondary (% gross)",school_enrollment_secondary_gross_pct,Education / USI,96.9245376586914
+USA,United States,2015,SE.SEC.ENRR,"School enrollment, secondary (% gross)",school_enrollment_secondary_gross_pct,Education / USI,97.6525497436523
+USA,United States,2016,SE.SEC.ENRR,"School enrollment, secondary (% gross)",school_enrollment_secondary_gross_pct,Education / USI,98.7699279785156
+USA,United States,2017,SE.SEC.ENRR,"School enrollment, secondary (% gross)",school_enrollment_secondary_gross_pct,Education / USI,98.9523391723633
+USA,United States,2018,SE.SEC.ENRR,"School enrollment, secondary (% gross)",school_enrollment_secondary_gross_pct,Education / USI,99.2755813598633
+USA,United States,2019,SE.SEC.ENRR,"School enrollment, secondary (% gross)",school_enrollment_secondary_gross_pct,Education / USI,100.063430786133
+USA,United States,2020,SE.SEC.ENRR,"School enrollment, secondary (% gross)",school_enrollment_secondary_gross_pct,Education / USI,100.509819030762

@@ -1,0 +1,111 @@
+country_code,country_name,year,indicator_code,indicator_name,short_name,category,value
+CHN,China,2010,SP.URB.TOTL.IN.ZS,Urban population (% of total population),urban_population_pct,Structural predictor,49.2340270628041
+CHN,China,2011,SP.URB.TOTL.IN.ZS,Urban population (% of total population),urban_population_pct,Structural predictor,51.8300285339355
+CHN,China,2012,SP.URB.TOTL.IN.ZS,Urban population (% of total population),urban_population_pct,Structural predictor,53.1003112792969
+CHN,China,2013,SP.URB.TOTL.IN.ZS,Urban population (% of total population),urban_population_pct,Structural predictor,54.4900016784668
+CHN,China,2014,SP.URB.TOTL.IN.ZS,Urban population (% of total population),urban_population_pct,Structural predictor,55.7502555847168
+CHN,China,2015,SP.URB.TOTL.IN.ZS,Urban population (% of total population),urban_population_pct,Structural predictor,57.3297843933105
+CHN,China,2016,SP.URB.TOTL.IN.ZS,Urban population (% of total population),urban_population_pct,Structural predictor,58.8399238586426
+CHN,China,2017,SP.URB.TOTL.IN.ZS,Urban population (% of total population),urban_population_pct,Structural predictor,60.2402687072754
+CHN,China,2018,SP.URB.TOTL.IN.ZS,Urban population (% of total population),urban_population_pct,Structural predictor,61.5001983642578
+CHN,China,2019,SP.URB.TOTL.IN.ZS,Urban population (% of total population),urban_population_pct,Structural predictor,62.7099151611328
+CHN,China,2020,SP.URB.TOTL.IN.ZS,Urban population (% of total population),urban_population_pct,Structural predictor,63.5234230266258
+FRA,France,2010,SP.URB.TOTL.IN.ZS,Urban population (% of total population),urban_population_pct,Structural predictor,77.0962844808803
+FRA,France,2011,SP.URB.TOTL.IN.ZS,Urban population (% of total population),urban_population_pct,Structural predictor,77.1182717387509
+FRA,France,2012,SP.URB.TOTL.IN.ZS,Urban population (% of total population),urban_population_pct,Structural predictor,77.1669464919916
+FRA,France,2013,SP.URB.TOTL.IN.ZS,Urban population (% of total population),urban_population_pct,Structural predictor,77.2440721470918
+FRA,France,2014,SP.URB.TOTL.IN.ZS,Urban population (% of total population),urban_population_pct,Structural predictor,77.3524296788613
+FRA,France,2015,SP.URB.TOTL.IN.ZS,Urban population (% of total population),urban_population_pct,Structural predictor,77.7610919150066
+FRA,France,2016,SP.URB.TOTL.IN.ZS,Urban population (% of total population),urban_population_pct,Structural predictor,78.5999114705779
+FRA,France,2017,SP.URB.TOTL.IN.ZS,Urban population (% of total population),urban_population_pct,Structural predictor,78.6467804026368
+FRA,France,2018,SP.URB.TOTL.IN.ZS,Urban population (% of total population),urban_population_pct,Structural predictor,78.6714432536599
+FRA,France,2019,SP.URB.TOTL.IN.ZS,Urban population (% of total population),urban_population_pct,Structural predictor,78.6890784549356
+FRA,France,2020,SP.URB.TOTL.IN.ZS,Urban population (% of total population),urban_population_pct,Structural predictor,78.7119131765249
+DEU,Germany,2010,SP.URB.TOTL.IN.ZS,Urban population (% of total population),urban_population_pct,Structural predictor,80.305702559949
+DEU,Germany,2011,SP.URB.TOTL.IN.ZS,Urban population (% of total population),urban_population_pct,Structural predictor,80.3405762928198
+DEU,Germany,2012,SP.URB.TOTL.IN.ZS,Urban population (% of total population),urban_population_pct,Structural predictor,80.393447520218
+DEU,Germany,2013,SP.URB.TOTL.IN.ZS,Urban population (% of total population),urban_population_pct,Structural predictor,80.4732318400362
+DEU,Germany,2014,SP.URB.TOTL.IN.ZS,Urban population (% of total population),urban_population_pct,Structural predictor,80.57574023743
+DEU,Germany,2015,SP.URB.TOTL.IN.ZS,Urban population (% of total population),urban_population_pct,Structural predictor,80.6974371632814
+DEU,Germany,2016,SP.URB.TOTL.IN.ZS,Urban population (% of total population),urban_population_pct,Structural predictor,80.8347870684725
+DEU,Germany,2017,SP.URB.TOTL.IN.ZS,Urban population (% of total population),urban_population_pct,Structural predictor,80.9842544038853
+DEU,Germany,2018,SP.URB.TOTL.IN.ZS,Urban population (% of total population),urban_population_pct,Structural predictor,81.1423036204018
+DEU,Germany,2019,SP.URB.TOTL.IN.ZS,Urban population (% of total population),urban_population_pct,Structural predictor,81.3053991689039
+DEU,Germany,2020,SP.URB.TOTL.IN.ZS,Urban population (% of total population),urban_population_pct,Structural predictor,81.4700055002738
+ISR,Israel,2010,SP.URB.TOTL.IN.ZS,Urban population (% of total population),urban_population_pct,Structural predictor,91.7316426703946
+ISR,Israel,2011,SP.URB.TOTL.IN.ZS,Urban population (% of total population),urban_population_pct,Structural predictor,91.7304024673781
+ISR,Israel,2012,SP.URB.TOTL.IN.ZS,Urban population (% of total population),urban_population_pct,Structural predictor,91.7276502819515
+ISR,Israel,2013,SP.URB.TOTL.IN.ZS,Urban population (% of total population),urban_population_pct,Structural predictor,91.7227831465406
+ISR,Israel,2014,SP.URB.TOTL.IN.ZS,Urban population (% of total population),urban_population_pct,Structural predictor,91.7151980935716
+ISR,Israel,2015,SP.URB.TOTL.IN.ZS,Urban population (% of total population),urban_population_pct,Structural predictor,91.7042921554705
+ISR,Israel,2016,SP.URB.TOTL.IN.ZS,Urban population (% of total population),urban_population_pct,Structural predictor,91.6894623646632
+ISR,Israel,2017,SP.URB.TOTL.IN.ZS,Urban population (% of total population),urban_population_pct,Structural predictor,91.6701057535759
+ISR,Israel,2018,SP.URB.TOTL.IN.ZS,Urban population (% of total population),urban_population_pct,Structural predictor,91.6456193546346
+ISR,Israel,2019,SP.URB.TOTL.IN.ZS,Urban population (% of total population),urban_population_pct,Structural predictor,91.6154002002652
+ISR,Israel,2020,SP.URB.TOTL.IN.ZS,Urban population (% of total population),urban_population_pct,Structural predictor,91.5788453228939
+JPN,Japan,2010,SP.URB.TOTL.IN.ZS,Urban population (% of total population),urban_population_pct,Structural predictor,90.6228586840649
+JPN,Japan,2011,SP.URB.TOTL.IN.ZS,Urban population (% of total population),urban_population_pct,Structural predictor,90.8631654434251
+JPN,Japan,2012,SP.URB.TOTL.IN.ZS,Urban population (% of total population),urban_population_pct,Structural predictor,91.0265277326652
+JPN,Japan,2013,SP.URB.TOTL.IN.ZS,Urban population (% of total population),urban_population_pct,Structural predictor,91.1516595654317
+JPN,Japan,2014,SP.URB.TOTL.IN.ZS,Urban population (% of total population),urban_population_pct,Structural predictor,91.2548945132333
+JPN,Japan,2015,SP.URB.TOTL.IN.ZS,Urban population (% of total population),urban_population_pct,Structural predictor,91.3532644103625
+JPN,Japan,2016,SP.URB.TOTL.IN.ZS,Urban population (% of total population),urban_population_pct,Structural predictor,91.4541254852142
+JPN,Japan,2017,SP.URB.TOTL.IN.ZS,Urban population (% of total population),urban_population_pct,Structural predictor,91.5498419685883
+JPN,Japan,2018,SP.URB.TOTL.IN.ZS,Urban population (% of total population),urban_population_pct,Structural predictor,91.6377318609728
+JPN,Japan,2019,SP.URB.TOTL.IN.ZS,Urban population (% of total population),urban_population_pct,Structural predictor,91.7164207898107
+JPN,Japan,2020,SP.URB.TOTL.IN.ZS,Urban population (% of total population),urban_population_pct,Structural predictor,91.7809926267889
+KOR,"Korea, Rep.",2010,SP.URB.TOTL.IN.ZS,Urban population (% of total population),urban_population_pct,Structural predictor,81.9685075986486
+KOR,"Korea, Rep.",2011,SP.URB.TOTL.IN.ZS,Urban population (% of total population),urban_population_pct,Structural predictor,81.9615408086376
+KOR,"Korea, Rep.",2012,SP.URB.TOTL.IN.ZS,Urban population (% of total population),urban_population_pct,Structural predictor,81.9087898200378
+KOR,"Korea, Rep.",2013,SP.URB.TOTL.IN.ZS,Urban population (% of total population),urban_population_pct,Structural predictor,81.8269383502703
+KOR,"Korea, Rep.",2014,SP.URB.TOTL.IN.ZS,Urban population (% of total population),urban_population_pct,Structural predictor,81.7315682816954
+KOR,"Korea, Rep.",2015,SP.URB.TOTL.IN.ZS,Urban population (% of total population),urban_population_pct,Structural predictor,81.639489860678
+KOR,"Korea, Rep.",2016,SP.URB.TOTL.IN.ZS,Urban population (% of total population),urban_population_pct,Structural predictor,81.5559241797057
+KOR,"Korea, Rep.",2017,SP.URB.TOTL.IN.ZS,Urban population (% of total population),urban_population_pct,Structural predictor,81.471030429984
+KOR,"Korea, Rep.",2018,SP.URB.TOTL.IN.ZS,Urban population (% of total population),urban_population_pct,Structural predictor,81.3823523035196
+KOR,"Korea, Rep.",2019,SP.URB.TOTL.IN.ZS,Urban population (% of total population),urban_population_pct,Structural predictor,81.2901063535619
+KOR,"Korea, Rep.",2020,SP.URB.TOTL.IN.ZS,Urban population (% of total population),urban_population_pct,Structural predictor,81.1759595622913
+RUS,Russian Federation,2010,SP.URB.TOTL.IN.ZS,Urban population (% of total population),urban_population_pct,Structural predictor,73.6696307887624
+RUS,Russian Federation,2011,SP.URB.TOTL.IN.ZS,Urban population (% of total population),urban_population_pct,Structural predictor,73.8534851074219
+RUS,Russian Federation,2012,SP.URB.TOTL.IN.ZS,Urban population (% of total population),urban_population_pct,Structural predictor,73.97265625
+RUS,Russian Federation,2013,SP.URB.TOTL.IN.ZS,Urban population (% of total population),urban_population_pct,Structural predictor,74.0762949770228
+RUS,Russian Federation,2014,SP.URB.TOTL.IN.ZS,Urban population (% of total population),urban_population_pct,Structural predictor,74.1776476748791
+RUS,Russian Federation,2015,SP.URB.TOTL.IN.ZS,Urban population (% of total population),urban_population_pct,Structural predictor,74.275919065527
+RUS,Russian Federation,2016,SP.URB.TOTL.IN.ZS,Urban population (% of total population),urban_population_pct,Structural predictor,74.3703138709243
+RUS,Russian Federation,2017,SP.URB.TOTL.IN.ZS,Urban population (% of total population),urban_population_pct,Structural predictor,74.460036813029
+RUS,Russian Federation,2018,SP.URB.TOTL.IN.ZS,Urban population (% of total population),urban_population_pct,Structural predictor,74.5442926137992
+RUS,Russian Federation,2019,SP.URB.TOTL.IN.ZS,Urban population (% of total population),urban_population_pct,Structural predictor,74.6222859951926
+RUS,Russian Federation,2020,SP.URB.TOTL.IN.ZS,Urban population (% of total population),urban_population_pct,Structural predictor,74.6932216791674
+SAU,Saudi Arabia,2010,SP.URB.TOTL.IN.ZS,Urban population (% of total population),urban_population_pct,Structural predictor,82.0791668544465
+SAU,Saudi Arabia,2011,SP.URB.TOTL.IN.ZS,Urban population (% of total population),urban_population_pct,Structural predictor,82.2543876159947
+SAU,Saudi Arabia,2012,SP.URB.TOTL.IN.ZS,Urban population (% of total population),urban_population_pct,Structural predictor,82.4311918025358
+SAU,Saudi Arabia,2013,SP.URB.TOTL.IN.ZS,Urban population (% of total population),urban_population_pct,Structural predictor,82.6071884619102
+SAU,Saudi Arabia,2014,SP.URB.TOTL.IN.ZS,Urban population (% of total population),urban_population_pct,Structural predictor,82.7822571294871
+SAU,Saudi Arabia,2015,SP.URB.TOTL.IN.ZS,Urban population (% of total population),urban_population_pct,Structural predictor,82.9562773406163
+SAU,Saudi Arabia,2016,SP.URB.TOTL.IN.ZS,Urban population (% of total population),urban_population_pct,Structural predictor,83.129128630626
+SAU,Saudi Arabia,2017,SP.URB.TOTL.IN.ZS,Urban population (% of total population),urban_population_pct,Structural predictor,83.300690534822
+SAU,Saudi Arabia,2018,SP.URB.TOTL.IN.ZS,Urban population (% of total population),urban_population_pct,Structural predictor,83.4708425884849
+SAU,Saudi Arabia,2019,SP.URB.TOTL.IN.ZS,Urban population (% of total population),urban_population_pct,Structural predictor,83.6394643268678
+SAU,Saudi Arabia,2020,SP.URB.TOTL.IN.ZS,Urban population (% of total population),urban_population_pct,Structural predictor,83.8064352851942
+GBR,United Kingdom,2010,SP.URB.TOTL.IN.ZS,Urban population (% of total population),urban_population_pct,Structural predictor,80.995165116277
+GBR,United Kingdom,2011,SP.URB.TOTL.IN.ZS,Urban population (% of total population),urban_population_pct,Structural predictor,81.1359685592627
+GBR,United Kingdom,2012,SP.URB.TOTL.IN.ZS,Urban population (% of total population),urban_population_pct,Structural predictor,81.2905667759508
+GBR,United Kingdom,2013,SP.URB.TOTL.IN.ZS,Urban population (% of total population),urban_population_pct,Structural predictor,81.4573768694887
+GBR,United Kingdom,2014,SP.URB.TOTL.IN.ZS,Urban population (% of total population),urban_population_pct,Structural predictor,81.6355750750722
+GBR,United Kingdom,2015,SP.URB.TOTL.IN.ZS,Urban population (% of total population),urban_population_pct,Structural predictor,81.8243772295647
+GBR,United Kingdom,2016,SP.URB.TOTL.IN.ZS,Urban population (% of total population),urban_population_pct,Structural predictor,82.0229991698295
+GBR,United Kingdom,2017,SP.URB.TOTL.IN.ZS,Urban population (% of total population),urban_population_pct,Structural predictor,82.23065673273
+GBR,United Kingdom,2018,SP.URB.TOTL.IN.ZS,Urban population (% of total population),urban_population_pct,Structural predictor,82.4465657551295
+GBR,United Kingdom,2019,SP.URB.TOTL.IN.ZS,Urban population (% of total population),urban_population_pct,Structural predictor,82.6699420738913
+GBR,United Kingdom,2020,SP.URB.TOTL.IN.ZS,Urban population (% of total population),urban_population_pct,Structural predictor,82.9000015258789
+USA,United States,2010,SP.URB.TOTL.IN.ZS,Urban population (% of total population),urban_population_pct,Structural predictor,80.6997744673366
+USA,United States,2011,SP.URB.TOTL.IN.ZS,Urban population (% of total population),urban_population_pct,Structural predictor,80.6957554256024
+USA,United States,2012,SP.URB.TOTL.IN.ZS,Urban population (% of total population),urban_population_pct,Structural predictor,80.6837493386238
+USA,United States,2013,SP.URB.TOTL.IN.ZS,Urban population (% of total population),urban_population_pct,Structural predictor,80.660889281215
+USA,United States,2014,SP.URB.TOTL.IN.ZS,Urban population (% of total population),urban_population_pct,Structural predictor,80.6242231779766
+USA,United States,2015,SP.URB.TOTL.IN.ZS,Urban population (% of total population),urban_population_pct,Structural predictor,80.5707989535091
+USA,United States,2016,SP.URB.TOTL.IN.ZS,Urban population (% of total population),urban_population_pct,Structural predictor,80.4976645324131
+USA,United States,2017,SP.URB.TOTL.IN.ZS,Urban population (% of total population),urban_population_pct,Structural predictor,80.4018678392891
+USA,United States,2018,SP.URB.TOTL.IN.ZS,Urban population (% of total population),urban_population_pct,Structural predictor,80.2804567987377
+USA,United States,2019,SP.URB.TOTL.IN.ZS,Urban population (% of total population),urban_population_pct,Structural predictor,80.1304793353594
+USA,United States,2020,SP.URB.TOTL.IN.ZS,Urban population (% of total population),urban_population_pct,Structural predictor,79.997451762548

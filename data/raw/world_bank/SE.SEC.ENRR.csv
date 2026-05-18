@@ -1,0 +1,111 @@
+country_code,country_name,year,indicator_code,indicator_name,short_name,category,value
+CHN,China,2010,SE.SEC.ENRR,"School enrollment, secondary (% gross)",school_enrollment_secondary_gross_pct,Education / USI,90.7829173331445
+CHN,China,2011,SE.SEC.ENRR,"School enrollment, secondary (% gross)",school_enrollment_secondary_gross_pct,Education / USI,92.0329425203903
+CHN,China,2012,SE.SEC.ENRR,"School enrollment, secondary (% gross)",school_enrollment_secondary_gross_pct,Education / USI,92.2603063015232
+CHN,China,2013,SE.SEC.ENRR,"School enrollment, secondary (% gross)",school_enrollment_secondary_gross_pct,Education / USI,
+CHN,China,2014,SE.SEC.ENRR,"School enrollment, secondary (% gross)",school_enrollment_secondary_gross_pct,Education / USI,
+CHN,China,2015,SE.SEC.ENRR,"School enrollment, secondary (% gross)",school_enrollment_secondary_gross_pct,Education / USI,
+CHN,China,2016,SE.SEC.ENRR,"School enrollment, secondary (% gross)",school_enrollment_secondary_gross_pct,Education / USI,
+CHN,China,2017,SE.SEC.ENRR,"School enrollment, secondary (% gross)",school_enrollment_secondary_gross_pct,Education / USI,
+CHN,China,2018,SE.SEC.ENRR,"School enrollment, secondary (% gross)",school_enrollment_secondary_gross_pct,Education / USI,
+CHN,China,2019,SE.SEC.ENRR,"School enrollment, secondary (% gross)",school_enrollment_secondary_gross_pct,Education / USI,
+CHN,China,2020,SE.SEC.ENRR,"School enrollment, secondary (% gross)",school_enrollment_secondary_gross_pct,Education / USI,
+FRA,France,2010,SE.SEC.ENRR,"School enrollment, secondary (% gross)",school_enrollment_secondary_gross_pct,Education / USI,106.424942016602
+FRA,France,2011,SE.SEC.ENRR,"School enrollment, secondary (% gross)",school_enrollment_secondary_gross_pct,Education / USI,106.610641479492
+FRA,France,2012,SE.SEC.ENRR,"School enrollment, secondary (% gross)",school_enrollment_secondary_gross_pct,Education / USI,105.813583374023
+FRA,France,2013,SE.SEC.ENRR,"School enrollment, secondary (% gross)",school_enrollment_secondary_gross_pct,Education / USI,104.376602172852
+FRA,France,2014,SE.SEC.ENRR,"School enrollment, secondary (% gross)",school_enrollment_secondary_gross_pct,Education / USI,103.425827026367
+FRA,France,2015,SE.SEC.ENRR,"School enrollment, secondary (% gross)",school_enrollment_secondary_gross_pct,Education / USI,103.396041870117
+FRA,France,2016,SE.SEC.ENRR,"School enrollment, secondary (% gross)",school_enrollment_secondary_gross_pct,Education / USI,103.308097839355
+FRA,France,2017,SE.SEC.ENRR,"School enrollment, secondary (% gross)",school_enrollment_secondary_gross_pct,Education / USI,103.756080627441
+FRA,France,2018,SE.SEC.ENRR,"School enrollment, secondary (% gross)",school_enrollment_secondary_gross_pct,Education / USI,103.773330688477
+FRA,France,2019,SE.SEC.ENRR,"School enrollment, secondary (% gross)",school_enrollment_secondary_gross_pct,Education / USI,104.07689666748
+FRA,France,2020,SE.SEC.ENRR,"School enrollment, secondary (% gross)",school_enrollment_secondary_gross_pct,Education / USI,104.566566467285
+DEU,Germany,2010,SE.SEC.ENRR,"School enrollment, secondary (% gross)",school_enrollment_secondary_gross_pct,Education / USI,104.891357421875
+DEU,Germany,2011,SE.SEC.ENRR,"School enrollment, secondary (% gross)",school_enrollment_secondary_gross_pct,Education / USI,105.34651184082
+DEU,Germany,2012,SE.SEC.ENRR,"School enrollment, secondary (% gross)",school_enrollment_secondary_gross_pct,Education / USI,104.442237854004
+DEU,Germany,2013,SE.SEC.ENRR,"School enrollment, secondary (% gross)",school_enrollment_secondary_gross_pct,Education / USI,103.935333251953
+DEU,Germany,2014,SE.SEC.ENRR,"School enrollment, secondary (% gross)",school_enrollment_secondary_gross_pct,Education / USI,103.303871154785
+DEU,Germany,2015,SE.SEC.ENRR,"School enrollment, secondary (% gross)",school_enrollment_secondary_gross_pct,Education / USI,102.192413330078
+DEU,Germany,2016,SE.SEC.ENRR,"School enrollment, secondary (% gross)",school_enrollment_secondary_gross_pct,Education / USI,100.852310180664
+DEU,Germany,2017,SE.SEC.ENRR,"School enrollment, secondary (% gross)",school_enrollment_secondary_gross_pct,Education / USI,101.095642089844
+DEU,Germany,2018,SE.SEC.ENRR,"School enrollment, secondary (% gross)",school_enrollment_secondary_gross_pct,Education / USI,100.837303161621
+DEU,Germany,2019,SE.SEC.ENRR,"School enrollment, secondary (% gross)",school_enrollment_secondary_gross_pct,Education / USI,101.152557373047
+DEU,Germany,2020,SE.SEC.ENRR,"School enrollment, secondary (% gross)",school_enrollment_secondary_gross_pct,Education / USI,101.307800292969
+ISR,Israel,2010,SE.SEC.ENRR,"School enrollment, secondary (% gross)",school_enrollment_secondary_gross_pct,Education / USI,97.8008117675781
+ISR,Israel,2011,SE.SEC.ENRR,"School enrollment, secondary (% gross)",school_enrollment_secondary_gross_pct,Education / USI,98.0884170532227
+ISR,Israel,2012,SE.SEC.ENRR,"School enrollment, secondary (% gross)",school_enrollment_secondary_gross_pct,Education / USI,98.0721435546875
+ISR,Israel,2013,SE.SEC.ENRR,"School enrollment, secondary (% gross)",school_enrollment_secondary_gross_pct,Education / USI,98.7666168212891
+ISR,Israel,2014,SE.SEC.ENRR,"School enrollment, secondary (% gross)",school_enrollment_secondary_gross_pct,Education / USI,98.5257034301758
+ISR,Israel,2015,SE.SEC.ENRR,"School enrollment, secondary (% gross)",school_enrollment_secondary_gross_pct,Education / USI,98.464973449707
+ISR,Israel,2016,SE.SEC.ENRR,"School enrollment, secondary (% gross)",school_enrollment_secondary_gross_pct,Education / USI,99.2754516601562
+ISR,Israel,2017,SE.SEC.ENRR,"School enrollment, secondary (% gross)",school_enrollment_secondary_gross_pct,Education / USI,98.0842971801758
+ISR,Israel,2018,SE.SEC.ENRR,"School enrollment, secondary (% gross)",school_enrollment_secondary_gross_pct,Education / USI,98.327278137207
+ISR,Israel,2019,SE.SEC.ENRR,"School enrollment, secondary (% gross)",school_enrollment_secondary_gross_pct,Education / USI,97.8852386474609
+ISR,Israel,2020,SE.SEC.ENRR,"School enrollment, secondary (% gross)",school_enrollment_secondary_gross_pct,Education / USI,98.0958404541016
+JPN,Japan,2010,SE.SEC.ENRR,"School enrollment, secondary (% gross)",school_enrollment_secondary_gross_pct,Education / USI,
+JPN,Japan,2011,SE.SEC.ENRR,"School enrollment, secondary (% gross)",school_enrollment_secondary_gross_pct,Education / USI,
+JPN,Japan,2012,SE.SEC.ENRR,"School enrollment, secondary (% gross)",school_enrollment_secondary_gross_pct,Education / USI,
+JPN,Japan,2013,SE.SEC.ENRR,"School enrollment, secondary (% gross)",school_enrollment_secondary_gross_pct,Education / USI,101.049438476562
+JPN,Japan,2014,SE.SEC.ENRR,"School enrollment, secondary (% gross)",school_enrollment_secondary_gross_pct,Education / USI,101.036422729492
+JPN,Japan,2015,SE.SEC.ENRR,"School enrollment, secondary (% gross)",school_enrollment_secondary_gross_pct,Education / USI,101.724517822266
+JPN,Japan,2016,SE.SEC.ENRR,"School enrollment, secondary (% gross)",school_enrollment_secondary_gross_pct,Education / USI,101.296928405762
+JPN,Japan,2017,SE.SEC.ENRR,"School enrollment, secondary (% gross)",school_enrollment_secondary_gross_pct,Education / USI,100.260749816895
+JPN,Japan,2018,SE.SEC.ENRR,"School enrollment, secondary (% gross)",school_enrollment_secondary_gross_pct,Education / USI,100.482200622559
+JPN,Japan,2019,SE.SEC.ENRR,"School enrollment, secondary (% gross)",school_enrollment_secondary_gross_pct,Education / USI,100.660270690918
+JPN,Japan,2020,SE.SEC.ENRR,"School enrollment, secondary (% gross)",school_enrollment_secondary_gross_pct,Education / USI,101.34056854248
+KOR,"Korea, Rep.",2010,SE.SEC.ENRR,"School enrollment, secondary (% gross)",school_enrollment_secondary_gross_pct,Education / USI,97.2930603027344
+KOR,"Korea, Rep.",2011,SE.SEC.ENRR,"School enrollment, secondary (% gross)",school_enrollment_secondary_gross_pct,Education / USI,97.5294189453125
+KOR,"Korea, Rep.",2012,SE.SEC.ENRR,"School enrollment, secondary (% gross)",school_enrollment_secondary_gross_pct,Education / USI,97.3674163818359
+KOR,"Korea, Rep.",2013,SE.SEC.ENRR,"School enrollment, secondary (% gross)",school_enrollment_secondary_gross_pct,Education / USI,97.8287506103516
+KOR,"Korea, Rep.",2014,SE.SEC.ENRR,"School enrollment, secondary (% gross)",school_enrollment_secondary_gross_pct,Education / USI,98.5806732177734
+KOR,"Korea, Rep.",2015,SE.SEC.ENRR,"School enrollment, secondary (% gross)",school_enrollment_secondary_gross_pct,Education / USI,98.5931930541992
+KOR,"Korea, Rep.",2016,SE.SEC.ENRR,"School enrollment, secondary (% gross)",school_enrollment_secondary_gross_pct,Education / USI,98.7179565429688
+KOR,"Korea, Rep.",2017,SE.SEC.ENRR,"School enrollment, secondary (% gross)",school_enrollment_secondary_gross_pct,Education / USI,99.105583190918
+KOR,"Korea, Rep.",2018,SE.SEC.ENRR,"School enrollment, secondary (% gross)",school_enrollment_secondary_gross_pct,Education / USI,99.3186569213867
+KOR,"Korea, Rep.",2019,SE.SEC.ENRR,"School enrollment, secondary (% gross)",school_enrollment_secondary_gross_pct,Education / USI,98.3813018798828
+KOR,"Korea, Rep.",2020,SE.SEC.ENRR,"School enrollment, secondary (% gross)",school_enrollment_secondary_gross_pct,Education / USI,97.0888214111328
+RUS,Russian Federation,2010,SE.SEC.ENRR,"School enrollment, secondary (% gross)",school_enrollment_secondary_gross_pct,Education / USI,
+RUS,Russian Federation,2011,SE.SEC.ENRR,"School enrollment, secondary (% gross)",school_enrollment_secondary_gross_pct,Education / USI,94.5758904929741
+RUS,Russian Federation,2012,SE.SEC.ENRR,"School enrollment, secondary (% gross)",school_enrollment_secondary_gross_pct,Education / USI,95.5384826756866
+RUS,Russian Federation,2013,SE.SEC.ENRR,"School enrollment, secondary (% gross)",school_enrollment_secondary_gross_pct,Education / USI,95.9993761959632
+RUS,Russian Federation,2014,SE.SEC.ENRR,"School enrollment, secondary (% gross)",school_enrollment_secondary_gross_pct,Education / USI,95.6056322692131
+RUS,Russian Federation,2015,SE.SEC.ENRR,"School enrollment, secondary (% gross)",school_enrollment_secondary_gross_pct,Education / USI,96.3292563031308
+RUS,Russian Federation,2016,SE.SEC.ENRR,"School enrollment, secondary (% gross)",school_enrollment_secondary_gross_pct,Education / USI,95.8434944997854
+RUS,Russian Federation,2017,SE.SEC.ENRR,"School enrollment, secondary (% gross)",school_enrollment_secondary_gross_pct,Education / USI,97.5206298303399
+RUS,Russian Federation,2018,SE.SEC.ENRR,"School enrollment, secondary (% gross)",school_enrollment_secondary_gross_pct,Education / USI,99.1831046517789
+RUS,Russian Federation,2019,SE.SEC.ENRR,"School enrollment, secondary (% gross)",school_enrollment_secondary_gross_pct,Education / USI,100.471744682473
+RUS,Russian Federation,2020,SE.SEC.ENRR,"School enrollment, secondary (% gross)",school_enrollment_secondary_gross_pct,Education / USI,91.5812884026933
+SAU,Saudi Arabia,2010,SE.SEC.ENRR,"School enrollment, secondary (% gross)",school_enrollment_secondary_gross_pct,Education / USI,
+SAU,Saudi Arabia,2011,SE.SEC.ENRR,"School enrollment, secondary (% gross)",school_enrollment_secondary_gross_pct,Education / USI,
+SAU,Saudi Arabia,2012,SE.SEC.ENRR,"School enrollment, secondary (% gross)",school_enrollment_secondary_gross_pct,Education / USI,
+SAU,Saudi Arabia,2013,SE.SEC.ENRR,"School enrollment, secondary (% gross)",school_enrollment_secondary_gross_pct,Education / USI,93.0168905157466
+SAU,Saudi Arabia,2014,SE.SEC.ENRR,"School enrollment, secondary (% gross)",school_enrollment_secondary_gross_pct,Education / USI,98.8496091524944
+SAU,Saudi Arabia,2015,SE.SEC.ENRR,"School enrollment, secondary (% gross)",school_enrollment_secondary_gross_pct,Education / USI,102.979200639837
+SAU,Saudi Arabia,2016,SE.SEC.ENRR,"School enrollment, secondary (% gross)",school_enrollment_secondary_gross_pct,Education / USI,105.491550199825
+SAU,Saudi Arabia,2017,SE.SEC.ENRR,"School enrollment, secondary (% gross)",school_enrollment_secondary_gross_pct,Education / USI,106.244903966787
+SAU,Saudi Arabia,2018,SE.SEC.ENRR,"School enrollment, secondary (% gross)",school_enrollment_secondary_gross_pct,Education / USI,106.376211565111
+SAU,Saudi Arabia,2019,SE.SEC.ENRR,"School enrollment, secondary (% gross)",school_enrollment_secondary_gross_pct,Education / USI,104.048257824894
+SAU,Saudi Arabia,2020,SE.SEC.ENRR,"School enrollment, secondary (% gross)",school_enrollment_secondary_gross_pct,Education / USI,104.411027399625
+GBR,United Kingdom,2010,SE.SEC.ENRR,"School enrollment, secondary (% gross)",school_enrollment_secondary_gross_pct,Education / USI,103.461151123047
+GBR,United Kingdom,2011,SE.SEC.ENRR,"School enrollment, secondary (% gross)",school_enrollment_secondary_gross_pct,Education / USI,94.1645202636719
+GBR,United Kingdom,2012,SE.SEC.ENRR,"School enrollment, secondary (% gross)",school_enrollment_secondary_gross_pct,Education / USI,92.5272903442383
+GBR,United Kingdom,2013,SE.SEC.ENRR,"School enrollment, secondary (% gross)",school_enrollment_secondary_gross_pct,Education / USI,126.064338684082
+GBR,United Kingdom,2014,SE.SEC.ENRR,"School enrollment, secondary (% gross)",school_enrollment_secondary_gross_pct,Education / USI,128.822494506836
+GBR,United Kingdom,2015,SE.SEC.ENRR,"School enrollment, secondary (% gross)",school_enrollment_secondary_gross_pct,Education / USI,126.110870361328
+GBR,United Kingdom,2016,SE.SEC.ENRR,"School enrollment, secondary (% gross)",school_enrollment_secondary_gross_pct,Education / USI,
+GBR,United Kingdom,2017,SE.SEC.ENRR,"School enrollment, secondary (% gross)",school_enrollment_secondary_gross_pct,Education / USI,125.62979888916
+GBR,United Kingdom,2018,SE.SEC.ENRR,"School enrollment, secondary (% gross)",school_enrollment_secondary_gross_pct,Education / USI,120.088279724121
+GBR,United Kingdom,2019,SE.SEC.ENRR,"School enrollment, secondary (% gross)",school_enrollment_secondary_gross_pct,Education / USI,117.156600952148
+GBR,United Kingdom,2020,SE.SEC.ENRR,"School enrollment, secondary (% gross)",school_enrollment_secondary_gross_pct,Education / USI,114.617248535156
+USA,United States,2010,SE.SEC.ENRR,"School enrollment, secondary (% gross)",school_enrollment_secondary_gross_pct,Education / USI,
+USA,United States,2011,SE.SEC.ENRR,"School enrollment, secondary (% gross)",school_enrollment_secondary_gross_pct,Education / USI,
+USA,United States,2012,SE.SEC.ENRR,"School enrollment, secondary (% gross)",school_enrollment_secondary_gross_pct,Education / USI,
+USA,United States,2013,SE.SEC.ENRR,"School enrollment, secondary (% gross)",school_enrollment_secondary_gross_pct,Education / USI,96.1864929199219
+USA,United States,2014,SE.SEC.ENRR,"School enrollment, secondary (% gross)",school_enrollment_secondary_gross_pct,Education / USI,96.9245376586914
+USA,United States,2015,SE.SEC.ENRR,"School enrollment, secondary (% gross)",school_enrollment_secondary_gross_pct,Education / USI,97.6525497436523
+USA,United States,2016,SE.SEC.ENRR,"School enrollment, secondary (% gross)",school_enrollment_secondary_gross_pct,Education / USI,98.7699279785156
+USA,United States,2017,SE.SEC.ENRR,"School enrollment, secondary (% gross)",school_enrollment_secondary_gross_pct,Education / USI,98.9523391723633
+USA,United States,2018,SE.SEC.ENRR,"School enrollment, secondary (% gross)",school_enrollment_secondary_gross_pct,Education / USI,99.2755813598633
+USA,United States,2019,SE.SEC.ENRR,"School enrollment, secondary (% gross)",school_enrollment_secondary_gross_pct,Education / USI,100.063430786133
+USA,United States,2020,SE.SEC.ENRR,"School enrollment, secondary (% gross)",school_enrollment_secondary_gross_pct,Education / USI,100.509819030762
